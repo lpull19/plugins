@@ -1,0 +1,24 @@
+gui_blacksmith_tools:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/blacksmith/blacksmith_tools
+  height: 256
+  ascent: 19
+  char: 
+gui_blacksmith_armor:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/blacksmith/blacksmith_armor
+  height: 256
+  ascent: 19
+  char: 
+gui_blacksmith_misc:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/blacksmith/blacksmith_misc
+  height: 256
+  ascent: 19
+  char: 
+gui_blacksmith_confirm:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/blacksmith/blacksmith_confirm
+  height: 256
+  ascent: 19
+  char: 

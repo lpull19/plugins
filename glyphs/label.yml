@@ -1,0 +1,201 @@
+lb_free:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/free
+  height: 7
+  ascent: 7
+  char: 
+lb_premium:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/premium
+  height: 7
+  ascent: 7
+  char: 
+lb_trade:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/trade
+  height: 7
+  ascent: 7
+  char: 
+lb_epic:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rarity/epic
+  height: 7
+  ascent: 7
+  char: 
+lb_legendary:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rarity/legendary
+  height: 7
+  ascent: 7
+  char: 
+lb_mythic:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rarity/mythic
+  height: 7
+  ascent: 7
+  char: 
+lb_crafted:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rarity/crafted
+  height: 7
+  ascent: 7
+  char: 
+lb_treasure:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rarity/treasure
+  height: 7
+  ascent: 7
+  char: 
+lb_shop:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/shop
+  height: 7
+  ascent: 7
+  char: 
+lb_joined:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/joined
+  height: 7
+  ascent: 6
+  char: 
+lb_afk:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/afk
+  height: 14
+  ascent: 10
+  char: 
+rank_default:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rank/rank_default
+  height: 7
+  ascent: 7
+  char: 
+rank_vip:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rank/rank_vip
+  height: 7
+  ascent: 7
+  char: 
+rank_mvp:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rank/rank_mvp
+  height: 7
+  ascent: 7
+  char: 
+rank_elite:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rank/rank_elite
+  height: 7
+  ascent: 7
+  char: 
+rank_mod:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rank/rank_mod
+  height: 7
+  ascent: 7
+  char: 
+rank_admin:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/rank/rank_admin
+  height: 7
+  ascent: 7
+  char: 
+lb_level_shift:
+  font: minecraft:default
+  texture: hyronic_skyblock/null_texture
+  height: -3
+  ascent: -32768
+  char: 
+lb_rank_shift:
+  font: minecraft:default
+  texture: hyronic_skyblock/null_texture
+  height: -3
+  ascent: -32768
+  char: 
+lb_lv:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/lv
+  height: 7
+  ascent: 7
+  char: 
+lb_0:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/0
+  height: 7
+  ascent: 7
+  char: 
+lb_1:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/1
+  height: 7
+  ascent: 7
+  char: 
+lb_2:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/2
+  height: 7
+  ascent: 7
+  char: 
+lb_3:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/3
+  height: 7
+  ascent: 7
+  char: 
+lb_4:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/4
+  height: 7
+  ascent: 7
+  char: 
+lb_5:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/5
+  height: 7
+  ascent: 7
+  char: 
+lb_6:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/6
+  height: 7
+  ascent: 7
+  char: 
+lb_7:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/7
+  height: 7
+  ascent: 7
+  char: 
+lb_8:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/8
+  height: 7
+  ascent: 7
+  char: 
+lb_9:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/number/9
+  height: 7
+  ascent: 7
+  char: 
+
+lb_enchant_common:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/enchant/common
+  char: 
+  height: 7
+  ascent: 7
+
+lb_enchant_rare:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/enchant/rare
+  char: 
+  height: 7
+  ascent: 7
+
+lb_enchant_epic:
+  font: minecraft:default
+  texture: hyronic_skyblock/label/enchant/epic
+  char: 
+  height: 7
+  ascent: 7

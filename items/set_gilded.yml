@@ -1,0 +1,289 @@
+gilded_netherite_helmet:
+  itemname: <white>Gilded Netherite Helmet
+  material: NETHERITE_HELMET
+  lore:
+  - ''
+  - '<#c8d6e5>Forged in gold and shadow,'
+  - <#c8d6e5>this helmet outshines even
+  - <#c8d6e5>the finest netherite.
+  AttributeModifiers:
+  - amount: 4.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: HEAD
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: HEAD
+  Enchantments:
+    protection: 4
+    unbreaking: 3
+    mending: 1
+  Pack:
+    texture: hyronic_skyblock/sets/gilded_netherite/gilded_netherite_helmet
+    custom_model_data: 1
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:gilded_netherite
+
+gilded_netherite_chestplate:
+  itemname: <white>Gilded Netherite Chestplate
+  material: NETHERITE_CHESTPLATE
+  lore:
+  - ''
+  - '<#c8d6e5>Gilded plating wraps a core'
+  - <#c8d6e5>tougher than netherite has
+  - <#c8d6e5>any right to be.
+  AttributeModifiers:
+  - amount: 9.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: CHEST
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: CHEST
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: CHEST
+  Enchantments:
+    protection: 4
+    unbreaking: 3
+    mending: 1
+  Pack:
+    texture: hyronic_skyblock/sets/gilded_netherite/gilded_netherite_chestplate
+    custom_model_data: 1
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:gilded_netherite
+
+gilded_netherite_leggings:
+  itemname: <white>Gilded Netherite Leggings
+  material: NETHERITE_LEGGINGS
+  lore:
+  - ''
+  - '<#c8d6e5>Every stitch of gold thread'
+  - <#c8d6e5>adds strength no ordinary
+  - <#c8d6e5>netherite could match.
+  AttributeModifiers:
+  - amount: 7.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: LEGS
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: LEGS
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: LEGS
+  Enchantments:
+    protection: 4
+    unbreaking: 3
+    mending: 1
+  Pack:
+    texture: hyronic_skyblock/sets/gilded_netherite/gilded_netherite_leggings
+    custom_model_data: 1
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:gilded_netherite
+
+gilded_netherite_boots:
+  itemname: <white>Gilded Netherite Boots
+  material: NETHERITE_BOOTS
+  lore:
+  - ''
+  - '<#c8d6e5>Gold-trimmed and battle-worn,'
+  - <#c8d6e5>these boots carry a weight
+  - <#c8d6e5>beyond netherite alone.
+  AttributeModifiers:
+  - amount: 4.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: FEET
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: FEET
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: FEET
+  Enchantments:
+    protection: 4
+    unbreaking: 3
+    mending: 1
+  Pack:
+    texture: hyronic_skyblock/sets/gilded_netherite/gilded_netherite_boots
+    custom_model_data: 1
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:gilded_netherite
+
+gilded_netherite_pickaxe:
+  itemname: <white>Gilded Netherite Pickaxe
+  material: NETHERITE_PICKAXE
+  lore:
+  - ''
+  - '<#c8d6e5>Its gilded edge cuts through'
+  - <#c8d6e5>stone as if netherite
+  - <#c8d6e5>were merely a starting point.
+  AttributeModifiers:
+  - amount: 7.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 1.6
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Enchantments:
+    efficiency: 5
+    unbreaking: 3
+    mending: 1
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/gilded_netherite/gilded_netherite_pickaxe
+    custom_model_data: 1
+
+gilded_netherite_sword:
+  itemname: <white>Gilded Netherite Sword
+  material: NETHERITE_SWORD
+  lore:
+  - ''
+  - '<#c8d6e5>A blade gilded in gold,'
+  - <#c8d6e5>sharpened past what
+  - <#c8d6e5>netherite alone allows.
+  AttributeModifiers:
+  - amount: 9.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 2.0
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Enchantments:
+    sharpness: 5
+    unbreaking: 3
+    mending: 1
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/gilded_netherite/gilded_netherite_sword
+    custom_model_data: 1
+
+gilded_netherite_shovel:
+  itemname: <white>Gilded Netherite Shovel
+  material: NETHERITE_SHOVEL
+  lore:
+  - ''
+  - '<#c8d6e5>Gilded and durable, it digs'
+  - <#c8d6e5>deeper and lasts longer
+  - <#c8d6e5>than plain netherite ever could.
+  AttributeModifiers:
+  - amount: 7.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 1.6
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Enchantments:
+    efficiency: 5
+    unbreaking: 3
+    mending: 1
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/gilded_netherite/gilded_netherite_shovel
+    custom_model_data: 1
+
+gilded_netherite_axe:
+  itemname: <white>Gilded Netherite Axe
+  material: NETHERITE_AXE
+  lore:
+  - ''
+  - '<#c8d6e5>Heavy, gilded, and merciless,'
+  - <#c8d6e5>this axe hits with force
+  - <#c8d6e5>netherite could never muster.
+
+  AttributeModifiers:
+  - amount: 11.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 1.6
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Enchantments:
+    efficiency: 5
+    unbreaking: 3
+    mending: 1
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/gilded_netherite/gilded_netherite_axe
+    custom_model_data: 1
+
+gilded_netherite_hoe:
+  itemname: <white>Gilded Netherite Hoe
+  material: NETHERITE_HOE
+  lore:
+  - ''
+  - '<#c8d6e5>Gilded down to the last rivet,'
+  - <#c8d6e5>this hoe works fields
+  - <#c8d6e5>no netherite tool could farm.
+  AttributeModifiers:
+  - amount: 2.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 5.0
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Enchantments:
+    efficiency: 5
+    unbreaking: 3
+    mending: 1
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/gilded_netherite/gilded_netherite_hoe
+    custom_model_data: 1
+
+gilded_netherite_bow:
+  itemname: <white>Gilded Netherite Bow
+  material: BOW
+  lore:
+  - ''
+  - '<#c8d6e5>Strung with gilded wire,'
+  - <#c8d6e5>this bow outperforms anything
+  - <#c8d6e5>netherite alone could offer.
+  AttributeModifiers:
+  - amount: 2.0
+    attribute: ATTACK_KNOCKBACK
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Enchantments:
+    power: 5
+    flame: 1
+    punch: 2
+    unbreaking: 3
+    mending: 1
+  Pack:
+    texture: hyronic_skyblock/sets/gilded_netherite/gilded_netherite_bow
+    custom_model_data: 198
+    pulling_textures:
+    - hyronic_skyblock/sets/gilded_netherite/gilded_netherite_bow_0
+    - hyronic_skyblock/sets/gilded_netherite/gilded_netherite_bow_1
+    - hyronic_skyblock/sets/gilded_netherite/gilded_netherite_bow_2

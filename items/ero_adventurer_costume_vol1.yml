@@ -1,0 +1,338 @@
+ero_adventurer_costume_vol1_black_market_book_offhand:
+  Pack:
+    model: ero_adventurer_costume_vol1:black_market_book_offhand
+  color: 251, 172, 68
+  itemname: <white>Adventurer Black Market Book Hat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.black_market_book_offhand
+ero_adventurer_costume_vol1_gatherer_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_adventurer_costume_vol1:gatherer_hat
+  color: 220, 11, 11
+  itemname: <white>Adventurer Gatherer Hat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.gatherer_hat
+ero_adventurer_costume_vol1_treasure_hunter_golden_skull_offhand:
+  Pack:
+    model: ero_adventurer_costume_vol1:treasure_hunter_golden_skull_offhand
+  color: 215, 116, 0
+  itemname: <white>Adventurer Treasure Hunter Golden Skull
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.treasure_hunter_golden_skull_offhand
+ero_adventurer_costume_vol1_black_market_backpack:
+  Pack:
+    model: ero_adventurer_costume_vol1:black_market_backpack
+  color: 251, 172, 68
+  itemname: <white>Adventurer Black Market Backpack
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.black_market_backpack
+ero_adventurer_costume_vol1_black_market_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_adventurer_costume_vol1:black_market_hat
+  color: 251, 172, 68
+  itemname: <white>Adventurer Black Market Hat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.black_market_hat
+ero_adventurer_costume_vol1_gatherer_backpack:
+  Pack:
+    model: ero_adventurer_costume_vol1:gatherer_backpack
+  color: 164, 102, 53
+  itemname: <white>Adventurer Gatherer Backpack
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.gatherer_backpack
+ero_adventurer_costume_vol1_gatherer_offhand:
+  Pack:
+    model: ero_adventurer_costume_vol1:gatherer_offhand
+  color: 80, 255, 240
+  itemname: <white>Adventurer Gatherer Hand
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.gatherer_offhand
+ero_adventurer_costume_vol1_hunter_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_adventurer_costume_vol1:hunter_hat
+  color: 13, 223, 255
+  itemname: <white>Adventurer Hunter Hat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.hunter_hat
+ero_adventurer_costume_vol1_hunter_rat_offhand:
+  Pack:
+    model: ero_adventurer_costume_vol1:hunter_rat_offhand
+  color: 13, 223, 255
+  itemname: <white>Adventurer Hunter Rat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.hunter_rat_offhand
+ero_adventurer_costume_vol1_hunter_shawl_backpack:
+  Pack:
+    model: ero_adventurer_costume_vol1:hunter_shawl_backpack
+  color: 13, 223, 255
+  itemname: <white>Adventurer Hunter Shawl Backpack
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.hunter_shawl_backpack
+ero_adventurer_costume_vol1_treasure_hunter_backpack:
+  Pack:
+    model: ero_adventurer_costume_vol1:treasure_hunter_backpack
+  color: 198, 116, 44
+  itemname: <white>Adventurer Treasure Hunter Backpack
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.treasure_hunter_backpack
+ero_adventurer_costume_vol1_treasure_hunter_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_adventurer_costume_vol1:treasure_hunter_hat
+  color: 246, 214, 171
+  itemname: <white>Adventurer Treasure Hunter Hat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.treasure_hunter_hat
+ero_adventurer_costume_chest:
+  Mechanics:
+    furniture:
+      barrier: false
+      drop:
+        loots:
+        - nexo_item: ero_adventurer_costume_chest
+        silktouch: false
+      limited_placing:
+        floor: true
+        roof: false
+        type: DENY
+        wall: false
+  Pack:
+    model: ero_adventurer_costume_vol1:chest
+  itemname: <white>Chest
+  material: PAPER
+  permission: ero_adventurer_costume.chest
+ero_adventurer_costume_key:
+  Pack:
+    model: ero_adventurer_costume_vol1:key
+  itemname: <white>Key
+  material: PAPER
+  permission: ero_adventurer_costume.key
+ero_adventurer_costume_vol1_black_market_book_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888375
+    model: ero_adventurer_costume_vol1:black_market_book_offhand
+  color: 251, 172, 68
+  itemname: <white>Adventurer Black Market Book Hat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.black_market_book_offhand
+ero_adventurer_costume_vol1_cosmetics_black_market_backpack:
+  Pack:
+    custom_model_data: 9925349
+    model: ero_adventurer_costume_vol1:black_market_backpack_cosmetic
+  color: 251, 172, 68
+  itemname: <white>Adventurer Black Market Backpack Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_black_market_backpack
+ero_adventurer_costume_vol1_cosmetics_black_market_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925352
+    model: ero_adventurer_costume_vol1:black_market_backpack_cosmetic_normal_2
+  color: 251, 172, 68
+  itemname: <white>Adventurer Black Market Backpack Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_black_market_backpack_normal_2
+ero_adventurer_costume_vol1_cosmetics_black_market_backpack_self:
+  Pack:
+    custom_model_data: 9925350
+    model: ero_adventurer_costume_vol1:black_market_backpack_cosmetic_self
+  color: 251, 172, 68
+  itemname: <white>Adventurer Black Market Backpack Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_black_market_backpack_self
+ero_adventurer_costume_vol1_cosmetics_black_market_backpack_self_2:
+  Pack:
+    custom_model_data: 9925351
+    model: ero_adventurer_costume_vol1:black_market_backpack_cosmetic_self_2
+  color: 251, 172, 68
+  itemname: <white>Adventurer Black Market Backpack Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_black_market_backpack_self_2
+ero_adventurer_costume_vol1_cosmetics_black_market_hat:
+  Pack:
+    custom_model_data: 9925354
+    model: ero_adventurer_costume_vol1:black_market_hat
+  color: 251, 172, 68
+  itemname: <white>Adventurer Black Market Hat Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_black_market_hat
+ero_adventurer_costume_vol1_cosmetics_gatherer_backpack:
+  Pack:
+    custom_model_data: 9925355
+    model: ero_adventurer_costume_vol1:gatherer_backpack_cosmetic
+  color: 164, 102, 53
+  itemname: <white>Adventurer Gatherer Backpack Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_gatherer_backpack
+ero_adventurer_costume_vol1_cosmetics_gatherer_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925358
+    model: ero_adventurer_costume_vol1:gatherer_backpack_cosmetic_normal_2
+  color: 164, 102, 53
+  itemname: <white>Adventurer Gatherer Backpack Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_gatherer_backpack_normal_2
+ero_adventurer_costume_vol1_cosmetics_gatherer_backpack_self:
+  Pack:
+    custom_model_data: 9925356
+    model: ero_adventurer_costume_vol1:gatherer_backpack_cosmetic_self
+  color: 164, 102, 53
+  itemname: <white>Adventurer Gatherer Backpack Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_gatherer_backpack_self
+ero_adventurer_costume_vol1_cosmetics_gatherer_backpack_self_2:
+  Pack:
+    custom_model_data: 9925357
+    model: ero_adventurer_costume_vol1:gatherer_backpack_cosmetic_self_2
+  color: 164, 102, 53
+  itemname: <white>Adventurer Gatherer Backpack Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_gatherer_backpack_self_2
+ero_adventurer_costume_vol1_cosmetics_gatherer_hat:
+  Pack:
+    custom_model_data: 9925359
+    model: ero_adventurer_costume_vol1:gatherer_hat
+  color: 220, 11, 11
+  itemname: <white>Adventurer Gatherer Hat Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_gatherer_hat
+ero_adventurer_costume_vol1_cosmetics_hunter_hat:
+  Pack:
+    custom_model_data: 9925360
+    model: ero_adventurer_costume_vol1:hunter_hat
+  color: 13, 223, 255
+  itemname: <white>Adventurer Hunter Hat Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_hunter_hat
+ero_adventurer_costume_vol1_cosmetics_hunter_shawl_backpack:
+  Pack:
+    custom_model_data: 9925361
+    model: ero_adventurer_costume_vol1:hunter_shawl_backpack_cosmetic
+  color: 13, 223, 255
+  itemname: <white>Adventurer Hunter Shawl Backpack Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_hunter_shawl_backpack
+ero_adventurer_costume_vol1_cosmetics_hunter_shawl_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925364
+    model: ero_adventurer_costume_vol1:hunter_shawl_backpack_cosmetic_normal_2
+  color: 13, 223, 255
+  itemname: <white>Adventurer Hunter Shawl Backpack Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_hunter_shawl_backpack_normal_2
+ero_adventurer_costume_vol1_cosmetics_hunter_shawl_backpack_self:
+  Pack:
+    custom_model_data: 9925362
+    model: ero_adventurer_costume_vol1:hunter_shawl_backpack_cosmetic_self
+  color: 13, 223, 255
+  itemname: <white>Adventurer Hunter Shawl Backpack Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_hunter_shawl_backpack_self
+ero_adventurer_costume_vol1_cosmetics_hunter_shawl_backpack_self_2:
+  Pack:
+    custom_model_data: 9925363
+    model: ero_adventurer_costume_vol1:hunter_shawl_backpack_cosmetic_self_2
+  color: 13, 223, 255
+  itemname: <white>Adventurer Hunter Shawl Backpack Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_hunter_shawl_backpack_self_2
+ero_adventurer_costume_vol1_cosmetics_treasure_hunter_backpack:
+  Pack:
+    custom_model_data: 9925365
+    model: ero_adventurer_costume_vol1:treasure_hunter_backpack_cosmetic
+  color: 198, 116, 44
+  itemname: <white>Adventurer Treasure Hunter Backpack Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_treasure_hunter_backpack
+ero_adventurer_costume_vol1_cosmetics_treasure_hunter_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925368
+    model: ero_adventurer_costume_vol1:treasure_hunter_backpack_cosmetic_normal_2
+  color: 198, 116, 44
+  itemname: <white>Adventurer Treasure Hunter Backpack Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_treasure_hunter_backpack_normal_2
+ero_adventurer_costume_vol1_cosmetics_treasure_hunter_backpack_self:
+  Pack:
+    custom_model_data: 9925366
+    model: ero_adventurer_costume_vol1:treasure_hunter_backpack_cosmetic_self
+  color: 198, 116, 44
+  itemname: <white>Adventurer Treasure Hunter Backpack Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_treasure_hunter_backpack_self
+ero_adventurer_costume_vol1_cosmetics_treasure_hunter_backpack_self_2:
+  Pack:
+    custom_model_data: 9925367
+    model: ero_adventurer_costume_vol1:treasure_hunter_backpack_cosmetic_self_2
+  color: 198, 116, 44
+  itemname: <white>Adventurer Treasure Hunter Backpack Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_treasure_hunter_backpack_self_2
+ero_adventurer_costume_vol1_cosmetics_treasure_hunter_hat:
+  Pack:
+    custom_model_data: 9925370
+    model: ero_adventurer_costume_vol1:treasure_hunter_hat
+  color: 246, 214, 171
+  itemname: <white>Adventurer Treasure Hunter Hat Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.ero_adventurer_costume_vol1_cosmetics_treasure_hunter_hat
+ero_adventurer_costume_vol1_gatherer_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888376
+    model: ero_adventurer_costume_vol1:gatherer_offhand
+  color: 80, 255, 240
+  itemname: <white>Adventurer Gatherer Hand
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.gatherer_offhand
+ero_adventurer_costume_vol1_hunter_rat_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888377
+    model: ero_adventurer_costume_vol1:hunter_rat_offhand
+  color: 13, 223, 255
+  itemname: <white>Adventurer Hunter Rat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.hunter_rat_offhand
+ero_adventurer_costume_vol1_treasure_hunter_golden_skull_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888378
+    model: ero_adventurer_costume_vol1:treasure_hunter_golden_skull_offhand
+  color: 215, 116, 0
+  itemname: <white>Adventurer Treasure Hunter Golden Skull
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_adventurer_costume_vol1.treasure_hunter_golden_skull_offhand
+
+# UkZ3AHatU0SwVVdoFVefJDNSNDZXZ1aWFnRHJGas1mVGJVbWdnahxWaFRHZWdnahxWaFJnc

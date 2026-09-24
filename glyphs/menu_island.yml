@@ -1,0 +1,108 @@
+gui_island_creation:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_creation
+  height: 256
+  ascent: 19
+  char: 
+gui_island_disband:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_disband_confirm
+  height: 256
+  ascent: 19
+  char: 
+gui_island_manager:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_manager
+  height: 256
+  ascent: 19
+  char: 
+gui_island_bank:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_bank
+  height: 256
+  ascent: 19
+  char: 
+gui_island_bank_log:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_bank_log
+  height: 256
+  ascent: 19
+  char: 
+gui_island_permissions:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_permission
+  height: 256
+  ascent: 19
+  char: 
+gui_island_settings:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_settings
+  height: 256
+  ascent: 19
+  char: 
+gui_island_top:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_top
+  height: 256
+  ascent: 19
+  char: 
+gui_island_warps:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_warps
+  height: 256
+  ascent: 19
+  char: 
+gui_island_warps_edit:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_warps_edit
+  height: 256
+  ascent: 19
+  char: 
+gui_island_members:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_members
+  height: 256
+  ascent: 19
+  char: 
+gui_island_coops:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_coops
+  height: 256
+  ascent: 19
+  char: 
+gui_island_visitors:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_visitors
+  height: 256
+  ascent: 19
+  char: 
+gui_island_members_edit:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_members_edit
+  height: 256
+  ascent: 19
+  char: 
+gui_island_members_role:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_members_role
+  height: 256
+  ascent: 19
+  char: 
+gui_island_upgrades:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/island/island_upgrades
+  height: 256
+  ascent: 19
+  char: 
+gui_arcade:
+  font: minecraft:default
+  texture: gui/arcade
+  height: 256
+  ascent: 19
+  char: ꖣ
+gui_cosmetic_main:
+  font: minecraft:default
+  texture: gui/cosmetics
+  height: 256
+  ascent: 19
+  char: ꖤ

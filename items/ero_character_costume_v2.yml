@@ -1,0 +1,275 @@
+ero_character_costume_v2_headlamp_helmet:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926657
+    model: ero_character_costume_v2:headlamp_helmet_hat
+  itemname: <white>Headlamp Helmet
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.headlamp_helmet
+ero_character_costume_v2_cosmetics_headlamp_helmet:
+  Pack:
+    custom_model_data: 9925617
+    model: ero_character_costume_v2:headlamp_helmet_hat
+  itemname: <white>Headlamp Helmet Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_headlamp_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: minecraft:leather
+      allowed_entity_types:
+      - HORSE
+      - ZOMBIE_HORSE
+ero_character_costume_v2_chest:
+  Mechanics:
+    furniture:
+      barrier: false
+      drop:
+        loots:
+        - nexo_item: ero_character_costume_v2_chest
+        silktouch: false
+      limited_placing:
+        floor: true
+        roof: false
+        type: DENY
+        wall: false
+  Pack:
+    custom_model_data: 9926639
+    model: ero_character_costume_v2:chest
+  itemname: <white>Chest
+  material: PAPER
+  permission: ero_character_costume_v2.chest
+ero_character_costume_v2_key:
+  Pack:
+    custom_model_data: 9926643
+    model: ero_character_costume_v2:key
+  itemname: <white>Key
+  material: PAPER
+  permission: ero_character_costume_v2.key
+ero_character_costume_v2_butcher:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926653
+    model: ero_character_costume_v2:butcher_hat
+  itemname: <white>Butcher
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.butcher
+ero_character_costume_v2_chopping_knife_offhand:
+  Pack:
+    custom_model_data: 9926654
+    model: ero_character_costume_v2:chopping_knife_offhand
+  itemname: <white>Chopping Knife Offhand
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.chopping_knife_offhand
+ero_character_costume_v2_fish_basket:
+  Pack:
+    custom_model_data: 9926655
+    model: ero_character_costume_v2:fish_basket_backpack
+  itemname: <white>Fish Basket
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.fish_basket
+ero_character_costume_v2_fish_fishing_rod_offhand:
+  Pack:
+    custom_model_data: 9926656
+    model: ero_character_costume_v2:fish_fishing_rod_offhand
+  itemname: <white>Fish Fishing Rod Offhand
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.fish_fishing_rod_offhand
+ero_character_costume_v2_lantern_pickaxe_offhand:
+  Pack:
+    custom_model_data: 9926658
+    model: ero_character_costume_v2:lantern_pickaxe_offhand
+  itemname: <white>Lantern Pickaxe Offhand
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.lantern_pickaxe_offhand
+ero_character_costume_v2_meat:
+  Pack:
+    custom_model_data: 9926644
+    model: ero_character_costume_v2:meat_backpack
+  itemname: <white>Meat
+  material: PAPER
+  permission: ero_character_costume_v2.meat
+ero_character_costume_v2_mining_backpack:
+  Pack:
+    custom_model_data: 9926659
+    model: ero_character_costume_v2:mining_backpack_backpack
+  itemname: <white>Mining Backpack
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.mining_backpack
+ero_character_costume_v2_puffer_fish:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926660
+    model: ero_character_costume_v2:puffer_fish_hat
+  itemname: <white>Puffer Fish
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.puffer_fish
+ero_character_costume_v2_chopping_knife_offhand_cosmetic:
+  Pack:
+    custom_model_data: 9926650
+    model: ero_character_costume_v2:chopping_knife_offhand
+  itemname: <white>Chopping Knife Offhand
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.chopping_knife_offhand
+ero_character_costume_v2_cosmetics_butcher:
+  Pack:
+    custom_model_data: 9925610
+    model: ero_character_costume_v2:butcher_hat
+  itemname: <white>Butcher Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_butcher
+ero_character_costume_v2_cosmetics_fish_basket_backpack:
+  Pack:
+    custom_model_data: 9925612
+    model: ero_character_costume_v2:fish_basket_backpack_cosmetic
+  itemname: <white>Fish Basket Backpack Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_fish_basket_backpack
+ero_character_costume_v2_cosmetics_fish_basket_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925615
+    model: ero_character_costume_v2:fish_basket_backpack_cosmetic_normal_2
+  itemname: <white>Fish Basket Backpack Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_fish_basket_backpack_normal_2
+ero_character_costume_v2_cosmetics_fish_basket_backpack_self:
+  Pack:
+    custom_model_data: 9925613
+    model: ero_character_costume_v2:fish_basket_backpack_cosmetic_self
+  itemname: <white>Fish Basket Backpack Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_fish_basket_backpack_self
+ero_character_costume_v2_cosmetics_fish_basket_backpack_self_2:
+  Pack:
+    custom_model_data: 9925614
+    model: ero_character_costume_v2:fish_basket_backpack_cosmetic_self_2
+  itemname: <white>Fish Basket Backpack Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_fish_basket_backpack_self_2
+ero_character_costume_v2_cosmetics_fish_fishing_rod_offhand:
+  Pack:
+    custom_model_data: 9925616
+    model: ero_character_costume_v2:fish_fishing_rod_offhand
+  itemname: <white>Fish Fishing Rod Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_fish_fishing_rod
+ero_character_costume_v2_cosmetics_lantern_pickaxe_offhand:
+  Pack:
+    custom_model_data: 9925618
+    model: ero_character_costume_v2:lantern_pickaxe_offhand
+  itemname: <white>Lantern Pickaxe Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_lantern_pickaxe
+ero_character_costume_v2_cosmetics_meat_backpack:
+  Pack:
+    custom_model_data: 9925568
+    model: ero_character_costume_v2:meat_backpack_cosmetic
+  customname: <white>Meat Backpack Cosmetics
+  material: POTION
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_meat_backpack
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_character_costume_v2_cosmetics_meat_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925571
+    model: ero_character_costume_v2:meat_backpack_cosmetic_normal_2
+  customname: <white>Meat Backpack Cosmetics Normal 2
+  material: POTION
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_meat_backpack_normal_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_character_costume_v2_cosmetics_meat_backpack_self:
+  Pack:
+    custom_model_data: 9925569
+    model: ero_character_costume_v2:meat_backpack_cosmetic_self
+  customname: <white>Meat Backpack Cosmetics Self
+  material: POTION
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_meat_backpack_self
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_character_costume_v2_cosmetics_meat_backpack_self_2:
+  Pack:
+    custom_model_data: 9925570
+    model: ero_character_costume_v2:meat_backpack_cosmetic_self_2
+  customname: <white>Meat Backpack Cosmetics Self 2
+  material: POTION
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_meat_backpack_self_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_character_costume_v2_cosmetics_mining_backpack_backpack:
+  Pack:
+    custom_model_data: 9925619
+    model: ero_character_costume_v2:mining_backpack_backpack_cosmetic
+  itemname: <white>Mining Backpack Backpack Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_mining_backpack_backpack
+ero_character_costume_v2_cosmetics_mining_backpack_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925622
+    model: ero_character_costume_v2:mining_backpack_backpack_cosmetic_normal_2
+  itemname: <white>Mining Backpack Backpack Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_mining_backpack_backpack_normal_2
+ero_character_costume_v2_cosmetics_mining_backpack_backpack_self:
+  Pack:
+    custom_model_data: 9925620
+    model: ero_character_costume_v2:mining_backpack_backpack_cosmetic_self
+  itemname: <white>Mining Backpack Backpack Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_mining_backpack_backpack_self
+ero_character_costume_v2_cosmetics_mining_backpack_backpack_self_2:
+  Pack:
+    custom_model_data: 9925621
+    model: ero_character_costume_v2:mining_backpack_backpack_cosmetic_self_2
+  itemname: <white>Mining Backpack Backpack Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_mining_backpack_backpack_self_2
+ero_character_costume_v2_cosmetics_puffer_fish:
+  Pack:
+    custom_model_data: 9925623
+    model: ero_character_costume_v2:puffer_fish_hat
+  itemname: <white>Puffer Fish Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.ero_character_costume_v2_cosmetics_puffer_fish
+ero_character_costume_v2_fish_fishing_rod_offhand_cosmetic:
+  Pack:
+    custom_model_data: 9926651
+    model: ero_character_costume_v2:fish_fishing_rod_offhand
+  itemname: <white>Fish Fishing Rod Offhand
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.fish_fishing_rod_offhand
+ero_character_costume_v2_lantern_pickaxe_offhand_cosmetic:
+  Pack:
+    custom_model_data: 9926652
+    model: ero_character_costume_v2:lantern_pickaxe_offhand
+  itemname: <white>Lantern Pickaxe Offhand
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_character_costume_v2.lantern_pickaxe_offhand

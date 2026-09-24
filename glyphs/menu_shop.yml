@@ -1,0 +1,30 @@
+gui_shop:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/shop/shop
+  height: 256
+  ascent: 19
+  char: 
+gui_shop_tip:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/shop/shop_tip
+  height: 256
+  ascent: 19
+  char: 
+gui_shop_both:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/shop/shop_both
+  height: 256
+  ascent: 19
+  char: 
+gui_shop_buy:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/shop/shop_buy
+  height: 256
+  ascent: 19
+  char: 
+gui_shop_sell:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/shop/shop_sell
+  height: 256
+  ascent: 19
+  char: 

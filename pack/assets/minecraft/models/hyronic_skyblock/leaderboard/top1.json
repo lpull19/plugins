@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builtin/entity",
+	"textures": {
+		"particle": "block/soul_sand"
+	},
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0, 29.3, 0],
+			"scale": [3.4, 3.4, 3.4]
+		}
+	}
+}

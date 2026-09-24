@@ -1,0 +1,328 @@
+ero_vehicle_costume_drinking_helmet:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926487
+    model: ero_vehicle_costume:drinking_helmet
+  itemname: <white>Vehicle Costume Drinking Helmet
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.drinking_helmet
+ero_vehicle_costume_pink_helmet:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926489
+    model: ero_vehicle_costume:pink_helmet
+  itemname: <white>Vehicle Costume Pink Helmet
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.pink_helmet
+ero_vehicle_costume_cosmetics_drinking_helmet:
+  Pack:
+    custom_model_data: 9925495
+    model: ero_vehicle_costume:drinking_helmet
+  itemname: <white>Vehicle Costume Helmet Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_drinking_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: minecraft:leather
+      allowed_entity_types:
+      - HORSE
+      - ZOMBIE_HORSE
+ero_vehicle_costume_cosmetics_pink_helmet:
+  Pack:
+    custom_model_data: 9925500
+    model: ero_vehicle_costume:pink_helmet
+  itemname: <white>Vehicle Costume Helmet Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_pink_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: minecraft:leather
+      allowed_entity_types:
+      - HORSE
+      - ZOMBIE_HORSE
+ero_vehicle_costume_bus_driver_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926482
+    model: ero_vehicle_costume:bus_driver_hat
+  itemname: <white>Vehicle Costume Bus Driver Hat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.bus_driver_hat
+ero_vehicle_costume_umbrella_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926491
+    model: ero_vehicle_costume:umbrella_hat
+  itemname: <white>Vehicle Costume Umbrella Hat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.umbrella_hat
+ero_vehicle_costume_bus_backpack:
+  Pack:
+    custom_model_data: 9926481
+    model: ero_vehicle_costume:bus_backpack
+  itemname: <white>Vehicle Costume Bus Backpack
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.bus_backpack
+ero_vehicle_costume_bus_stop_balloon:
+  Pack:
+    custom_model_data: 9926483
+    model: ero_vehicle_costume:bus_stop_balloon
+  itemname: <white>Vehicle Costume Bus Stop Balloon
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.bus_stop_balloon
+ero_vehicle_costume_can_balloon:
+  Pack:
+    custom_model_data: 9926484
+    model: ero_vehicle_costume:can_balloon
+  itemname: <white>Vehicle Costume Can Balloon
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.can_balloon
+ero_vehicle_costume_car_backpack:
+  Pack:
+    custom_model_data: 9926485
+    model: ero_vehicle_costume:car_backpack
+  itemname: <white>Vehicle Costume Car Backpack
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.car_backpack
+ero_vehicle_costume_cloud_balloon:
+  Pack:
+    custom_model_data: 9926486
+    model: ero_vehicle_costume:cloud_balloon
+  itemname: <white>Vehicle Costume Cloud Balloon
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.cloud_balloon
+ero_vehicle_costume_motorcycle_backpack:
+  Pack:
+    custom_model_data: 9926488
+    model: ero_vehicle_costume:motorcycle_backpack
+  itemname: <white>Vehicle Costume Motorcycle Backpack
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.motorcycle_backpack
+ero_vehicle_costume_sunflower_balloon:
+  Pack:
+    custom_model_data: 9926490
+    model: ero_vehicle_costume:sunflower_balloon
+  itemname: <white>Vehicle Costume Sunflower Balloon
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.sunflower_balloon
+ero_vehicle_costume_van_backpack:
+  Pack:
+    custom_model_data: 9926492
+    model: ero_vehicle_costume:van_backpack
+  itemname: <white>Vehicle Costume Van Backpack
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.van_backpack
+ero_vehicle_costume_chest:
+  Mechanics:
+    furniture:
+      barrier: false
+      drop:
+        loots:
+        - nexo_item: ero_vehicle_costume_chest
+        silktouch: false
+      limited_placing:
+        floor: true
+        roof: false
+        type: DENY
+        wall: false
+  Pack:
+    custom_model_data: 9926705
+    model: ero_vehicle_costume:chest
+  itemname: <white>Chest
+  material: PAPER
+  permission: ero_vehicle_costume.chest
+ero_vehicle_costume_key:
+  Pack:
+    custom_model_data: 9926707
+    model: ero_vehicle_costume:key
+  itemname: <white>Key
+  material: PAPER
+  permission: ero_vehicle_costume.key
+ero_vehicle_costume_cosmetics_bus_backpack:
+  Pack:
+    custom_model_data: 9925483
+    model: ero_vehicle_costume:bus_backpack_cosmetic
+  itemname: <white>Vehicle Costume Bus Backpack Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_bus_backpack
+ero_vehicle_costume_cosmetics_bus_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925486
+    model: ero_vehicle_costume:bus_backpack_cosmetic_normal_2
+  itemname: <white>Vehicle Costume Bus Backpack Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_bus_backpack_normal_2
+ero_vehicle_costume_cosmetics_bus_backpack_self:
+  Pack:
+    custom_model_data: 9925484
+    model: ero_vehicle_costume:bus_backpack_cosmetic_self
+  itemname: <white>Vehicle Costume Bus Backpack Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_bus_backpack_self
+ero_vehicle_costume_cosmetics_bus_backpack_self_2:
+  Pack:
+    custom_model_data: 9925485
+    model: ero_vehicle_costume:bus_backpack_cosmetic_self_2
+  itemname: <white>Vehicle Costume Bus Backpack Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_bus_backpack_self_2
+ero_vehicle_costume_cosmetics_bus_driver_hat:
+  Pack:
+    custom_model_data: 9925487
+    model: ero_vehicle_costume:bus_driver_hat
+  itemname: <white>Vehicle Costume Bus Driver Hat Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_bus_driver_hat
+ero_vehicle_costume_cosmetics_bus_stop_balloon:
+  Pack:
+    custom_model_data: 9925488
+    model: ero_vehicle_costume:bus_stop_balloon
+  itemname: <white>Vehicle Costume Bus Stop Balloon
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_bus_stop_balloon
+ero_vehicle_costume_cosmetics_can_balloon:
+  Pack:
+    custom_model_data: 9925489
+    model: ero_vehicle_costume:can_balloon
+  itemname: <white>Vehicle Costume Can Balloon
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_can_balloon
+ero_vehicle_costume_cosmetics_car_backpack:
+  Pack:
+    custom_model_data: 9925490
+    model: ero_vehicle_costume:car_backpack_cosmetic
+  itemname: <white>Vehicle Costume Car Backpack Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_car_backpack
+ero_vehicle_costume_cosmetics_car_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925493
+    model: ero_vehicle_costume:car_backpack_cosmetic_normal_2
+  itemname: <white>Vehicle Costume Car Backpack Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_car_backpack_normal_2
+ero_vehicle_costume_cosmetics_car_backpack_self:
+  Pack:
+    custom_model_data: 9925491
+    model: ero_vehicle_costume:car_backpack_cosmetic_self
+  itemname: <white>Vehicle Costume Car Backpack Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_car_backpack_self
+ero_vehicle_costume_cosmetics_car_backpack_self_2:
+  Pack:
+    custom_model_data: 9925492
+    model: ero_vehicle_costume:car_backpack_cosmetic_self_2
+  itemname: <white>Vehicle Costume Car Backpack Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_car_backpack_self_2
+ero_vehicle_costume_cosmetics_cloud_balloon:
+  Pack:
+    custom_model_data: 9925494
+    model: ero_vehicle_costume:cloud_balloon
+  itemname: <white>Vehicle Costume Cloud Balloon
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_cloud_balloon
+ero_vehicle_costume_cosmetics_motorcycle_backpack:
+  Pack:
+    custom_model_data: 9925496
+    model: ero_vehicle_costume:motorcycle_backpack_cosmetic
+  itemname: <white>Vehicle Costume Motorcycle Backpack Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_motorcycle_backpack
+ero_vehicle_costume_cosmetics_motorcycle_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925499
+    model: ero_vehicle_costume:motorcycle_backpack_cosmetic_normal_2
+  itemname: <white>Vehicle Costume Motorcycle Backpack Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_motorcycle_backpack_normal_2
+ero_vehicle_costume_cosmetics_motorcycle_backpack_self:
+  Pack:
+    custom_model_data: 9925497
+    model: ero_vehicle_costume:motorcycle_backpack_cosmetic_self
+  itemname: <white>Vehicle Costume Motorcycle Backpack Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_motorcycle_backpack_self
+ero_vehicle_costume_cosmetics_motorcycle_backpack_self_2:
+  Pack:
+    custom_model_data: 9925498
+    model: ero_vehicle_costume:motorcycle_backpack_cosmetic_self_2
+  itemname: <white>Vehicle Costume Motorcycle Backpack Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_motorcycle_backpack_self_2
+ero_vehicle_costume_cosmetics_sunflower_balloon:
+  Pack:
+    custom_model_data: 9925501
+    model: ero_vehicle_costume:sunflower_balloon
+  itemname: <white>Vehicle Costume Sunflower Balloon
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_sunflower_balloon
+ero_vehicle_costume_cosmetics_umbrella_hat:
+  Pack:
+    custom_model_data: 9925502
+    model: ero_vehicle_costume:umbrella_hat
+  itemname: <white>Vehicle Costume Umbrella Hat Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_umbrella_hat
+ero_vehicle_costume_cosmetics_van_backpack:
+  Pack:
+    custom_model_data: 9925503
+    model: ero_vehicle_costume:van_backpack_cosmetic
+  itemname: <white>Vehicle Costume Van Backpack Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_van_backpack
+ero_vehicle_costume_cosmetics_van_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925506
+    model: ero_vehicle_costume:van_backpack_cosmetic_normal_2
+  itemname: <white>Vehicle Costume Van Backpack Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_van_backpack_normal_2
+ero_vehicle_costume_cosmetics_van_backpack_self:
+  Pack:
+    custom_model_data: 9925504
+    model: ero_vehicle_costume:van_backpack_cosmetic_self
+  itemname: <white>Vehicle Costume Van Backpack Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_van_backpack_self
+ero_vehicle_costume_cosmetics_van_backpack_self_2:
+  Pack:
+    custom_model_data: 9925505
+    model: ero_vehicle_costume:van_backpack_cosmetic_self_2
+  itemname: <white>Vehicle Costume Van Backpack Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_vehicle_costume.ero_vehicle_costume_cosmetics_van_backpack_self_2

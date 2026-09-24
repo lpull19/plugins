@@ -1,0 +1,30 @@
+sniffer_crown:
+  itemname: Sniffer crown
+  material: PAPER
+  permission: sniffer.cosmetics
+  Pack:
+    model: cosmetics:sniffer_crown
+sniffer_staff:
+  itemname: Sniffer staff
+  material: PAPER
+  permission: sniffer.cosmetics
+  Pack:
+    model: cosmetics:sniffer_staff
+sniffer_sword:
+  itemname: Sniffer sword
+  material: IRON_SWORD
+  permission: sniffer.cosmetics
+  Pack:
+    model: cosmetics:sniffer_sword
+sniffer_cloak:
+  itemname: Sniffer cloak
+  material: PAPER
+  permission: sniffer.cosmetics
+  Pack:
+    model: cosmetics:sniffer_cloak
+sniffer_cloak_thirdperson:
+  itemname: Sniffer cloak thirdperson
+  material: PAPER
+  permission: sniffer.cosmetics
+  Pack:
+    model: cosmetics:sniffer_cloak_thirdperson

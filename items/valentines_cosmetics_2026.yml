@@ -1,0 +1,169 @@
+valentines_hat:
+  material: PAPER
+  Pack:
+    model: valentines_cosmetics_2026/valentines_hat
+    custom_model_data: 2110
+  Components:
+    equippable:
+      slot: HEAD
+  itemname: Valentines Hat
+chocolate_top_hat:
+  material: PAPER
+  Pack:
+    model: valentines_cosmetics_2026/chocolate_top_hat
+    custom_model_data: 2111
+  Components:
+    equippable:
+      slot: HEAD
+  itemname: Chocolate Top Hat
+rose_top_hat:
+  material: PAPER
+  Pack:
+    model: valentines_cosmetics_2026/rose_top_hat
+    custom_model_data: 2112
+  Components:
+    equippable:
+      slot: HEAD
+  itemname: Rose Top Hat
+valentines_staff:
+  material: PAPER
+  Pack:
+    model: valentines_cosmetics_2026/valentines_staff
+    custom_model_data: 2113
+  itemname: Valentines Staff
+chocolate_heart:
+  material: PAPER
+  Pack:
+    model: valentines_cosmetics_2026/chocolate_heart
+    custom_model_data: 2114
+  itemname: Chocolate Heart
+rose:
+  material: PAPER
+  Pack:
+    model: valentines_cosmetics_2026/rose
+    custom_model_data: 2115
+  itemname: Rose
+rose_bouquet_offhand:
+  material: PAPER
+  Pack:
+    model: valentines_cosmetics_2026/rose_bouquet_offhand
+    custom_model_data: 2116
+  itemname: Rose Bouquet
+valentines_backpack:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: valentines_cosmetics_2026/valentines_backpack
+    custom_model_data: 2117
+  itemname: Valentines Backpack
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Valentines Backpack
+valentines_backpack_thirdperson:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: valentines_cosmetics_2026/valentines_backpack_thirdperson
+    custom_model_data: 2118
+  itemname: Valentines Backpack Thirdperson
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Valentines Backpack Thirdperson
+valentines_backpack_thirdperson_self:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: valentines_cosmetics_2026/valentines_backpack_thirdperson_self
+    custom_model_data: 2119
+  itemname: Valentines Backpack Thirdperson Self
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Valentines Backpack Thirdperson Self
+chocolate_bar:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: valentines_cosmetics_2026/chocolate_bar
+    custom_model_data: 2120
+  itemname: Chocolate Bar
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Chocolate Bar
+chocolate_bar_thirdperson:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: valentines_cosmetics_2026/chocolate_bar_thirdperson
+    custom_model_data: 2121
+  itemname: Chocolate Bar Thirdperson
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Chocolate Bar Thirdperson
+chocolate_bar_thirdperson_self:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: valentines_cosmetics_2026/chocolate_bar_thirdperson_self
+    custom_model_data: 2122
+  itemname: Chocolate Bar Thirdperson Self
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Chocolate Bar Thirdperson Self
+rose_bouquet:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: valentines_cosmetics_2026/rose_bouquet
+    custom_model_data: 2123
+  itemname: Rose Bouquet
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Rose Bouquet
+rose_bouquet_thirdperson:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: valentines_cosmetics_2026/rose_bouquet_thirdperson
+    custom_model_data: 2124
+  itemname: Rose Bouquet Thirdperson
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Rose Bouquet Thirdperson
+rose_bouquet_thirdperson_self:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: valentines_cosmetics_2026/rose_bouquet_thirdperson_self
+    custom_model_data: 2125
+  itemname: Rose Bouquet Thirdperson Self
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Rose Bouquet Thirdperson Self
+valentines_balloon:
+  material: PAPER
+  Pack:
+    model: valentines_cosmetics_2026/valentines_balloon
+    custom_model_data: 2126
+  itemname: Valentines Balloon
+chocolate_heart_balloon:
+  material: PAPER
+  Pack:
+    model: valentines_cosmetics_2026/chocolate_heart_balloon
+    custom_model_data: 2127
+  itemname: Chocolate Heart Balloon
+rose_balloon:
+  material: PAPER
+  Pack:
+    model: valentines_cosmetics_2026/rose_balloon
+    custom_model_data: 2128
+  itemname: Rose Balloon
+# 8EaLFGOzMVOkt0ahRWcNJTds5mUzJ1RiJTSVF2QaZkYrhXbSZzXClmVk5WesZkNClmVkpma

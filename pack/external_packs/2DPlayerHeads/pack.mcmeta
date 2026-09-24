@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "description": "2D Player Heads",
+    "pack_format": 13,
+    "supported_formats": {
+      "min_inclusive": 13,
+      "max_inclusive": 99
+    }
+  },
+  overlays: {
+    "entries": [
+      {
+        "directory": "2d_player_heads_1_21_4",
+        "formats": {
+          "min_inclusive": 42,
+          "max_inclusive": 55
+        }
+      },
+      {
+        "formats": {
+          "min_inclusive": 63,
+          "max_inclusive": 99
+        },
+        "directory": "2d_player_heads_1_21_6"
+      }
+    ]
+  }
+}

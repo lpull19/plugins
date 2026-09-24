@@ -1,0 +1,52 @@
+br_butterfly_hat:
+  itemname: Butterfly Hat
+  material: PAPER
+  Pack:
+    model: bojarsky_realm:spring_cosmetics/br_butterfly_hat
+
+br_butterfly_wings:
+  itemname: Butterfly Wings
+  material: PAPER
+  Pack:
+    model: bojarsky_realm:spring_cosmetics/br_butterfly_wings
+
+br_butterfly_wings_firstperson:
+  itemname: Butterfly Wings(Firstperson)
+  material: PAPER
+  Pack:
+    model: bojarsky_realm:spring_cosmetics/br_butterfly_wings_firstperson
+
+br_butterfly_fan:
+  itemname: Butterfly Fan
+  material: PAPER
+  Pack:
+    model: bojarsky_realm:spring_cosmetics/br_butterfly_fan
+
+
+br_ladybug_hat:
+  itemname: Ladybug Hat
+  material: PAPER
+  Pack:
+    model: bojarsky_realm:spring_cosmetics/br_ladybug_hat
+
+br_ladybug_cape:
+  itemname: Ladybug Cape
+  material: PAPER
+  Pack:
+    model: bojarsky_realm:spring_cosmetics/br_ladybug_cape
+
+br_ladybug_cape_firstperson:
+  itemname: Ladybug Cape(Firstperson)
+  material: PAPER
+  Pack:
+    model: bojarsky_realm:spring_cosmetics/br_ladybug_cape_firstperson
+
+br_ladybug_flower:
+  itemname: Ladybug Flower
+  material: PAPER
+  Pack:
+    model: bojarsky_realm:spring_cosmetics/br_ladybug_flower
+
+
+
+#c0dsNnN4JlRSV2R4k0QltkVSZ1UIRmeShmQWRWUSpnUzMWVTFUYQVHN3UFVHlUYQVHN3EUQ

@@ -1,0 +1,258 @@
+spellcaster_costume_chest:
+  Mechanics:
+    furniture:
+      barrier: false
+      drop:
+        loots:
+        - nexo_item: spellcaster_costume_chest
+        silktouch: false
+      limited_placing:
+        floor: true
+        roof: false
+        type: DENY
+        wall: false
+  Pack:
+    model: ero_spellcaster_costume:chest
+  itemname: <white>Chest
+  material: PAPER
+  permission: ero_spellcaster_costume.chest
+spellcaster_costume_key:
+  Pack:
+    model: ero_spellcaster_costume:key
+  itemname: <white>Key
+  material: PAPER
+  permission: ero_spellcaster_costume.key
+spellcaster_costume_light_bearer_head:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_spellcaster_costume:light_bearer_head_hat
+  color: 75, 65, 88
+  itemname: <white>Light Bearer Head
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.light_bearer_head
+spellcaster_costume_light_bearer_miror:
+  Pack:
+    model: ero_spellcaster_costume:light_bearer_miror_backpack
+  color: 75, 65, 88
+  itemname: <white>Light Bearer Miror
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.light_bearer_miror
+spellcaster_costume_light_bearer_staff_offhand:
+  Pack:
+    model: ero_spellcaster_costume:light_bearer_staff_offhand
+  color: 75, 65, 88
+  itemname: <white>Light Bearer Staff
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.light_bearer_staff_offhand
+spellcaster_costume_rune_caster_mask:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_spellcaster_costume:rune_caster_mask_hat
+  color: 87, 84, 110
+  itemname: <white>Rune Caster Mask
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.rune_caster_mask
+spellcaster_costume_rune_caster_staff_offhand:
+  Pack:
+    model: ero_spellcaster_costume:rune_caster_staff_offhand
+  color: 75, 65, 88
+  itemname: <white>Rune Caster Staff
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.rune_caster_staff_offhand
+spellcaster_costume_rune_caster_stonerune:
+  Pack:
+    model: ero_spellcaster_costume:rune_caster_stonerune_backpack
+  color: 75, 65, 88
+  itemname: <white>Rune Caster Stonerune
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.rune_caster_stonerune
+spellcaster_costume_summoner_bag:
+  Pack:
+    model: ero_spellcaster_costume:summoner_bag_backpack
+  color: 171, 111, 77
+  itemname: <white>Summoner Bag
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.summoner_bag
+spellcaster_costume_summoner_fluffy:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_spellcaster_costume:summoner_fluffy_hat
+  color: 162, 125, 87
+  itemname: <white>Summoner Fluffy
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.summoner_fluffy
+spellcaster_costume_summoner_staff_offhand:
+  Pack:
+    model: ero_spellcaster_costume:summoner_staff_offhand
+  color: 75, 65, 88
+  itemname: <white>Summoner Staff
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.summoner_staff_offhand
+spellcaster_costume_cosmetics_light_bearer_head:
+  Pack:
+    custom_model_data: 15888357
+    model: ero_spellcaster_costume:light_bearer_head_hat
+  color: 75, 65, 88
+  itemname: <white>Light Bearer Head Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_light_bearer_head
+spellcaster_costume_cosmetics_light_bearer_miror:
+  Pack:
+    custom_model_data: 15888358
+    model: ero_spellcaster_costume:light_bearer_miror_backpack_cosmetic
+  color: 75, 65, 88
+  itemname: <white>Light Bearer Miror Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_light_bearer_miror
+spellcaster_costume_cosmetics_light_bearer_miror_normal_2:
+  Pack:
+    custom_model_data: 15888361
+    model: ero_spellcaster_costume:light_bearer_miror_backpack_cosmetic_normal_2
+  color: 75, 65, 88
+  itemname: <white>Light Bearer Miror Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_light_bearer_miror_normal_2
+spellcaster_costume_cosmetics_light_bearer_miror_self:
+  Pack:
+    custom_model_data: 15888359
+    model: ero_spellcaster_costume:light_bearer_miror_backpack_cosmetic_self
+  color: 75, 65, 88
+  itemname: <white>Light Bearer Miror Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_light_bearer_miror_self
+spellcaster_costume_cosmetics_light_bearer_miror_self_2:
+  Pack:
+    custom_model_data: 15888360
+    model: ero_spellcaster_costume:light_bearer_miror_backpack_cosmetic_self_2
+  color: 75, 65, 88
+  itemname: <white>Light Bearer Miror Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_light_bearer_miror_self_2
+spellcaster_costume_cosmetics_rune_caster_mask:
+  Pack:
+    custom_model_data: 15888363
+    model: ero_spellcaster_costume:rune_caster_mask_hat
+  color: 87, 84, 110
+  itemname: <white>Rune Caster Mask Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_rune_caster_mask
+spellcaster_costume_cosmetics_rune_caster_stonerune:
+  Pack:
+    custom_model_data: 15888365
+    model: ero_spellcaster_costume:rune_caster_stonerune_backpack_cosmetic
+  color: 75, 65, 88
+  itemname: <white>Rune Caster Stonerune Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_rune_caster_stonerune
+spellcaster_costume_cosmetics_rune_caster_stonerune_normal_2:
+  Pack:
+    custom_model_data: 15888368
+    model: ero_spellcaster_costume:rune_caster_stonerune_backpack_cosmetic_normal_2
+  color: 75, 65, 88
+  itemname: <white>Rune Caster Stonerune Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_rune_caster_stonerune_normal_2
+spellcaster_costume_cosmetics_rune_caster_stonerune_self:
+  Pack:
+    custom_model_data: 15888366
+    model: ero_spellcaster_costume:rune_caster_stonerune_backpack_cosmetic_self
+  color: 75, 65, 88
+  itemname: <white>Rune Caster Stonerune Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_rune_caster_stonerune_self
+spellcaster_costume_cosmetics_rune_caster_stonerune_self_2:
+  Pack:
+    custom_model_data: 15888367
+    model: ero_spellcaster_costume:rune_caster_stonerune_backpack_cosmetic_self_2
+  color: 75, 65, 88
+  itemname: <white>Rune Caster Stonerune Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_rune_caster_stonerune_self_2
+spellcaster_costume_cosmetics_summoner_bag:
+  Pack:
+    custom_model_data: 15888369
+    model: ero_spellcaster_costume:summoner_bag_backpack_cosmetic
+  color: 171, 111, 77
+  itemname: <white>Summoner Bag Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_summoner_bag
+spellcaster_costume_cosmetics_summoner_bag_normal_2:
+  Pack:
+    custom_model_data: 15888372
+    model: ero_spellcaster_costume:summoner_bag_backpack_cosmetic_normal_2
+  color: 171, 111, 77
+  itemname: <white>Summoner Bag Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_summoner_bag_normal_2
+spellcaster_costume_cosmetics_summoner_bag_self:
+  Pack:
+    custom_model_data: 15888370
+    model: ero_spellcaster_costume:summoner_bag_backpack_cosmetic_self
+  color: 171, 111, 77
+  itemname: <white>Summoner Bag Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_summoner_bag_self
+spellcaster_costume_cosmetics_summoner_bag_self_2:
+  Pack:
+    custom_model_data: 15888371
+    model: ero_spellcaster_costume:summoner_bag_backpack_cosmetic_self_2
+  color: 171, 111, 77
+  itemname: <white>Summoner Bag Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_summoner_bag_self_2
+spellcaster_costume_cosmetics_summoner_fluffy:
+  Pack:
+    custom_model_data: 15888373
+    model: ero_spellcaster_costume:summoner_fluffy_hat
+  color: 162, 125, 87
+  itemname: <white>Summoner Fluffy Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.spellcaster_costume_cosmetics_summoner_fluffy
+spellcaster_costume_light_bearer_staff_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888380
+    model: ero_spellcaster_costume:light_bearer_staff_offhand
+  color: 75, 65, 88
+  itemname: <white>Light Bearer Staff
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.light_bearer_staff_offhand
+spellcaster_costume_rune_caster_staff_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888381
+    model: ero_spellcaster_costume:rune_caster_staff_offhand
+  color: 75, 65, 88
+  itemname: <white>Rune Caster Staff
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.rune_caster_staff_offhand
+spellcaster_costume_summoner_staff_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888382
+    model: ero_spellcaster_costume:summoner_staff_offhand
+  color: 75, 65, 88
+  itemname: <white>Summoner Staff
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_spellcaster_costume.summoner_staff_offhand

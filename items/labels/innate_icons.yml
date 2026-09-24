@@ -1,0 +1,64 @@
+innate-ambers:
+  itemname: ''
+  material: BLAZE_ROD
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 1
+    texture: prism_skyblock/labels/innate_icons/ambers.png
+innate-divineintervention:
+  itemname: ''
+  material: BLAZE_ROD
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 2
+    texture: prism_skyblock/labels/innate_icons/divine_intervention.png
+innate-sneakypicky:
+  itemname: ''
+  material: BLAZE_ROD
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 3
+    texture: prism_skyblock/labels/innate_icons/sneaky_picky.png
+innate-backstab:
+  itemname: ''
+  material: BLAZE_ROD
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 4
+    texture: prism_skyblock/labels/innate_icons/backstab.png
+innate-firebersker:
+  itemname: ''
+  material: BLAZE_ROD
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 5
+    texture: prism_skyblock/labels/innate_icons/fire_berserker.png
+innate-stun:
+  itemname: ''
+  material: BLAZE_ROD
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 6
+    texture: prism_skyblock/labels/innate_icons/stun.png
+innate-weaken:
+  itemname: ''
+  material: BLAZE_ROD
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 7
+    texture: prism_skyblock/labels/innate_icons/weaken.png
+innate-neptunegift:
+  itemname: ''
+  material: BLAZE_ROD
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 8
+    texture: prism_skyblock/labels/innate_icons/neptune_gift.png

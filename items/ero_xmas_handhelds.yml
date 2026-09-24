@@ -1,0 +1,116 @@
+ero_xmas_handhelds_chest:
+  Mechanics:
+    furniture:
+      barrier: false
+      drop:
+        loots:
+        - nexo_item: ero_xmas_handhelds_chest
+        silktouch: false
+      limited_placing:
+        floor: true
+        roof: false
+        type: DENY
+        wall: false
+  Pack:
+    model: ero_xmas_handhelds:chest
+  itemname: <white>Chest
+  material: PAPER
+  permission: ero_xmas_handhelds.chest
+ero_xmas_handhelds_key:
+  Pack:
+    model: ero_xmas_handhelds:key
+  itemname: <white>Key
+  material: PAPER
+  permission: ero_xmas_handhelds.key
+ero_xmas_handhelds_christmas_bag_offhand:
+  Pack:
+    model: ero_xmas_handhelds:christmas_bag_offhand
+  color: 238, 80, 67
+  itemname: <white>Christmas Bag
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.christmas_bag_offhand
+ero_xmas_handhelds_christmas_basket_offhand:
+  Pack:
+    model: ero_xmas_handhelds:christmas_basket_offhand
+  color: 238, 80, 67
+  itemname: <white>Christmas Basket
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.christmas_basket_offhand
+ero_xmas_handhelds_christmas_candle_offhand:
+  Pack:
+    model: ero_xmas_handhelds:christmas_candle_offhand
+  color: 255, 255, 255
+  itemname: <white>Christmas Candle
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.christmas_candle_offhand
+ero_xmas_handhelds_christmas_mittens_offhand:
+  Pack:
+    model: ero_xmas_handhelds:christmas_mittens_offhand
+  color: 59, 142, 97
+  itemname: <white>Christmas Mittens
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.christmas_mittens_offhand
+ero_xmas_handhelds_christmas_tree_staff_offhand:
+  Pack:
+    model: ero_xmas_handhelds:christmas_tree_staff_offhand
+  color: 238, 80, 67
+  itemname: <white>Christmas Tree Staff
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.christmas_tree_staff_offhand
+ero_xmas_handhelds_nutcracker_doll_offhand:
+  Pack:
+    model: ero_xmas_handhelds:nutcracker_doll_offhand
+  color: 238, 80, 67
+  itemname: <white>Nutcracker Doll
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.nutcracker_doll_offhand
+ero_xmas_handhelds_christmas_bag_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888726
+    model: ero_xmas_handhelds:christmas_bag_offhand
+  color: 238, 80, 67
+  itemname: <white>Christmas Bag Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.ero_xmas_handhelds_cosmetics_christmas_bag
+ero_xmas_handhelds_christmas_basket_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888727
+    model: ero_xmas_handhelds:christmas_basket_offhand
+  color: 238, 80, 67
+  itemname: <white>Christmas Basket Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.ero_xmas_handhelds_cosmetics_christmas_basket
+ero_xmas_handhelds_christmas_candle_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888728
+    model: ero_xmas_handhelds:christmas_candle_offhand
+  color: 255, 255, 255
+  itemname: <white>Christmas Candle Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.ero_xmas_handhelds_cosmetics_christmas_candle
+ero_xmas_handhelds_christmas_mittens_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888729
+    model: ero_xmas_handhelds:christmas_mittens_offhand
+  color: 59, 142, 97
+  itemname: <white>Christmas Mittens Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.ero_xmas_handhelds_cosmetics_christmas_mittens
+ero_xmas_handhelds_christmas_tree_staff_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888730
+    model: ero_xmas_handhelds:christmas_tree_staff_offhand
+  color: 238, 80, 67
+  itemname: <white>Christmas Tree Staff Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.ero_xmas_handhelds_cosmetics_christmas_tree_staff
+ero_xmas_handhelds_nutcracker_doll_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888731
+    model: ero_xmas_handhelds:nutcracker_doll_offhand
+  color: 238, 80, 67
+  itemname: <white>Nutcracker Doll Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_handhelds.ero_xmas_handhelds_cosmetics_nutcracker_doll
+
+# kTRyUGSSV2bq1ScIJkap1UUOhFV31ERNNnRwMlQwdUT6FEVUx2SBtkazA1cw0EbBtkazUVV

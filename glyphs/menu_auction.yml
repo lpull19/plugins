@@ -1,0 +1,24 @@
+gui_auction:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/auction/auction
+  height: 256
+  ascent: 19
+  char: 
+gui_auction_my:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/auction/auction_my
+  height: 256
+  ascent: 19
+  char: 
+gui_auction_expired:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/auction/auction_expired
+  height: 256
+  ascent: 19
+  char: 
+gui_auction_buy:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/auction/auction_buy
+  height: 256
+  ascent: 19
+  char: 

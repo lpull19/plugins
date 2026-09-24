@@ -1,0 +1,240 @@
+alert:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/alert
+arrow_down:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/arrow_down
+arrow_down2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/arrow_down2
+arrow_left:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/arrow_left
+arrow_left2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/arrow_left2
+arrow_right:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/arrow_right
+arrow_right2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/arrow_right2
+arrow_up:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/arrow_up
+arrow_up2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/arrow_up2
+back:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/back
+blocked:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/blocked
+blocked_thin:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/blocked_thin
+boxed_arrow_down:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/boxed_arrow_down
+boxed_arrow_left:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/boxed_arrow_left
+boxed_arrow_right:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/boxed_arrow_right
+boxed_arrow_up:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/boxed_arrow_up
+bronze_trophy:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/bronze_trophy
+check:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/check
+crafting:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/crafting
+cross:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/cross
+curved_arrow_left:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/curved_arrow_left
+curved_arrow_left2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/curved_arrow_left2
+curved_arrow_right:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/curved_arrow_right
+curved_arrow_right2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/curved_arrow_right2
+discord:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/discord
+filler:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/filler
+gold_trophy:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/gold_trophy
+gray_boxed_arrow_down:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/gray_boxed_arrow_down
+gray_boxed_arrow_left:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/gray_boxed_arrow_left
+gray_boxed_arrow_right:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/gray_boxed_arrow_right
+gray_boxed_arrow_up:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/gray_boxed_arrow_up
+home:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/home
+info:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/info
+lock:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/lock
+repair:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/repair
+scroll_bottom:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/scroll_bottom
+scroll_bottom2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/scroll_bottom2
+scroll_middle:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/scroll_middle
+scroll_middle2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/scroll_middle2
+scroll_middle3:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/scroll_middle3
+scroll_middle4:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/scroll_middle4
+scroll_top:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/scroll_top
+scroll_top2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/scroll_top2
+search:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/search
+silver_trophy:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/silver_trophy
+speech:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/speech
+speech_blocked:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/speech_blocked
+unlock:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icons/unlock

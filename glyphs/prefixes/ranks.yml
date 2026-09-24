@@ -1,0 +1,178 @@
+rank_owner:
+  texture: prefixes/rank_owner
+  ascent: 7
+  height: 7
+  char: ꐱ
+
+rank_dev:
+  texture: prefixes/rank_dev
+  ascent: 7
+  height: 7
+  char: ꐲ
+
+rank_admin:
+  texture: prefixes/rank_admin
+  ascent: 7
+  height: 7
+  char: ꐳ
+
+rank_srmod:
+  texture: prefixes/rank_srmod
+  ascent: 7
+  height: 7
+  char: ꐴ
+
+rank_media:
+  texture: prefixes/rank_media
+  ascent: 7
+  height: 7
+  char: ꐵ
+
+rank_helper:
+  texture: prefixes/rank_helper
+  ascent: 7
+  height: 7
+  char: ꐶ
+
+rank_mod:
+  texture: prefixes/rank_mod
+  ascent: 7
+  height: 7
+  char: ꐷ
+
+rank_player:
+  texture: prefixes/rank_player
+  ascent: 7
+  height: 7
+  char: ꐸ
+
+rarity_common:
+  texture: rarity/common
+  ascent: 7
+  height: 7
+  char: ꐿ
+
+rarity_epic:
+  texture: rarity/epic
+  ascent: 7
+  height: 7
+  char: ꑀ
+
+rarity_exclusive:
+  texture: rarity/exclusive
+  ascent: 7
+  height: 7
+  char: ꑁ
+
+rarity_free:
+  texture: rarity/free
+  ascent: 7
+  height: 7
+  char: ꑂ
+
+rarity_legendary:
+  texture: rarity/legendary
+  ascent: 7
+  height: 7
+  char: ꑃ
+
+rarity_limited:
+  texture: rarity/limited
+  ascent: 7
+  height: 7
+  char: ꑄ
+
+rarity_rare:
+  texture: rarity/rare
+  ascent: 7
+  height: 7
+  char: ꑅ
+
+
+rank_coal:
+  texture: freeranks/coal_rank
+  ascent: 7
+  height: 7
+  char: ꑆ
+
+rank_copper:
+  texture: freeranks/copper
+  ascent: 7
+  height: 7
+  char: ꑇ
+
+rank_diamond:
+  texture: freeranks/diamond_rank
+  ascent: 7
+  height: 7
+  char: ꑈ
+
+rank_emerald:
+  texture: freeranks/emerald
+  ascent: 7
+  height: 7
+  char: ꑉ
+
+rank_gold:
+  texture: freeranks/gold
+  ascent: 7
+  height: 7
+  char: ꑊ
+
+rank_iron:
+  texture: freeranks/iron
+  ascent: 7
+  height: 7
+  char: ꑋ
+
+rank_lapis:
+  texture: freeranks/lapis
+  ascent: 7
+  height: 7
+  char: ꑌ
+
+rank_netherite:
+  texture: freeranks/netherite
+  ascent: 7
+  height: 7
+  char: ꑍ
+
+rank_redstone:
+  texture: freeranks/redstone_rank
+  ascent: 7
+  height: 7
+  char: ꑎ
+
+rank_mvp:
+  texture: prefixes/rank_mvp
+  ascent: 7
+  height: 7
+
+rank_mvpplus:
+  texture: prefixes/rank_mvpplus
+  ascent: 7
+  height: 7
+  char: ꗎ
+
+rank_vip:
+  texture: prefixes/rank_vip
+  ascent: 7
+  height: 7
+
+rank_vipplus:
+  texture: prefixes/rank_vipplus
+  ascent: 7
+  height: 7
+  char: ꗏ
+
+rank_delve:
+  texture: prefixes/rank_delve
+  ascent: 7
+  height: 7
+  char: ꗐ
+
+rank_patron:
+  texture: prefixes/rank_patron
+  ascent: 7
+  height: 7
+  char: ꗑ

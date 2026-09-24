@@ -1,0 +1,252 @@
+soul_netherite_helmet:
+  itemname: <white>Soul Netherite Helmet
+  material: NETHERITE_HELMET
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of the Nether entities.
+  - ''
+  AttributeModifiers:
+  - amount: 3.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  - amount: 3.0
+    attribute: MAX_HEALTH
+    operation: ADD_NUMBER
+    slot: HEAD
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: HEAD
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: HEAD
+  Pack:
+    texture: hyronic_skyblock/sets/soul_netherite/soul_netherite_helmet
+    custom_model_data: 2
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:soul_netherite
+soul_netherite_chestplate:
+  itemname: <white>Soul Netherite Chestplate
+  material: NETHERITE_CHESTPLATE
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of the Nether entities.
+  - ''
+  AttributeModifiers:
+  - amount: 8.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: CHEST
+  - amount: 3.0
+    attribute: MAX_HEALTH
+    operation: ADD_NUMBER
+    slot: CHEST
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: CHEST
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: CHEST
+  Pack:
+    texture: hyronic_skyblock/sets/soul_netherite/soul_netherite_chestplate
+    custom_model_data: 2
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:soul_netherite
+soul_netherite_leggings:
+  itemname: <white>Soul Netherite Leggings
+  material: NETHERITE_LEGGINGS
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of the Nether entities.
+  - ''
+  AttributeModifiers:
+  - amount: 6.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: LEGS
+  - amount: 3.0
+    attribute: MAX_HEALTH
+    operation: ADD_NUMBER
+    slot: LEGS
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: LEGS
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: LEGS
+  Pack:
+    texture: hyronic_skyblock/sets/soul_netherite/soul_netherite_leggings
+    custom_model_data: 2
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:soul_netherite
+soul_netherite_boots:
+  itemname: <white>Soul Netherite Boots
+  material: NETHERITE_BOOTS
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of the Nether entities.
+  - ''
+  AttributeModifiers:
+  - amount: 3.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: FEET
+  - amount: 3.0
+    attribute: MAX_HEALTH
+    operation: ADD_NUMBER
+    slot: FEET
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: FEET
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: FEET
+  Pack:
+    texture: hyronic_skyblock/sets/soul_netherite/soul_netherite_boots
+    custom_model_data: 2
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:soul_netherite
+soul_netherite_pickaxe:
+  itemname: <white>Soul Netherite Pickaxe
+  material: NETHERITE_PICKAXE
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of the Nether entities.
+  - ''
+  AttributeModifiers:
+  - amount: 7.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 1.6
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/soul_netherite/soul_netherite_pickaxe
+    custom_model_data: 5
+soul_netherite_sword:
+  itemname: <white>Soul Netherite Sword
+  material: NETHERITE_SWORD
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of the Nether entities.
+  - ''
+  AttributeModifiers:
+  - amount: 9.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 2.0
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/soul_netherite/soul_netherite_sword
+    custom_model_data: 5
+soul_netherite_shovel:
+  itemname: <white>Soul Netherite Shovel
+  material: NETHERITE_SHOVEL
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of the Nether entities.
+  - ''
+  AttributeModifiers:
+  - amount: 7.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 1.6
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/soul_netherite/soul_netherite_shovel
+    custom_model_data: 5
+soul_netherite_axe:
+  itemname: <white>Soul Netherite Axe
+  material: NETHERITE_AXE
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of the Nether entities.
+  - ''
+  AttributeModifiers:
+  - amount: 11.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 1.6
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/soul_netherite/soul_netherite_axe
+    custom_model_data: 5
+soul_netherite_hoe:
+  itemname: <white>Soul Netherite Hoe
+  material: NETHERITE_HOE
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of the Nether entities.
+  - ''
+  AttributeModifiers:
+  - amount: 2.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 5.0
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/soul_netherite/soul_netherite_hoe
+    custom_model_data: 5
+soul_netherite_bow:
+  itemname: <white>Soul Netherite Bow
+  material: BOW
+  lore:
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of the Nether entities.
+  - ''
+  - <gradient:#36D1DC:#5B86E5>☠ Dᴇᴍᴏɴɪᴄ Cᴜʀsᴇ
+  - ' <dark_gray>Curses enemies hit by'
+  - ' <dark_gray>the arrow with Wither'
+  - ' <dark_gray>effect for <gray>3 seconds.'
+  - ''
+  Pack:
+    texture: hyronic_skyblock/sets/soul_netherite/soul_netherite_bow
+    custom_model_data: 598
+    pulling_textures:
+    - hyronic_skyblock/sets/soul_netherite/soul_netherite_bow_0
+    - hyronic_skyblock/sets/soul_netherite/soul_netherite_bow_1
+    - hyronic_skyblock/sets/soul_netherite/soul_netherite_bow_2

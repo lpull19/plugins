@@ -1,0 +1,114 @@
+fishing_hat:
+  itemname: Fishing Hat
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/fishing_hat
+    custom_model_data: 241001
+fishing_backpack:
+  itemname: Fishing Backpack
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/fishing_backpack
+    custom_model_data: 241002
+fishing_backpack_thirdperson:
+  itemname: Fishing Backpack Thirdperson
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/fishing_backpack_thirdperson
+    custom_model_data: 241003
+fishing_rod_cos:
+  itemname: Fishing Rod
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/fishing_rod
+    custom_model_data: 241004
+froggy_hat:
+  itemname: Froggy Hat
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/froggy_hat
+    custom_model_data: 241005
+lotus_backpack:
+  itemname: Lotus Backpack
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/lotus_backpack
+    custom_model_data: 241006
+lotus_backpack_thirdperson:
+  itemname: Lotus Backpack Thirdperson
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/lotus_backpack_thirdperson
+    custom_model_data: 241007
+lotus_lantern:
+  itemname: Lotus Lantern
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/lotus_lantern
+    custom_model_data: 241008
+diving_goggles:
+  itemname: Diving Goggles
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/diving_goggles
+    custom_model_data: 241009
+scuba_tank:
+  itemname: Scuba Tank
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/scuba_tank
+    custom_model_data: 241010
+scuba_tank_thirdperson:
+  itemname: Scuba Tank Thirdperson
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/scuba_tank_thirdperson
+    custom_model_data: 241011
+toy_bubble_gun:
+  itemname: Toy Bubble Gun
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/toy_bubble_gun
+    custom_model_data: 241012
+shark_hat:
+  itemname: Shark Hat
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/shark_hat
+    custom_model_data: 241013
+shark_tail:
+  itemname: Shark Tail
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/shark_tail
+    custom_model_data: 241014
+shark_tail_thirdperson:
+  itemname: Shark Tail Thirdperson
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/shark_tail_thirdperson
+    custom_model_data: 241015
+fishgig:
+  itemname: Fishgig
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/summer_2/fishgig
+    custom_model_data: 241016
+
+# 8kbi5GMMt0Np50VXRTdrRWSSJjUVpERWFTUIFGMORkV5FFSWdUN0h2MygEZUdUN0h2MyM1U

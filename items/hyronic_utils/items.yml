@@ -1,0 +1,7 @@
+hc_transparent_item:
+  itemname: '[UI] Transparent Item'
+  material: FEATHER
+  Pack:
+    custom_model_data: 9999
+    parent_model: item/generated
+    texture: hyronic_utils/transparent

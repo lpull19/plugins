@@ -1,0 +1,18 @@
+gui_job_selector:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/job/job_selector
+  height: 256
+  ascent: 19
+  char: 
+gui_job_shop:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/job/job_shop
+  height: 256
+  ascent: 19
+  char: 
+gui_skills:
+  font: minecraft:default
+  texture: gui/skills
+  height: 256
+  ascent: 19
+  char: ꗅ

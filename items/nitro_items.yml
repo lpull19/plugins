@@ -1,0 +1,1845 @@
+  battlepass_book:
+    itemname: '[UI Only] Book'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/battlepass/book
+  battlepass_chest:
+    itemname: '[UI Only] Chest'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/battlepass/chest
+  battlepass_chestfull:
+    itemname: '[UI Only] Chest Full'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/battlepass/chestfull
+  battlepass_green:
+    itemname: '[UI Only] Green'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/battlepass/green
+  battlepass_yellow:
+    itemname: '[UI Only] Yellow'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/battlepass/yellow
+  battlepass_bookdark:
+    itemname: '[UI Only] Book Dark'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/battlepass/bookdark
+  battlepass_chestdark:
+    itemname: '[UI Only] Chest Dark'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/battlepass/chestdark
+  battlepass_chestopen:
+    itemname: '[UI Only] Chest Open'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/battlepass/chestopen
+  battlepass_red:
+    itemname: '[UI Only] Red'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/battlepass/red
+  blank_blank:
+    itemname: '[UI Only] Blank'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/blank/blank
+  coinshop_backpacks:
+    itemname: '[UI Only] Backpacks'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/coinshop/backpacks
+  coinshop_emotes:
+    itemname: '[UI Only] Emotes'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/coinshop/emotes
+  coinshop_netheritebackpack:
+    itemname: '[UI Only] Netherite Backpack'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/coinshop/netheritebackpack
+  coinshop_copperbackpack:
+    itemname: '[UI Only] Copper Backpack'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/coinshop/copperbackpack
+  coinshop_furniture:
+    itemname: '[UI Only] Furniture'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/coinshop/furniture
+  coinshop_pets:
+    itemname: '[UI Only] Pets'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/coinshop/pets
+  coinshop_diamondbackpack:
+    itemname: '[UI Only] Diamond Backpack'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/coinshop/diamondbackpack
+  coinshop_goldbackpack:
+    itemname: '[UI Only] Gold Backpack'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/coinshop/goldbackpack
+  coinshop_silverbackpack:
+    itemname: '[UI Only] Silver Backpack'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/coinshop/silverbackpack
+  colors_aqua:
+    itemname: '[UI Only] Aqua'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/aqua
+  colors_darkblue:
+    itemname: '[UI Only] Dark Blue'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/darkblue
+  colors_gold:
+    itemname: '[UI Only] Gold'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/gold
+  colors_purple:
+    itemname: '[UI Only] Purple'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/purple
+  colors_black:
+    itemname: '[UI Only] Black'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/black
+  colors_darkgray:
+    itemname: '[UI Only] Dark Gray'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/darkgray
+  colors_gray:
+    itemname: '[UI Only] Gray'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/gray
+  colors_red:
+    itemname: '[UI Only] Red'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/red
+  colors_blue:
+    itemname: '[UI Only] Blue'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/blue
+  colors_darkgreen:
+    itemname: '[UI Only] Dark Green'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/darkgreen
+  colors_green:
+    itemname: '[UI Only] Green'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/green
+  colors_white:
+    itemname: '[UI Only] White'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/white
+  colors_darkaqua:
+    itemname: '[UI Only] Dark Aqua'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/darkaqua
+  colors_darkred:
+    itemname: '[UI Only] Dark Red'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/darkred
+  colors_pink:
+    itemname: '[UI Only] Pink'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/pink
+  colors_yellow:
+    itemname: '[UI Only] Yellow'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/colors/yellow
+  crates_coin:
+    itemname: '[UI Only] Coin'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/crates/coin
+  crates_factories:
+    itemname: '[UI Only] Factories'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/crates/factories
+  crates_money:
+    itemname: '[UI Only] Money'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/crates/money
+  creative_plot:
+    itemname: '[UI Only] Plot'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/creative/plot
+  deliveries_chest:
+    itemname: '[UI Only] Chest'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/deliveries/chest
+  deliveries_chestopen:
+    itemname: '[UI Only] Chest Open'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/deliveries/chestopen
+  deliveries_standarddelivery:
+    itemname: '[UI Only] Standard Delivery'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/deliveries/standarddelivery
+  deliveries_chestfull:
+    itemname: '[UI Only] Chest Full'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/deliveries/chestfull
+  deliveries_expressdelivery:
+    itemname: '[UI Only] Express Delivery'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/deliveries/expressdelivery
+  deliveries_chestlocked:
+    itemname: '[UI Only] Chest Locked'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/deliveries/chestlocked
+  deliveries_lightningdelivery:
+    itemname: '[UI Only] Lightning Delivery'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/deliveries/lightningdelivery
+  discoverycodex_bookgreen:
+    itemname: '[UI Only] Book Green'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/discoverycodex/bookgreen
+  discoverycodex_bookred:
+    itemname: '[UI Only] Book Red'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/discoverycodex/bookred
+  dungeons_dungeons:
+    itemname: '[UI Only] Dungeons'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/dungeons/dungeons
+  dungeons_souls:
+    itemname: '[UI Only] Souls'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/dungeons/souls
+  earth_map:
+    itemname: '[UI Only] Map'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/earth/map
+  earth_mapmark:
+    itemname: '[UI Only] Map Mark'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/earth/mapmark
+  factories_gasoline:
+    itemname: '[UI Only] Gasoline'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/gasoline
+  factories_lockopen:
+    itemname: '[UI Only] Lock Open'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockopen
+  factories_processtwo:
+    itemname: '[UI Only] Process Two'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/processtwo
+  factories_hydrogen:
+    itemname: '[UI Only] Hydrogen'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/hydrogen
+  factories_oil:
+    itemname: '[UI Only] Oil'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/oil
+  factories_jobs_blank:
+    itemname: '[UI Only] Jobs Blank'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/jobs_blank
+  factories_package:
+    itemname: '[UI Only] Package'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/package
+  factories_uranium:
+    itemname: '[UI Only] Uranium'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/uranium
+  factories_lock:
+    itemname: '[UI Only] Lock'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lock
+  factories_processone:
+    itemname: '[UI Only] Process One'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/processone
+  factories_processthree:
+    itemname: '[UI Only] Process Three'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/processthree
+  factories_lockedfactories_lockedarrow:
+    itemname: '[UI Only] Locked Arrow'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedarrow
+  factories_lockedfactories_lockedgasoline:
+    itemname: '[UI Only] Locked Gasoline'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedgasoline
+  factories_lockedfactories_lockedoil:
+    itemname: '[UI Only] Locked Oil'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedoil
+  factories_lockedfactories_lockedbook:
+    itemname: '[UI Only] Locked Book'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedbook
+  factories_lockedfactories_lockedgoldingot:
+    itemname: '[UI Only] Locked Gold Ingot'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedgoldingot
+  factories_lockedfactories_lockedquartz:
+    itemname: '[UI Only] Locked Quartz'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedquartz
+  factories_lockedfactories_lockedbrick:
+    itemname: '[UI Only] Locked Brick'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedbrick
+  factories_lockedfactories_lockedhydrogen:
+    itemname: '[UI Only] Locked Hydrogen'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedhydrogen
+  factories_lockedfactories_lockedstring:
+    itemname: '[UI Only] Locked String'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedstring
+  factories_lockedfactories_lockedcharcoal:
+    itemname: '[UI Only] Locked Charcoal'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedcharcoal
+  factories_lockedfactories_lockedironingot:
+    itemname: '[UI Only] Locked Iron Ingot'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedironingot
+  factories_lockedfactories_lockeduranium:
+    itemname: '[UI Only] Locked Uranium'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockeduranium
+  factories_lockedfactories_lockedcopperingot:
+    itemname: '[UI Only] Locked Copper Ingot'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedcopperingot
+  factories_lockedfactories_lockeditemframe:
+    itemname: '[UI Only] Locked Item Frame'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockeditemframe
+  factories_lockedfactories_lockedwheat:
+    itemname: '[UI Only] Locked Wheat'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedwheat
+  factories_lockedfactories_lockeddiamond:
+    itemname: '[UI Only] Locked Diamond'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockeddiamond
+  factories_lockedfactories_lockednetherite:
+    itemname: '[UI Only] Locked Netherite'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockednetherite
+  factories_lockedfactories_lockopen:
+    itemname: '[UI Only] Lock Open'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockopen
+  factories_lockedfactories_lockedfirework:
+    itemname: '[UI Only] Locked Firework'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockedfirework
+  factories_lockedfactories_lockednetherstar:
+    itemname: '[UI Only] Locked Nether Star'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/lockedfactories/lockednetherstar
+  factories_research_accounting:
+    itemname: '[UI Only] Accounting'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/accounting
+  factories_research_hydrogen:
+    itemname: '[UI Only] Hydrogen'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/hydrogen
+  factories_research_timerfour:
+    itemname: '[UI Only] Timer Four'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/timerfour
+  factories_research_accountingthree:
+    itemname: '[UI Only] Accounting Three'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/accountingthree
+  factories_research_mechanics:
+    itemname: '[UI Only] Mechanics'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/mechanics
+  factories_research_timerone:
+    itemname: '[UI Only] Timer One'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/timerone
+  factories_research_accountingtwo:
+    itemname: '[UI Only] Accounting Two'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/accountingtwo
+  factories_research_mechanicsthree:
+    itemname: '[UI Only] Mechanics Three'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/mechanicsthree
+  factories_research_timerthree:
+    itemname: '[UI Only] Timer Three'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/timerthree
+  factories_research_diamond:
+    itemname: '[UI Only] Diamond'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/diamond
+  factories_research_mechanicstwo:
+    itemname: '[UI Only] Mechanics Two'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/mechanicstwo
+  factories_research_timertwo:
+    itemname: '[UI Only] Timer Two'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/timertwo
+  factories_research_factory:
+    itemname: '[UI Only] Factory'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/factory
+  factories_research_metals:
+    itemname: '[UI Only] Metals'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/metals
+  factories_research_uranium:
+    itemname: '[UI Only] Uranium'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/uranium
+  factories_research_gasoline:
+    itemname: '[UI Only] Gasoline'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/gasoline
+  factories_research_netherite:
+    itemname: '[UI Only] Netherite'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/netherite
+  factories_research_goldingot:
+    itemname: '[UI Only] Gold Ingot'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/goldingot
+  factories_research_oil:
+    itemname: '[UI Only] Oil'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/factories/research/oil
+  farm_hoe:
+    itemname: '[UI Only] Hoe'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/farm/hoe
+  helpmenu_auction:
+    itemname: '[UI Only] Auction'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/auction
+  helpmenu_kits:
+    itemname: '[UI Only] Kits'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/kits
+  helpmenu_skills:
+    itemname: '[UI Only] Skills'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/skills
+  helpmenu_chat:
+    itemname: '[UI Only] Chat'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/chat
+  helpmenu_leaderboards:
+    itemname: '[UI Only] Leaderboards'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/leaderboards
+  helpmenu_store:
+    itemname: '[UI Only] Store'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/store
+  helpmenu_coinshop:
+    itemname: '[UI Only] Coinshop'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/coinshop
+  helpmenu_levels:
+    itemname: '[UI Only] Levels'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/levels
+  helpmenu_tags:
+    itemname: '[UI Only] Tags'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/tags
+  helpmenu_cosmetics:
+    itemname: '[UI Only] Cosmetics'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/cosmetics
+  helpmenu_pw:
+    itemname: '[UI Only] Playtime'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/pw
+  helpmenu_teams:
+    itemname: '[UI Only] Teams'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/teams
+  helpmenu_dailyquests:
+    itemname: '[UI Only] Daily Quests'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/dailyquests
+  helpmenu_quests:
+    itemname: '[UI Only] Quests'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/quests
+  helpmenu_warps:
+    itemname: '[UI Only] Warps'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/warps
+  helpmenu_deliveries:
+    itemname: '[UI Only] Deliveries'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/deliveries
+  helpmenu_rewards:
+    itemname: '[UI Only] Rewards'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/rewards
+  helpmenu_weekendgrinder:
+    itemname: '[UI Only] Weekend Grinder'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/weekendgrinder
+  helpmenu_factories:
+    itemname: '[UI Only] Factories'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/factories
+  helpmenu_rtp:
+    itemname: '[UI Only] Random Teleport'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/rtp
+  helpmenu_jobs:
+    itemname: '[UI Only] Jobs'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/jobs
+  helpmenu_shop:
+    itemname: '[UI Only] Shop'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/helpmenu/shop
+  icons_arrowright:
+    itemname: '[UI Only] Arrow Right'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/icons/arrowright
+  icons_book:
+    itemname: '[UI Only] Book'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/icons/book
+  jobs_check:
+    itemname: '[UI Only] Check'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/jobs/check
+  jobs_chest:
+    itemname: '[UI Only] Chest'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/jobs/chest
+  jobs_chestfull:
+    itemname: '[UI Only] Chest Full'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/jobs/chestfull
+  jobs_chestlocked:
+    itemname: '[UI Only] Chest Locked'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/jobs/chestlocked
+  jobs_chestopen:
+    itemname: '[UI Only] Chest Open'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/jobs/chestopen
+  keys_common:
+    itemname: '[UI Only] Common'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/keys/common
+  keys_rankup:
+    itemname: '[UI Only] Rank Up'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/keys/rankup
+  keys_superior:
+    itemname: '[UI Only] Superior'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/keys/superior
+  keys_white:
+    itemname: '[UI Only] White'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/keys/white
+  keys_epic:
+    itemname: '[UI Only] Epic'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/keys/epic
+  keys_rare:
+    itemname: '[UI Only] Rare'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/keys/rare
+  keys_vote:
+    itemname: '[UI Only] Vote'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/keys/vote
+  kits_duke:
+    itemname: '[UI Only] Duke'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/kits/duke
+  kits_king:
+    itemname: '[UI Only] King'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/kits/king
+  kits_knight:
+    itemname: '[UI Only] Knight'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/kits/knight
+  kits_lord:
+    itemname: '[UI Only] Lord'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/kits/lord
+  kits_paladin:
+    itemname: '[UI Only] Paladin'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/kits/paladin
+  lifesteal_hearts_heartone:
+    itemname: '[UI Only] Heart One'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/lifesteal/hearts/heartone
+  lifesteal_hearts_heartthree:
+    itemname: '[UI Only] Heart Three'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/lifesteal/hearts/heartthree
+  lifesteal_hearts_hearttwo:
+    itemname: '[UI Only] Heart Two'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/lifesteal/hearts/hearttwo
+  lifesteal_sacrifhearts_boot:
+    itemname: '[UI Only] Boot'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/lifesteal/sacrifhearts/boot
+  lifesteal_sacrifhearts_heart:
+    itemname: '[UI Only] Heart'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/lifesteal/sacrifhearts/heart
+  lifesteal_sacrifhearts_shield:
+    itemname: '[UI Only] Shield'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/lifesteal/sacrifhearts/shield
+  lifesteal_sacrifhearts_sword:
+    itemname: '[UI Only] Sword'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/lifesteal/sacrifhearts/sword
+  playtimelevels_levelgreen:
+    itemname: '[UI Only] Level Green'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/playtimelevels/levelgreen
+  playtimelevels_levelred:
+    itemname: '[UI Only] Level Red'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/playtimelevels/levelred
+  playtimelevels_levelyellow:
+    itemname: '[UI Only] Level Yellow'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/playtimelevels/levelyellow
+  prison_cprestigefive:
+    itemname: '[UI Only] Custom Prestige Five'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/cprestigefive
+  prison_cprestigetwo:
+    itemname: '[UI Only] Custom Prestige Two'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/cprestigetwo
+  prison_prestigeseven:
+    itemname: '[UI Only] Prestige Seven'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/prestigeseven
+  prison_cprestigefour:
+    itemname: '[UI Only] Custom Prestige Four'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/cprestigefour
+  prison_prestigesix:
+    itemname: '[UI Only] Prestige Six'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/prestigesix
+  prison_cprestigeone:
+    itemname: '[UI Only] Custom Prestige One'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/cprestigeone
+  prison_mines:
+    itemname: '[UI Only] Mines'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/mines
+  prison_prestigethree:
+    itemname: '[UI Only] Prestige Three'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/prestigethree
+  prison_cprestigeseven:
+    itemname: '[UI Only] Custom Prestige Seven'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/cprestigeseven
+  prison_prestigefive:
+    itemname: '[UI Only] Prestige Five'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/prestigefive
+  prison_prestigetwo:
+    itemname: '[UI Only] Prestige Two'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/prestigetwo
+  prison_cprestigesix:
+    itemname: '[UI Only] Custom Prestige Six'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/cprestigesix
+  prison_prestigefour:
+    itemname: '[UI Only] Prestige Four'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/prestigefour
+  prison_rank:
+    itemname: '[UI Only] Rank'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/rank
+  prison_cprestigethree:
+    itemname: '[UI Only] Custom Prestige Three'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/cprestigethree
+  prison_prestigeone:
+    itemname: '[UI Only] Prestige One'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/prestigeone
+  prison_tokens:
+    itemname: '[UI Only] Tokens'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/tokens
+  prison_enchants_autoblock:
+    itemname: '[UI Only] Auto Block'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/autoblock
+  prison_enchants_efficiency:
+    itemname: '[UI Only] Efficiency'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/efficiency
+  prison_enchants_nightvision:
+    itemname: '[UI Only] Night Vision'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/nightvision
+  prison_enchants_autosmelt:
+    itemname: '[UI Only] Auto Smelt'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/autosmelt
+  prison_enchants_fortune:
+    itemname: '[UI Only] Fortune'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/fortune
+  prison_enchants_speed:
+    itemname: '[UI Only] Speed'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/speed
+  prison_enchants_collector:
+    itemname: '[UI Only] Collector'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/collector
+  prison_enchants_luckymining:
+    itemname: '[UI Only] Lucky Mining'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/luckymining
+  prison_enchants_treasurehunter:
+    itemname: '[UI Only] Treasure Hunter'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/treasurehunter
+  prison_enchants_dynamite:
+    itemname: '[UI Only] Dynamite'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/dynamite
+  prison_enchants_merchant:
+    itemname: '[UI Only] Merchant'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/prison/enchants/merchant
+  quests_questgreen:
+    itemname: '[UI Only] Quest Green'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/quests/questgreen
+  quests_questlocked:
+    itemname: '[UI Only] Quest Locked'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/quests/questlocked
+  quests_questorange:
+    itemname: '[UI Only] Quest Orange'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/quests/questorange
+  rewards_rewardclosedone:
+    itemname: '[UI Only] Reward Closed One'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rewards/rewardclosedone
+  rewards_rewardclosedtwo:
+    itemname: '[UI Only] Reward Closed Two'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rewards/rewardclosedtwo
+  rewards_rewardthree:
+    itemname: '[UI Only] Reward Three'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rewards/rewardthree
+  rewards_rewardclosedthree:
+    itemname: '[UI Only] Reward Closed Three'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rewards/rewardclosedthree
+  rewards_rewardone:
+    itemname: '[UI Only] Reward One'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rewards/rewardone
+  rewards_rewardtwo:
+    itemname: '[UI Only] Reward Two'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rewards/rewardtwo
+  rpg_kits:
+    itemname: '[UI Only] Kits'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/kits
+  rpg_package:
+    itemname: '[UI Only] Package'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/package
+  rpg_classxp:
+    itemname: '[UI Only] Class XP'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/classxp
+  rpg_letter:
+    itemname: '[UI Only] Letter'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/letter
+  rpg_lettershadow:
+    itemname: '[UI Only] Letter Shadow'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/lettershadow
+  rpg_stats:
+    itemname: '[UI Only] Stats'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/stats
+  rpg_gemofatlantis:
+    itemname: '[UI Only] Gem of Atlantis'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/gemofatlantis
+  rpg_abilities_8aquaticbreathing:
+    itemname: '[UI Only] Tier 8 Aquatic Breathing'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8aquaticbreathing
+  rpg_abilities_8lightningstrike:
+    itemname: '[UI Only] Tier 8 Lightning Strike'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8lightningstrike
+  rpg_abilities_aquaticbreathing:
+    itemname: '[UI Only] Aquatic Breathing'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/aquaticbreathing
+  rpg_abilities_8axemastery:
+    itemname: '[UI Only] Tier 8 Axe Mastery'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8axemastery
+  rpg_abilities_8marathonstamina:
+    itemname: '[UI Only] Tier 8 Marathon Stamina'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8marathonstamina
+  rpg_abilities_backstabbing:
+    itemname: '[UI Only] Backstabbing'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/backstabbing
+  rpg_abilities_8battlestand:
+    itemname: '[UI Only] Tier 8 Battle Stand'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8battlestand
+  rpg_abilities_8nightvision:
+    itemname: '[UI Only] Tier 8 Night Vision'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8nightvision
+  rpg_abilities_crushingfury:
+    itemname: '[UI Only] Crushing Fury'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/crushingfury
+  rpg_abilities_8crushingfury:
+    itemname: '[UI Only] Tier 8 Crushing Fury'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8crushingfury
+  rpg_abilities_8olympicswimmer:
+    itemname: '[UI Only] Tier 8 Olympic Swimmer'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8olympicswimmer
+  rpg_abilities_fatalarrows:
+    itemname: '[UI Only] Fatal Arrows'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/fatalarrows
+  rpg_abilities_8divinerecovery:
+    itemname: '[UI Only] Tier 8 Divine Recovery'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8divinerecovery
+  rpg_abilities_8poisonblade:
+    itemname: '[UI Only] Tier 8 Poison Blade'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8poisonblade
+  rpg_abilities_firespell:
+    itemname: '[UI Only] Fire Spell'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/firespell
+  rpg_abilities_8fatalarrows:
+    itemname: '[UI Only] Tier 8 Fatal Arrows'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8fatalarrows
+  rpg_abilities_8rampage:
+    itemname: '[UI Only] Tier 8 Rampage'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8rampage
+  rpg_abilities_healingaura:
+    itemname: '[UI Only] Healing Aura'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/healingaura
+  rpg_abilities_8firespell:
+    itemname: '[UI Only] Tier 8 Fire Spell'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8firespell
+  rpg_abilities_8rapidspeed:
+    itemname: '[UI Only] Tier 8 Rapid Speed'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8rapidspeed
+  rpg_abilities_invisibilitycloak:
+    itemname: '[UI Only] Invisibility Cloak'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/invisibilitycloak
+  rpg_abilities_8flyingescape:
+    itemname: '[UI Only] Tier 8 Flying Escape'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8flyingescape
+  rpg_abilities_8shadowkill:
+    itemname: '[UI Only] Tier 8 Shadow Kill'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8shadowkill
+  rpg_abilities_lethalstrength:
+    itemname: '[UI Only] Lethal Strength'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/lethalstrength
+  rpg_abilities_8healingaura:
+    itemname: '[UI Only] Tier 8 Healing Aura'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8healingaura
+  rpg_abilities_8steelframe:
+    itemname: '[UI Only] Tier 8 Steel Frame'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8steelframe
+  rpg_abilities_lightningstrike:
+    itemname: '[UI Only] Lightning Strike'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/lightningstrike
+  rpg_abilities_8invisibilitycloak:
+    itemname: '[UI Only] Tier 8 Invisibility Cloak'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8invisibilitycloak
+  rpg_abilities_8swordmastery:
+    itemname: '[UI Only] Tier 8 Sword Mastery'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8swordmastery
+  rpg_abilities_nightvision:
+    itemname: '[UI Only] Night Vision'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/nightvision
+  rpg_abilities_8ironfist:
+    itemname: '[UI Only] Tier 8 Iron Fist'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8ironfist
+  rpg_abilities_8tridentmastery:
+    itemname: '[UI Only] Tier 8 Trident Mastery'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8tridentmastery
+  rpg_abilities_rampage:
+    itemname: '[UI Only] Rampage'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/rampage
+  rpg_abilities_8lethalstrength:
+    itemname: '[UI Only] Tier 8 Lethal Strength'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8lethalstrength
+  rpg_abilities_8vitalescape:
+    itemname: '[UI Only] Tier 8 Vital Escape'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/8vitalescape
+  rpg_abilities_rapidspeed:
+    itemname: '[UI Only] Rapid Speed'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/abilities/rapidspeed
+  rpg_elixirs_alchemist:
+    itemname: '[UI Only] Alchemist'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/alchemist
+  rpg_elixirs_barbarian:
+    itemname: '[UI Only] Barbarian'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/barbarian
+  rpg_elixirs_marine:
+    itemname: '[UI Only] Marine'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/marine
+  rpg_elixirs_valkyrie:
+    itemname: '[UI Only] Valkyrie'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/valkyrie
+  rpg_elixirs_wizard:
+    itemname: '[UI Only] Wizard'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/wizard
+  rpg_elixirs_archer:
+    itemname: '[UI Only] Archer'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/archer
+  rpg_elixirs_bravery:
+    itemname: '[UI Only] Bravery'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/bravery
+  rpg_elixirs_ninja:
+    itemname: '[UI Only] Ninja'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/ninja
+  rpg_elixirs_viking:
+    itemname: '[UI Only] Viking'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/viking
+  rpg_elixirs_assassin:
+    itemname: '[UI Only] Assassin'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/assassin
+  rpg_elixirs_cleric:
+    itemname: '[UI Only] Cleric'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/cleric
+  rpg_elixirs_scout:
+    itemname: '[UI Only] Scout'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/scout
+  rpg_elixirs_warrior:
+    itemname: '[UI Only] Warrior'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/elixirs/warrior
+  rpg_levels_completed:
+    itemname: '[UI Only] Completed'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/levels/completed
+  rpg_levels_locked:
+    itemname: '[UI Only] Locked'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/levels/locked
+  rpg_levels_unlocked:
+    itemname: '[UI Only] Unlocked'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/levels/unlocked
+  rpg_scroll_down:
+    itemname: '[UI Only] Down'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/scroll/down
+  rpg_scroll_up:
+    itemname: '[UI Only] Up'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/rpg/scroll/up
+  settings_settingsoff:
+    itemname: '[UI Only] Settings Off'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/settings/settingsoff
+  settings_settingson:
+    itemname: '[UI Only] Settings On'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/settings/settingson
+  shop_check:
+    itemname: '[UI Only] Check'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/shop/check
+  shop_minus:
+    itemname: '[UI Only] Minus'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/shop/minus
+  shop_plus:
+    itemname: '[UI Only] Plus'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/shop/plus
+  shop_set:
+    itemname: '[UI Only] Set'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/shop/set
+  skills_levelgreen:
+    itemname: '[UI Only] Level Green'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/skills/levelgreen
+  skills_levelred:
+    itemname: '[UI Only] Level Red'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/skills/levelred
+  skills_levelyellow:
+    itemname: '[UI Only] Level Yellow'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/skills/levelyellow
+  tagsmenus_africa:
+    itemname: '[UI Only] Africa'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/africa
+  tagsmenus_iconall:
+    itemname: '[UI Only] Icon All'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/iconall
+  tagsmenus_iconothers:
+    itemname: '[UI Only] Icon Others'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/iconothers
+  tagsmenus_all:
+    itemname: '[UI Only] All'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/all
+  tagsmenus_iconanimals:
+    itemname: '[UI Only] Icon Animals'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/iconanimals
+  tagsmenus_iconpizza:
+    itemname: '[UI Only] Icon Pizza'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/iconpizza
+  tagsmenus_asia:
+    itemname: '[UI Only] Asia'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/asia
+  tagsmenus_icongames:
+    itemname: '[UI Only] Icon Games'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/icongames
+  tagsmenus_northamerica:
+    itemname: '[UI Only] North America'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/northamerica
+  tagsmenus_australia:
+    itemname: '[UI Only] Australia'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/australia
+  tagsmenus_iconicons:
+    itemname: '[UI Only] Icon Icons'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/iconicons
+  tagsmenus_southamerica:
+    itemname: '[UI Only] South America'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/southamerica
+  tagsmenus_europe:
+    itemname: '[UI Only] Europe'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/europe
+  tagsmenus_iconmovies:
+    itemname: '[UI Only] Icon Movies'
+    material: FEATHER
+    Pack:
+      texture: nitro_item/tagsmenus/iconmovies
+  anvil_icon:
+    itemname: 'anvil_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/anvil
+  floating_island_icon:
+    itemname: 'floating_island_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/floating_island
+  experience_orb_icon:
+    itemname: 'experience_orb_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/experience_orb
+  judge_gavel_icon:
+    itemname: 'judge_gavel_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/judge_gavel
+  cave_icon:
+    itemname: 'cave_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/cave
+  chef_hat_icon:
+    itemname: 'chef_hat_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/chef_hat
+  plant_icon:
+    itemname: 'plant_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/plant
+  trees_icon:
+    itemname: 'trees_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/trees
+  mana_icon:
+    itemname: 'mana_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/mana
+  coins_icon:
+    itemname: 'coins_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/coins
+  purple_orb_icon:
+    itemname: 'purple_orb_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/purple_orb
+  star_icon:
+    itemname: 'star_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/star
+  crown_icon:
+    itemname: 'crown_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/crown
+  diamond_icon:
+    itemname: 'diamond_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/diamond
+  sun_icon:
+    itemname: 'sun_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/sun
+  fountain_icon:
+    itemname: 'fountain_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/fountain
+  wizard_tower_icon:
+    itemname: 'wizard_tower_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/wizard_tower
+  potion_icon:
+    itemname: 'potion_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/potion
+  house_icon:
+    itemname: 'house_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/house
+  moon_icon:
+    itemname: 'moon_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/moon
+  level_up_icon:
+    itemname: 'level_up_icon'
+    material: FEATHER
+    Pack:
+      texture: icons/level_up
+  aa_icon:
+    itemname: 'aa_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/aa_icon
+  arrow_down_icon:
+    itemname: 'arrow_down_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/arrow_down_icon
+  arrow_left_icon:
+    itemname: 'arrow_left_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/arrow_left_icon
+  arrow_right_icon:
+    itemname: 'arrow_right_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/arrow_right_icon
+  arrow_up_icon:
+    itemname: 'arrow_up_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/arrow_up_icon
+  axe_icon:
+    itemname: 'axe_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/axe_icon
+  bell_icon:
+    itemname: 'bell_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/bell_icon
+  bin_icon:
+    itemname: 'bin_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/bin_icon
+  book_icon:
+    itemname: 'book_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/book_icon
+  book_open_icon:
+    itemname: 'book_open_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/book_open_icon
+  bookmark_icon:
+    itemname: 'bookmark_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/bookmark_icon
+  brush_icon:
+    itemname: 'brush_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/brush_icon
+  calendar_icon:
+    itemname: 'calendar_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/calendar_icon
+  cart_icon:
+    itemname: 'cart_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/cart_icon
+  chat_disabled_icon:
+    itemname: 'chat_disabled_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/chat_disabled_icon
+  chat_icon:
+    itemname: 'chat_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/chat_icon
+  chat_notification_icon:
+    itemname: 'chat_notification_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/chat_notification_icon
+  check_icon:
+    itemname: 'check_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/check_icon
+  chest_icon:
+    itemname: 'chest_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/chest_icon
+  chest_open_icon:
+    itemname: 'chest_open_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/chest_open_icon
+  clock_icon:
+    itemname: 'clock_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/clock_icon
+  color_palette_icon:
+    itemname: 'color_palette_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/color_palette_icon
+  crafting_table_icon:
+    itemname: 'crafting_table_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/crafting_table_icon
+  cross_icon:
+    itemname: 'cross_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/cross_icon
+  cutlery_icon:
+    itemname: 'cutlery_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/cutlery_icon
+  dog_icon:
+    itemname: 'dog_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/dog_icon
+  dollar_icon:
+    itemname: 'dollar_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/dollar_icon
+  end_portal_icon:
+    itemname: 'end_portal_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/end_portal_icon
+  exclamation_mark_icon:
+    itemname: 'exclamation_mark_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/exclamation_mark_icon
+  flag_icon:
+    itemname: 'flag_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/flag_icon
+  game_icon:
+    itemname: 'game_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/game_icon
+  golden_key_icon:
+    itemname: 'golden_key_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/golden_key_icon
+  golden_lock_icon:
+    itemname: 'golden_lock_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/golden_lock_icon
+  golden_unlock_icon:
+    itemname: 'golden_unlock_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/golden_unlock_icon
+  hammer_icon:
+    itemname: 'hammer_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/hammer_icon
+  hanger_icon:
+    itemname: 'hanger_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/hanger_icon
+  heart_icon:
+    itemname: 'heart_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/heart_icon
+  home_icon:
+    itemname: 'home_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/home_icon
+  hourglass_icon:
+    itemname: 'hourglass_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/hourglass_icon
+  hunger_icon:
+    itemname: 'hunger_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/hunger_icon
+  info_icon:
+    itemname: 'info_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/info_icon
+  key_icon:
+    itemname: 'key_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/key_icon
+  large_book_icon:
+    itemname: 'large_book_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/large_book_icon
+  lock_icon:
+    itemname: 'lock_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/lock_icon
+  magnifying_glass_icon:
+    itemname: 'magnifying_glass_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/magnifying_glass_icon
+  mail_icon:
+    itemname: 'mail_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/mail_icon
+  mail_open_icon:
+    itemname: 'mail_open_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/mail_open_icon
+  mobile_phone_icon:
+    itemname: 'mobile_phone_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/mobile_phone_icon
+  money_icon:
+    itemname: 'money_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/money_icon
+  music_disabled_icon:
+    itemname: 'music_disabled_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/music_disabled_icon
+  music_icon:
+    itemname: 'music_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/music_icon
+  nether_portal_icon:
+    itemname: 'nether_portal_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/nether_portal_icon
+  notification_mail_icon:
+    itemname: 'notification_mail_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/notification_mail_icon
+  orange_flag:
+    itemname: 'orange_flag'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/orange_flag
+  pet_icon:
+    itemname: 'pet_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/pet_icon
+  pickaxe_icon:
+    itemname: 'pickaxe_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/pickaxe_icon
+  picture_icon:
+    itemname: 'picture_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/picture_icon
+  question_mark_icon:
+    itemname: 'question_mark_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/question_mark_icon
+  rank_icon:
+    itemname: 'rank_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/rank_icon
+  scroll_icon:
+    itemname: 'scroll_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/scroll_icon
+  settings_icon:
+    itemname: 'settings_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/settings_icon
+  shield_icon:
+    itemname: 'shield_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/shield_icon
+  shovel_icon:
+    itemname: 'shovel_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/shovel_icon
+  skull_icon:
+    itemname: 'skull_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/skull_icon
+  store_icon:
+    itemname: 'store_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/store_icon
+  suitcase_icon:
+    itemname: 'suitcase_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/suitcase_icon
+  suitcase_open_icon:
+    itemname: 'suitcase_open_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/suitcase_open_icon
+  sword_icon:
+    itemname: 'sword_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/sword_icon
+  tools_icon:
+    itemname: 'tools_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/tools_icon
+  tt_icon:
+    itemname: 'tt_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/tt_icon
+  unfurled_scroll_icon:
+    itemname: 'unfurled_scroll_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/unfurled_scroll_icon
+  unlock_icon:
+    itemname: 'unlock_icon'
+    material: FEATHER
+    Pack:
+      texture: colorful_icons_pack/unlock_icon
+  tokens:
+    itemname: 'tokens'
+    material: FEATHER
+    Pack:
+      texture: icons/tokens

@@ -1,0 +1,41 @@
+nm_figure_you_1:
+  itemname: <white><glyph:rank_patron> Jazko_
+  material: PAPER
+  Mechanics:
+    furniture:
+      limited_placing:
+        roof: false
+        floor: true
+        wall: false
+      barrier: false
+      block_sounds:
+        break_sound: block.wooden_button.click_off
+        place_sound: block.wooden_button.click_on
+      drop:
+        silktouch: false
+        loots:
+        - oraxen_item: nm_figure_you_1
+          probability: 1.0
+  Pack:
+    model: nogs_menagerie/figures/nm_figure_you_1
+
+nm_figure_you_1_unboxed:
+  itemname: <white><glyph:rank_patron> Jazko_
+  material: PAPER
+  Mechanics:
+    furniture:
+      limited_placing:
+        roof: false
+        floor: true
+        wall: false
+      barrier: false
+      block_sounds:
+        break_sound: block.wooden_button.click_off
+        place_sound: block.wooden_button.click_on
+      drop:
+        silktouch: false
+        loots:
+        - oraxen_item: nm_figure_you_1_unboxed
+          probability: 1.0
+  Pack:
+    model: nogs_menagerie/figures/nm_figure_you_1_unboxed

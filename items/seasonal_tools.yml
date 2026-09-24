@@ -1,0 +1,1232 @@
+# ============ SPOOKY ============
+spooky_pickaxe:
+  itemname: <color:#d4935f>Spooky Pickaxe
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#9b59b6>Mined in the dead of night,
+  - <#9b59b6>where no torch dares to burn.
+  Pack:
+    parent_model: item/handheld
+    texture: spooky/spooky_pickaxe
+
+spooky_sword:
+  itemname: <color:#d4935f>Spooky Sword
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#9b59b6>Its edge was quenched
+  - <#9b59b6>in the wails of the restless.
+  Pack:
+    parent_model: item/handheld
+    texture: spooky/spooky_sword
+
+spooky_shovel:
+  itemname: <color:#d4935f>Spooky Shovel
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#9b59b6>Dug one too many
+  - <#9b59b6>graves it shouldn't have.
+  Pack:
+    parent_model: item/handheld
+    texture: spooky/spooky_shovel
+
+spooky_axe:
+  itemname: <color:#d4935f>Spooky Axe
+  material: NETHERITE_AXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#9b59b6>Felled trees that grew
+  - <#9b59b6>from unmarked graves.
+  Pack:
+    parent_model: item/handheld
+    texture: spooky/spooky_axe
+
+spooky_hoe:
+  itemname: <color:#d4935f>Spooky Hoe
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#9b59b6>Tills soil that never
+  - <#9b59b6>quite stays turned.
+  Pack:
+    parent_model: item/handheld
+    texture: spooky/spooky_hoe
+
+spooky_bow:
+  itemname: <color:#d4935f>Spooky Bow
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#9b59b6>Fletched with feathers
+  - <#9b59b6>plucked from the crows
+  - <#9b59b6>that circle the graveyard.
+  Pack:
+    texture: spooky/spooky_bow
+    pulling_textures:
+    - spooky/spooky_bow_pulling_0
+    - spooky/spooky_bow_pulling_1
+    - spooky/spooky_bow_pulling_2
+
+# ============ CLOVER ============
+clover_pickaxe:
+  itemname: <white>Clover Pickaxe
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#2ecc71>Struck the earth and found
+  - <#2ecc71>a vein of pure fortune.
+  Pack:
+    parent_model: item/handheld
+    texture: clover/clover_pickaxe
+
+clover_sword:
+  itemname: <white>Clover Sword
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#2ecc71>Blessed by a four-leaf
+  - <#2ecc71>clover before the swing.
+  Pack:
+    parent_model: item/handheld
+    texture: clover/clover_sword
+
+clover_shovel:
+  itemname: <white>Clover Shovel
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#2ecc71>Turns up nothing
+  - <#2ecc71>but good luck.
+  Pack:
+    parent_model: item/handheld
+    texture: clover/clover_shovel
+
+clover_axe:
+  itemname: <white>Clover Axe
+  material: NETHERITE_AXE
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#2ecc71>Grown from a seed
+  - <#2ecc71>of pure serendipity.
+  Pack:
+    parent_model: item/handheld
+    texture: clover/clover_axe
+
+clover_hoe:
+  itemname: <white>Clover Hoe
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#2ecc71>Every row it tills
+  - <#2ecc71>sprouts a little luck.
+  Pack:
+    parent_model: item/handheld
+    texture: clover/clover_hoe
+
+clover_bow:
+  itemname: <white>Clover Bow
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#2ecc71>Strung with a vine
+  - <#2ecc71>of endless good fortune.
+  Pack:
+    texture: clover/clover_bow
+    pulling_textures:
+    - clover/clover_bow_pulling_0
+    - clover/clover_bow_pulling_1
+    - clover/clover_bow_pulling_2
+
+# ============ FESTIVE ============
+festive_pickaxe:
+  itemname: <gradient:#FF7878:#FF7878>Festive Pickaxe</gradient>
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#e74c3c>Wrapped in tinsel,
+  - <#e74c3c>swings with holiday cheer.
+  Pack:
+    parent_model: item/handheld
+    texture: festive/festive_pickaxe
+
+festive_sword:
+  itemname: <gradient:#FF7878:#FF7878>Festive Sword</gradient>
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#e74c3c>Forged beside the hearth
+  - <#e74c3c>on the coldest winter night.
+  Pack:
+    parent_model: item/handheld
+    texture: festive/festive_sword
+
+festive_shovel:
+  itemname: <gradient:#FF7878:#FF7878>Festive Shovel</gradient>
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#e74c3c>Clears snow like
+  - <#e74c3c>presents under the tree.
+  Pack:
+    parent_model: item/handheld
+    texture: festive/festive_shovel
+
+festive_axe:
+  itemname: <gradient:#FF7878:#FF7878>Festive Axe</gradient>
+  material: NETHERITE_AXE
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#e74c3c>Chopped the finest
+  - <#e74c3c>tree in the whole forest.
+  Pack:
+    parent_model: item/handheld
+    texture: festive/festive_axe
+
+festive_hoe:
+  itemname: <gradient:#FF7878:#FF7878>Festive Hoe</gradient>
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#e74c3c>Tills the frost
+  - <#e74c3c>like a winter garden.
+  Pack:
+    parent_model: item/handheld
+    texture: festive/festive_hoe
+
+festive_bow:
+  itemname: <gradient:#FF7878:#FF7878>Festive Bow</gradient>
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#e74c3c>Strung with ribbon,
+  - <#e74c3c>fires arrows wrapped in joy.
+  Pack:
+    texture: festive/festive_bow
+    pulling_textures:
+    - festive/festive_bow_pulling_0
+    - festive/festive_bow_pulling_1
+    - festive/festive_bow_pulling_2
+
+# ============ EASTER ============
+easter_pickaxe:
+  itemname: <white>Easter Pickaxe
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#f7cac9>Painted like an egg,
+  - <#f7cac9>hidden just for you.
+  Pack:
+    parent_model: item/handheld
+    texture: easter/easter_pickaxe
+
+easter_sword:
+  itemname: <white>Easter Sword
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#f7cac9>Found at the end
+  - <#f7cac9>of the greatest egg hunt.
+  Pack:
+    parent_model: item/handheld
+    texture: easter/easter_sword
+
+easter_shovel:
+  itemname: <white>Easter Shovel
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#f7cac9>Digs up baskets
+  - <#f7cac9>buried under spring soil.
+  Pack:
+    parent_model: item/handheld
+    texture: easter/easter_shovel
+
+easter_axe:
+  itemname: <white>Easter Axe
+  material: NETHERITE_AXE
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#f7cac9>Carved from a branch
+  - <#f7cac9>of the blooming orchard.
+  Pack:
+    parent_model: item/handheld
+    texture: easter/easter_axe
+
+easter_hoe:
+  itemname: <white>Easter Hoe
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#f7cac9>Tills the fields
+  - <#f7cac9>where the bunnies play.
+  Pack:
+    parent_model: item/handheld
+    texture: easter/easter_hoe
+
+easter_bow:
+  itemname: <white>Easter Bow
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#f7cac9>Strung with a ribbon
+  - <#f7cac9>from a spring basket.
+  Pack:
+    texture: easter/easter_bow
+    pulling_textures:
+    - easter/easter_bow_pulling_0
+    - easter/easter_bow_pulling_1
+    - easter/easter_bow_pulling_2
+
+# ============ BLOSSOM ============
+blossom_pickaxe:
+  itemname: <white>Blossom Pickaxe
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ffb7c5>Carved beneath a canopy
+  - <#ffb7c5>of falling petals.
+  Pack:
+    parent_model: item/handheld
+    texture: blossom/blossom_pickaxe
+
+blossom_sword:
+  itemname: <white>Blossom Sword
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#ffb7c5>Its blade blooms
+  - <#ffb7c5>with every strike.
+  Pack:
+    parent_model: item/handheld
+    texture: blossom/blossom_sword
+
+blossom_shovel:
+  itemname: <white>Blossom Shovel
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ffb7c5>Plants roots that
+  - <#ffb7c5>bloom overnight.
+  Pack:
+    parent_model: item/handheld
+    texture: blossom/blossom_shovel
+
+blossom_axe:
+  itemname: <white>Blossom Axe
+  material: NETHERITE_AXE
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ffb7c5>Cut from the oldest
+  - <#ffb7c5>cherry tree in bloom.
+  Pack:
+    parent_model: item/handheld
+    texture: blossom/blossom_axe
+
+blossom_hoe:
+  itemname: <white>Blossom Hoe
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ffb7c5>Tills the earth
+  - <#ffb7c5>where petals settle.
+  Pack:
+    parent_model: item/handheld
+    texture: blossom/blossom_hoe
+
+blossom_bow:
+  itemname: <white>Blossom Bow
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#ffb7c5>Strung with a branch
+  - <#ffb7c5>still in full bloom.
+  Pack:
+    texture: blossom/blossom_bow
+    pulling_textures:
+    - blossom/blossom_bow_pulling_0
+    - blossom/blossom_bow_pulling_1
+    - blossom/blossom_bow_pulling_2
+
+# ============ GLACIAL ============
+glacial_pickaxe:
+  itemname: <white>Glacial Pickaxe
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#74ebd5>Chipped from a glacier
+  - <#74ebd5>older than memory.
+  Pack:
+    parent_model: item/handheld
+    texture: glacial/glacial_pickaxe
+
+glacial_sword:
+  itemname: <white>Glacial Sword
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#74ebd5>Never melts, never
+  - <#74ebd5>loses its edge.
+  Pack:
+    parent_model: item/handheld
+    texture: glacial/glacial_sword
+
+glacial_shovel:
+  itemname: <white>Glacial Shovel
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#74ebd5>Cuts through permafrost
+  - <#74ebd5>like fresh powder.
+  Pack:
+    parent_model: item/handheld
+    texture: glacial/glacial_shovel
+
+glacial_axe:
+  itemname: <white>Glacial Axe
+  material: NETHERITE_AXE
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#74ebd5>Hewn from ice
+  - <#74ebd5>that never thaws.
+  Pack:
+    parent_model: item/handheld
+    texture: glacial/glacial_axe
+
+glacial_hoe:
+  itemname: <white>Glacial Hoe
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#74ebd5>Tills frozen ground
+  - <#74ebd5>with unnatural ease.
+  Pack:
+    parent_model: item/handheld
+    texture: glacial/glacial_hoe
+
+glacial_bow:
+  itemname: <white>Glacial Bow
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#74ebd5>Strung with ice
+  - <#74ebd5>that hums in the cold.
+  Pack:
+    texture: glacial/glacial_bow
+    pulling_textures:
+    - glacial/glacial_bow_pulling_0
+    - glacial/glacial_bow_pulling_1
+    - glacial/glacial_bow_pulling_2
+
+# ============ HEART ============
+heart_pickaxe:
+  itemname: <white>Heart Pickaxe
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ff6b81>Swung with all
+  - <#ff6b81>the strength of love.
+  Pack:
+    parent_model: item/handheld
+    texture: heart/heart_pickaxe
+
+heart_sword:
+  itemname: <white>Heart Sword
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#ff6b81>Forged from a promise
+  - <#ff6b81>never broken.
+  Pack:
+    parent_model: item/handheld
+    texture: heart/heart_sword
+
+heart_shovel:
+  itemname: <white>Heart Shovel
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ff6b81>Digs up feelings
+  - <#ff6b81>long buried away.
+  Pack:
+    parent_model: item/handheld
+    texture: heart/heart_shovel
+
+heart_axe:
+  itemname: <white>Heart Axe
+  material: NETHERITE_AXE
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ff6b81>Carved from a tree
+  - <#ff6b81>planted for a sweetheart.
+  Pack:
+    parent_model: item/handheld
+    texture: heart/heart_axe
+
+heart_hoe:
+  itemname: <white>Heart Hoe
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ff6b81>Tills the field
+  - <#ff6b81>where roses will grow.
+  Pack:
+    parent_model: item/handheld
+    texture: heart/heart_hoe
+
+heart_bow:
+  itemname: <white>Heart Bow
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#ff6b81>Strung with a ribbon
+  - <#ff6b81>tied around a locket.
+  Pack:
+    texture: heart/heart_bow
+    pulling_textures:
+    - heart/heart_bow_pulling_0
+    - heart/heart_bow_pulling_1
+    - heart/heart_bow_pulling_2
+
+# ============ PIRATE ============
+pirate_pickaxe:
+  itemname: <white>Pirate Pickaxe
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#cd853f>Struck the deck of
+  - <#cd853f>a ship long since sunk.
+  Pack:
+    parent_model: item/handheld
+    texture: pirate/pirate_pickaxe
+
+pirate_sword:
+  itemname: <white>Pirate Sword
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#cd853f>Won in a duel
+  - <#cd853f>over buried treasure.
+  Pack:
+    parent_model: item/handheld
+    texture: pirate/pirate_sword
+
+pirate_shovel:
+  itemname: <white>Pirate Shovel
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#cd853f>Dug up more chests
+  - <#cd853f>than any map could show.
+  Pack:
+    parent_model: item/handheld
+    texture: pirate/pirate_shovel
+
+pirate_axe:
+  itemname: <white>Pirate Axe
+  material: NETHERITE_AXE
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#cd853f>Hewn from the mast
+  - <#cd853f>of a ghost ship.
+  Pack:
+    parent_model: item/handheld
+    texture: pirate/pirate_axe
+
+pirate_hoe:
+  itemname: <white>Pirate Hoe
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#cd853f>Tills the sand
+  - <#cd853f>of a forgotten island.
+  Pack:
+    parent_model: item/handheld
+    texture: pirate/pirate_hoe
+
+pirate_bow:
+  itemname: <white>Pirate Bow
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#cd853f>A harpoon reforged
+  - <#cd853f>for a life on the seas.
+  Pack:
+    texture: pirate/harpoon_bow
+    pulling_textures:
+    - pirate/harpoon_bow_pulling_0
+    - pirate/harpoon_bow_pulling_1
+    - pirate/harpoon_bow_pulling_2
+
+# ============ ROSE GOLD ============
+rose_gold_pickaxe:
+  itemname: <white>Rose Gold Pickaxe
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#b76e79>Gleams with a warmth
+  - <#b76e79>no ordinary gold can match.
+  Pack:
+    parent_model: item/handheld
+    texture: rose_gold/rose_gold_pickaxe
+
+rose_gold_sword:
+  itemname: <white>Rose Gold Sword
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#b76e79>Cast for royalty,
+  - <#b76e79>wielded by legend.
+  Pack:
+    parent_model: item/handheld
+    texture: rose_gold/rose_gold_sword
+
+rose_gold_shovel:
+  itemname: <white>Rose Gold Shovel
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#b76e79>Too fine for dirt,
+  - <#b76e79>too sharp to care.
+  Pack:
+    parent_model: item/handheld
+    texture: rose_gold/rose_gold_shovel
+
+rose_gold_axe:
+  itemname: <white>Rose Gold Axe
+  material: NETHERITE_AXE
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#b76e79>Polished to a shine
+  - <#b76e79>that outlasts its wielder.
+  Pack:
+    parent_model: item/handheld
+    texture: rose_gold/rose_gold_axe
+
+rose_gold_hoe:
+  itemname: <white>Rose Gold Hoe
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#b76e79>Tills the soil
+  - <#b76e79>of an opulent estate.
+  Pack:
+    parent_model: item/handheld
+    texture: rose_gold/rose_gold_hoe
+
+rose_gold_bow:
+  itemname: <white>Rose Gold Bow
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#b76e79>Strung with wire
+  - <#b76e79>spun from precious metal.
+  Pack:
+    texture: rose_gold/rose_gold_bow
+    pulling_textures:
+    - rose_gold/rose_gold_bow_pulling_0
+    - rose_gold/rose_gold_bow_pulling_1
+    - rose_gold/rose_gold_bow_pulling_2
+
+# ============ SHAMROCK ============
+shamrock_pickaxe:
+  itemname: <white>Shamrock Pickaxe
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#009e60>Struck gold at the
+  - <#009e60>foot of the rainbow.
+  Pack:
+    parent_model: item/handheld
+    texture: shamrock/shamrock_pickaxe
+
+shamrock_sword:
+  itemname: <white>Shamrock Sword
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#009e60>Guarded by a leprechaun
+  - <#009e60>who lost a bet.
+  Pack:
+    parent_model: item/handheld
+    texture: shamrock/shamrock_sword
+
+shamrock_shovel:
+  itemname: <white>Shamrock Shovel
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#009e60>Digs straight for
+  - <#009e60>the pot at the end.
+  Pack:
+    parent_model: item/handheld
+    texture: shamrock/shamrock_shovel
+
+shamrock_axe:
+  itemname: <white>Shamrock Axe
+  material: NETHERITE_AXE
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#009e60>Cut from a field
+  - <#009e60>of solid green fortune.
+  Pack:
+    parent_model: item/handheld
+    texture: shamrock/shamrock_axe
+
+shamrock_hoe:
+  itemname: <white>Shamrock Hoe
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#009e60>Tills a field
+  - <#009e60>of endless shamrocks.
+  Pack:
+    parent_model: item/handheld
+    texture: shamrock/shamrock_hoe
+
+shamrock_bow:
+  itemname: <white>Shamrock Bow
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#009e60>Strung with vines
+  - <#009e60>from the emerald hills.
+  Pack:
+    texture: shamrock/shamrock_bow
+    pulling_textures:
+    - shamrock/shamrock_bow_pulling_0
+    - shamrock/shamrock_bow_pulling_1
+    - shamrock/shamrock_bow_pulling_2
+
+# ============ SUMMER ============
+summer_pickaxe:
+  itemname: <white>Summer Pickaxe
+  material: NETHERITE_PICKAXE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:blast_mining: 5
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ffd93d>Mined on the shore
+  - <#ffd93d>under a blazing sun.
+  Pack:
+    parent_model: item/handheld
+    texture: summer/shell_pickaxe
+
+summer_sword:
+  itemname: <white>Summer Sword
+  material: NETHERITE_SWORD
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    looting: 3
+    excellentenchants:cutter: 3
+    excellentenchants:double_strike: 2
+    excellentenchants:exhaust: 4
+  lore:
+  - ''
+  - <#ffd93d>Carved from a shell
+  - <#ffd93d>washed up at high tide.
+  Pack:
+    parent_model: item/handheld
+    texture: summer/shell_sword
+
+summer_shovel:
+  itemname: <white>Summer Shovel
+  material: NETHERITE_SHOVEL
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ffd93d>Built one too many
+  - <#ffd93d>sandcastles to count.
+  Pack:
+    parent_model: item/handheld
+    texture: summer/shell_shovel
+
+summer_axe:
+  itemname: <white>Summer Axe
+  material: NETHERITE_AXE
+  Enchantments:
+    sharpness: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:treefeller: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ffd93d>Cut from driftwood
+  - <#ffd93d>bleached by the sun.
+  Pack:
+    parent_model: item/handheld
+    texture: summer/shell_axe
+
+summer_hoe:
+  itemname: <white>Summer Hoe
+  material: NETHERITE_HOE
+  Enchantments:
+    efficiency: 6
+    unbreaking: 4
+    mending: 1
+    excellentenchants:replanter: 1
+    excellentenchants:telekinesis: 1
+    excellentenchants:haste: 3
+  lore:
+  - ''
+  - <#ffd93d>Tills the sand
+  - <#ffd93d>along the sunny coast.
+  Pack:
+    parent_model: item/handheld
+    texture: summer/shell_hoe
+
+summer_bow:
+  itemname: <white>Summer Bow
+  material: BOW
+  Enchantments:
+    power: 6
+    punch: 3
+    unbreaking: 4
+    mending: 1
+    excellentenchants:poison_arrows: 3
+    excellentenchants:sniper: 2
+    excellentenchants:withered_arrows: 3
+  lore:
+  - ''
+  - <#ffd93d>Carved and strung
+  - <#ffd93d>for a day at the beach.
+  Pack:
+    texture: summer/squirt_bow
+    pulling_textures:
+    - summer/squirt_bow_pulling_0
+    - summer/squirt_bow_pulling_1
+    - summer/squirt_bow_pulling_2

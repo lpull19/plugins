@@ -1,0 +1,241 @@
+filler:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/filler
+scroll_left:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/scroll_left
+scroll_left2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/scroll_left2
+scroll_middle:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/scroll_middle
+scroll_middle2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/scroll_middle2
+scroll_middle3:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/scroll_middle3
+scroll_middle4:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/scroll_middle4
+scroll_right:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/scroll_right
+scroll_right2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/scroll_right2
+skull:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/skull
+clock:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/clock
+hourglass:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/hourglass
+bolt:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/bolt
+instagram:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/instagram
+tiktok:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/tiktok
+twitter:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/twitter
+facebook:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/facebook
+twitch:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/twitch
+shopping_cart:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/shopping_cart
+globe:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/globe
+unlocked_gold:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/unlocked_gold
+locked_gold:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/locked_gold
+curved_arrow_left:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/curved_arrow_left
+curved_arrow_right:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/curved_arrow_right
+gray_curved_arrow_left:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/gray_curved_arrow_left
+gray_curved_arrow_right:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/gray_curved_arrow_right
+palette:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/palette
+paintbrush:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/paintbrush
+wrench:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/wrench
+trash:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/trash
+volume_0:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/volume_0
+volume_1:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/volume_1
+volume_2:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/volume_2
+volume_3:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/volume_3
+pause:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/pause
+minus:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/minus
+plus:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/plus
+equals:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/equals
+bulb:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/bulb
+list:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/list
+coin:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/coin
+money_bag:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/money_bag
+star:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/star
+heart:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/heart
+thumbs_up:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/thumbs_up
+thumbs_down:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/thumbs_down
+envelope:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/envelope
+gear:
+  displayname: ' '
+  material: PAPER
+  Pack:
+    model: jeqo/icon_pack_2/gear
+# 02bWRXZ30EUURXWJ91axx2MoVkTa5EVXJVOVFGUxc1V6tmROF1XPlWbzcHSZRTUPlWbzUTb

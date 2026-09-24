@@ -1,0 +1,7 @@
+paint_button:
+  itemname: Paint Button
+  material: LEATHER_HORSE_ARMOR
+  Pack:
+    parent_model: item/generated
+    texture: blossom_studios:cosmetic_menu/item/paint_button
+

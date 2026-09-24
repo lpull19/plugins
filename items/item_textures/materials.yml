@@ -1,0 +1,96 @@
+material-keyfragment:
+  itemname: ''
+  material: WHITE_DYE
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 1
+    texture: prism_skyblock/item_texture/materials/key_fragment.png
+material-labsample:
+  itemname: ''
+  material: WHITE_DYE
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 2
+    texture: prism_skyblock/item_texture/materials/lab_sample.png
+material-hextechcrystal:
+  itemname: ''
+  material: WHITE_DYE
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 3
+    texture: prism_skyblock/item_texture/materials/hextech_crystal.png
+material-infectedflesh:
+  itemname: ''
+  material: WHITE_DYE
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 4
+    texture: prism_skyblock/item_texture/materials/infected_flesh.png
+material-sludge:
+  itemname: ''
+  material: WHITE_DYE
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 5
+    texture: prism_skyblock/item_texture/materials/sludge.png
+material-swordhandle:
+  itemname: ''
+  material: WHITE_DYE
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 6
+    texture: prism_skyblock/item_texture/materials/sword_handle.png
+material-stardust:
+  itemname: ''
+  material: WHITE_DYE
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 7
+    texture: prism_skyblock/item_texture/materials/stardust.png
+material-stardustlocked:
+  itemname: ''
+  material: WHITE_DYE
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 8
+    texture: prism_skyblock/item_texture/materials/stardust_locked.png
+material-undecipheredcommonancientbook:
+  itemname: ''
+  material: LAPIS_LAZULI
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 1
+    texture: prism_skyblock/item_texture/materials/undeciphered_common_ancient_book.png
+material-undecipheredrareancientbook:
+  itemname: ''
+  material: LAPIS_LAZULI
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 2
+    texture: prism_skyblock/item_texture/materials/undeciphered_rare_ancient_book.png
+material-undecipheredlegendaryancientbook:
+  itemname: ''
+  material: LAPIS_LAZULI
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 3
+    texture: prism_skyblock/item_texture/materials/undeciphered_legendary_ancient_book.png
+material-undecipheredfabledancientbook:
+  itemname: ''
+  material: LAPIS_LAZULI
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 4
+    texture: prism_skyblock/item_texture/materials/undeciphered_fabled_ancient_book.png

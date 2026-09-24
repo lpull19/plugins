@@ -1,0 +1,182 @@
+xmas_mini_costume_gingerbread_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_xmas_mini_costume:gingerbread_hat_hat
+  color: 237, 71, 69
+  itemname: <white>Christmas Gingerbread Hat
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.gingerbread_hat
+xmas_mini_costume_gingerbread_plushie:
+  Pack:
+    model: ero_xmas_mini_costume:gingerbread_plushie_backpack
+  color: 237, 71, 69
+  itemname: <white>Christmas Gingerbread Plushie
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.gingerbread_plushie
+xmas_mini_costume_marshmello_whipped_cream_offhand:
+  Pack:
+    model: ero_xmas_mini_costume:marshmello_whipped_cream_offhand
+  color: 237, 71, 69
+  itemname: <white>Christmas Marshmello Whipped Cream
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.marshmello_whipped_cream_offhand
+xmas_mini_costume_snowglobe_offhand:
+  Pack:
+    model: ero_xmas_mini_costume:snowglobe_offhand
+  color: 237, 71, 69
+  itemname: <white>Christmas Snowglobe
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.snowglobe_offhand
+xmas_mini_costume_snowman_plushie:
+  Pack:
+    model: ero_xmas_mini_costume:snowman_plushie_backpack
+  color: 237, 71, 69
+  itemname: <white>Christmas Snowman Plushie
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.snowman_plushie
+xmas_mini_costume_snowman_santa:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_xmas_mini_costume:snowman_santa_hat
+  color: 237, 71, 69
+  itemname: <white>Christmas Snowman Santa
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.snowman_santa
+xmas_mini_costume_chest:
+  Mechanics:
+    furniture:
+      drop:
+        loots:
+        - nexo_item: xmas_mini_costume_chest
+        silktouch: false
+      limited_placing:
+        floor: true
+        roof: false
+        type: DENY
+        wall: false
+      restricted_rotation: VERY_STRICT
+  Pack:
+    model: ero_xmas_mini_costume:chest
+  itemname: <white>Christmas Chest
+  material: PAPER
+  permission: xmas_mini_costume.chest
+xmas_mini_costume_key:
+  Pack:
+    model: ero_xmas_mini_costume:key
+  itemname: <white>Christmas Key
+  material: PAPER
+  permission: xmas_mini_costume.key
+xmas_mini_costume_cosmetics_gingerbread_hat:
+  Pack:
+    custom_model_data: 15888765
+    model: ero_xmas_mini_costume:gingerbread_hat_hat
+  color: 237, 71, 69
+  itemname: <white>Christmas Gingerbread Hat Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_gingerbread_hat
+xmas_mini_costume_cosmetics_gingerbread_plushie:
+  Pack:
+    custom_model_data: 15888766
+    model: ero_xmas_mini_costume:gingerbread_plushie_backpack_cosmetic
+  color: 237, 71, 69
+  itemname: <white>Christmas Gingerbread Plushie Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_gingerbread_plushie
+xmas_mini_costume_cosmetics_gingerbread_plushie_normal_2:
+  Pack:
+    custom_model_data: 15888769
+    model: ero_xmas_mini_costume:gingerbread_plushie_backpack_cosmetic_normal_2
+  color: 237, 71, 69
+  itemname: <white>Christmas Gingerbread Plushie Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_gingerbread_plushie_normal_2
+xmas_mini_costume_cosmetics_gingerbread_plushie_self:
+  Pack:
+    custom_model_data: 15888767
+    model: ero_xmas_mini_costume:gingerbread_plushie_backpack_cosmetic_self
+  color: 237, 71, 69
+  itemname: <white>Christmas Gingerbread Plushie Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_gingerbread_plushie_self
+xmas_mini_costume_cosmetics_gingerbread_plushie_self_2:
+  Pack:
+    custom_model_data: 15888768
+    model: ero_xmas_mini_costume:gingerbread_plushie_backpack_cosmetic_self_2
+  color: 237, 71, 69
+  itemname: <white>Christmas Gingerbread Plushie Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_gingerbread_plushie_self_2
+xmas_mini_costume_cosmetics_snowman_plushie:
+  Pack:
+    custom_model_data: 15888772
+    model: ero_xmas_mini_costume:snowman_plushie_backpack_cosmetic
+  color: 237, 71, 69
+  itemname: <white>Christmas Snowman Plushie Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_snowman_plushie
+xmas_mini_costume_cosmetics_snowman_plushie_normal_2:
+  Pack:
+    custom_model_data: 15888775
+    model: ero_xmas_mini_costume:snowman_plushie_backpack_cosmetic_normal_2
+  color: 237, 71, 69
+  itemname: <white>Christmas Snowman Plushie Cosmetics Normal 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_snowman_plushie_normal_2
+xmas_mini_costume_cosmetics_snowman_plushie_self:
+  Pack:
+    custom_model_data: 15888773
+    model: ero_xmas_mini_costume:snowman_plushie_backpack_cosmetic_self
+  color: 237, 71, 69
+  itemname: <white>Christmas Snowman Plushie Cosmetics Self
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_snowman_plushie_self
+xmas_mini_costume_cosmetics_snowman_plushie_self_2:
+  Pack:
+    custom_model_data: 15888774
+    model: ero_xmas_mini_costume:snowman_plushie_backpack_cosmetic_self_2
+  color: 237, 71, 69
+  itemname: <white>Christmas Snowman Plushie Cosmetics Self 2
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_snowman_plushie_self_2
+xmas_mini_costume_cosmetics_snowman_santa:
+  Pack:
+    custom_model_data: 15888776
+    model: ero_xmas_mini_costume:snowman_santa_hat
+  color: 237, 71, 69
+  itemname: <white>Christmas Snowman Santa Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_snowman_santa
+xmas_mini_costume_marshmello_whipped_cream_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888770
+    model: ero_xmas_mini_costume:marshmello_whipped_cream_offhand
+  color: 237, 71, 69
+  itemname: <white>Christmas Marshmello Whipped Cream Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_marshmello_whipped_cream
+xmas_mini_costume_snowglobe_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888771
+    model: ero_xmas_mini_costume:snowglobe_offhand
+  color: 237, 71, 69
+  itemname: <white>Christmas Snowglobe Cosmetics
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_xmas_mini_costume.xmas_mini_costume_cosmetics_snowglobe
+
+# EzUrt2TwBncLV0XoF3Yl1menR0VNR2RUNnVsNmVodEVu50RUhFbVJHanhzYMhFbVJHanNzZ

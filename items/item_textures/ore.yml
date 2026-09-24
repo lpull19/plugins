@@ -1,0 +1,48 @@
+soulsteel-ingot:
+  itemname: ''
+  material: RAW_IRON
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 8
+    texture: prism_skyblock/item_texture/ore/soulsteel_ingot.png
+soul-netherite-ingot:
+  itemname: ''
+  material: RAW_IRON
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 9
+    texture: prism_skyblock/item_texture/ore/soul_netherite_ingot.png
+gilded-netherite-ingot:
+  itemname: ''
+  material: RAW_IRON
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 10
+    texture: prism_skyblock/item_texture/ore/gilded_netherite_ingot.png
+warden-ingot:
+  itemname: ''
+  material: RAW_IRON
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 11
+    texture: prism_skyblock/item_texture/ore/warden_ingot.png
+raw-hextech:
+  itemname: ''
+  material: RAW_IRON
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 13
+    texture: prism_skyblock/item_texture/ore/raw_hextech.png
+hextech-ingot:
+  itemname: ''
+  material: RAW_IRON
+  excludeFromInventory: false
+  Pack:
+    parent_model: item/generated
+    custom_model_data: 12
+    texture: prism_skyblock/item_texture/ore/hextech_ingot.png

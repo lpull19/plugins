@@ -1,0 +1,6 @@
+hu_gui_shift:
+  texture: hyronic_utils/null_texture
+  ascent: -32768
+  height: -10
+  char: ꖥ
+

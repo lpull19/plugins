@@ -1,0 +1,262 @@
+warden_helmet:
+  itemname: <white>Warden Helmet
+  material: NETHERITE_HELMET
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of dark entities.
+  - ''
+  - <glyph:lb_mythic><glyph:lb_treasure>
+  AttributeModifiers:
+  - amount: 3.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  - amount: 3.0
+    attribute: MAX_HEALTH
+    operation: ADD_NUMBER
+    slot: HEAD
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: HEAD
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: HEAD
+  Pack:
+    texture: hyronic_skyblock/sets/warden/warden_helmet
+    custom_model_data: 3
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:warden
+warden_chestplate:
+  itemname: <white>Warden Chestplate
+  material: NETHERITE_CHESTPLATE
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of dark entities.
+  - ''
+  - <glyph:lb_mythic><glyph:lb_treasure>
+  AttributeModifiers:
+  - amount: 8.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: CHEST
+  - amount: 3.0
+    attribute: MAX_HEALTH
+    operation: ADD_NUMBER
+    slot: CHEST
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: CHEST
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: CHEST
+  Pack:
+    texture: hyronic_skyblock/sets/warden/warden_chestplate
+    custom_model_data: 3
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:warden
+warden_leggings:
+  itemname: <white>Warden Leggings
+  material: NETHERITE_LEGGINGS
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of dark entities.
+  - ''
+  - <glyph:lb_mythic><glyph:lb_treasure>
+  AttributeModifiers:
+  - amount: 6.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: LEGS
+  - amount: 3.0
+    attribute: MAX_HEALTH
+    operation: ADD_NUMBER
+    slot: LEGS
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: LEGS
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: LEGS
+  Pack:
+    texture: hyronic_skyblock/sets/warden/warden_leggings
+    custom_model_data: 3
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:warden
+warden_boots:
+  itemname: <white>Warden Boots
+  material: NETHERITE_BOOTS
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of dark entities.
+  - ''
+  - <glyph:lb_mythic><glyph:lb_treasure>
+  AttributeModifiers:
+  - amount: 3.0
+    attribute: ARMOR
+    operation: ADD_NUMBER
+    slot: FEET
+  - amount: 3.0
+    attribute: MAX_HEALTH
+    operation: ADD_NUMBER
+    slot: FEET
+  - amount: 3.0
+    attribute: ARMOR_TOUGHNESS
+    operation: ADD_NUMBER
+    slot: FEET
+  - amount: 0.1
+    attribute: KNOCKBACK_RESISTANCE
+    operation: ADD_NUMBER
+    slot: FEET
+  Pack:
+    texture: hyronic_skyblock/sets/warden/warden_boots
+    custom_model_data: 3
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:warden
+warden_pickaxe:
+  itemname: <white>Warden Pickaxe
+  material: NETHERITE_PICKAXE
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of dark entities.
+  - ''
+  - <glyph:lb_mythic><glyph:lb_treasure>
+  AttributeModifiers:
+  - amount: 7.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 1.6
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/warden/warden_pickaxe
+    custom_model_data: 2
+warden_sword:
+  itemname: <white>Warden Sword
+  material: NETHERITE_SWORD
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of dark entities.
+  - ''
+  - <glyph:lb_mythic><glyph:lb_treasure>
+  AttributeModifiers:
+  - amount: 9.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 2.0
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/warden/warden_sword
+    custom_model_data: 2
+warden_shovel:
+  itemname: <white>Warden Shovel
+  material: NETHERITE_SHOVEL
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of dark entities.
+  - ''
+  - <glyph:lb_mythic><glyph:lb_treasure>
+  AttributeModifiers:
+  - amount: 7.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 1.6
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/warden/warden_shovel
+    custom_model_data: 2
+warden_axe:
+  itemname: <white>Warden Axe
+  material: NETHERITE_AXE
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of dark entities.
+  - ''
+  - <glyph:lb_mythic><glyph:lb_treasure>
+  AttributeModifiers:
+  - amount: 11.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 1.6
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/warden/warden_axe
+    custom_model_data: 2
+warden_hoe:
+  itemname: <white>Warden Hoe
+  material: NETHERITE_HOE
+  lore:
+  - ''
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of dark entities.
+  - ''
+  - <glyph:lb_mythic><glyph:lb_treasure>
+  AttributeModifiers:
+  - amount: 2.0
+    attribute: ATTACK_DAMAGE
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  - amount: 5.0
+    attribute: ATTACK_SPEED
+    operation: ADD_NUMBER
+    slot: MAINHAND
+  Pack:
+    parent_model: item/handheld
+    texture: hyronic_skyblock/sets/warden/warden_hoe
+    custom_model_data: 2
+warden_bow:
+  itemname: <white>Warden Bow
+  material: BOW
+  lore:
+  - <#c8d6e5>Forged from the soul
+  - <#c8d6e5>of dark entities.
+  - ''
+  - <gradient:#20002c:#cbb4d4>⌀ Shadow Veil
+  - ' <dark_gray>Shrouds enemies struck'
+  - ' <dark_gray>by the arrow in Darkness'
+  - ' <dark_gray>for <gray>3 seconds.'
+  - ''
+  - <glyph:lb_mythic><glyph:lb_treasure>
+  Pack:
+    texture: hyronic_skyblock/sets/warden/warden_bow
+    custom_model_data: 398
+    pulling_textures:
+    - hyronic_skyblock/sets/warden/warden_bow_0
+    - hyronic_skyblock/sets/warden/warden_bow_1
+    - hyronic_skyblock/sets/warden/warden_bow_2

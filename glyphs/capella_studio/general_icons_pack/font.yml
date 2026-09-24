@@ -1,0 +1,450 @@
+general_icon_1:
+  texture: general_icons_pack:item/general_icon_1
+  height: 9
+  ascent: 8
+  char: ꔓ
+general_icon_2:
+  texture: general_icons_pack:item/general_icon_2
+  height: 9
+  ascent: 8
+  char: ꔔ
+general_icon_3:
+  texture: general_icons_pack:item/general_icon_3
+  height: 9
+  ascent: 8
+  char: ꔕ
+general_icon_4:
+  texture: general_icons_pack:item/general_icon_4
+  height: 9
+  ascent: 8
+  char: ꔖ
+general_icon_5:
+  texture: general_icons_pack:item/general_icon_5
+  height: 9
+  ascent: 8
+  char: ꔗ
+general_icon_6:
+  texture: general_icons_pack:item/general_icon_6
+  height: 9
+  ascent: 8
+  char: ꔘ
+general_icon_7:
+  texture: general_icons_pack:item/general_icon_7
+  height: 9
+  ascent: 8
+  char: ꔙ
+general_icon_8:
+  texture: general_icons_pack:item/general_icon_8
+  height: 9
+  ascent: 8
+  char: ꔚ
+general_icon_9:
+  texture: general_icons_pack:item/general_icon_9
+  height: 9
+  ascent: 8
+  char: ꔛ
+general_icon_10:
+  texture: general_icons_pack:item/general_icon_10
+  height: 9
+  ascent: 8
+  char: ꔜ
+general_icon_11:
+  texture: general_icons_pack:item/general_icon_11
+  height: 9
+  ascent: 8
+  char: ꔝ
+general_icon_12:
+  texture: general_icons_pack:item/general_icon_12
+  height: 9
+  ascent: 8
+  char: ꔞ
+general_icon_13:
+  texture: general_icons_pack:item/general_icon_13
+  height: 9
+  ascent: 8
+  char: ꔟ
+general_icon_14:
+  texture: general_icons_pack:item/general_icon_14
+  height: 9
+  ascent: 8
+  char: ꔠ
+general_icon_15:
+  texture: general_icons_pack:item/general_icon_15
+  height: 9
+  ascent: 8
+  char: ꔡ
+general_icon_15_0b:
+  texture: general_icons_pack:item/general_icon_15_0b
+  height: 9
+  ascent: 8
+  char: ꔢ
+general_icon_16:
+  texture: general_icons_pack:item/general_icon_16
+  height: 9
+  ascent: 8
+  char: ꔣ
+general_icon_17:
+  texture: general_icons_pack:item/general_icon_17
+  height: 9
+  ascent: 8
+  char: ꔤ
+general_icon_17_0b:
+  texture: general_icons_pack:item/general_icon_17_0b
+  height: 9
+  ascent: 8
+  char: ꔥ
+general_icon_18:
+  texture: general_icons_pack:item/general_icon_18
+  height: 9
+  ascent: 8
+  char: ꔦ
+general_icon_19:
+  texture: general_icons_pack:item/general_icon_19
+  height: 9
+  ascent: 8
+  char: ꔧ
+general_icon_20:
+  texture: general_icons_pack:item/general_icon_20
+  height: 9
+  ascent: 8
+  char: ꔨ
+general_icon_21:
+  texture: general_icons_pack:item/general_icon_21
+  height: 9
+  ascent: 8
+  char: ꔩ
+general_icon_22:
+  texture: general_icons_pack:item/general_icon_22
+  height: 9
+  ascent: 8
+  char: ꔪ
+general_icon_23:
+  texture: general_icons_pack:item/general_icon_23
+  height: 9
+  ascent: 8
+  char: ꔫ
+general_icon_24:
+  texture: general_icons_pack:item/general_icon_24
+  height: 9
+  ascent: 8
+  char: ꔬ
+general_icon_25:
+  texture: general_icons_pack:item/general_icon_25
+  height: 9
+  ascent: 8
+  char: ꔭ
+general_icon_26:
+  texture: general_icons_pack:item/general_icon_26
+  height: 9
+  ascent: 8
+  char: ꔮ
+general_icon_27:
+  texture: general_icons_pack:item/general_icon_27
+  height: 9
+  ascent: 8
+  char: ꔯ
+general_icon_28:
+  texture: general_icons_pack:item/general_icon_28
+  height: 9
+  ascent: 8
+  char: ꔰ
+general_icon_29:
+  texture: general_icons_pack:item/general_icon_29
+  height: 9
+  ascent: 8
+  char: ꔱ
+general_icon_30:
+  texture: general_icons_pack:item/general_icon_30
+  height: 9
+  ascent: 8
+  char: ꔲ
+general_icon_arrow_down:
+  texture: general_icons_pack:item/general_icon_arrow_down
+  height: 9
+  ascent: 8
+  char: ꔳ
+general_icon_arrow_left:
+  texture: general_icons_pack:item/general_icon_arrow_left
+  height: 9
+  ascent: 8
+  char: ꔴ
+general_icon_arrow_right:
+  texture: general_icons_pack:item/general_icon_arrow_right
+  height: 9
+  ascent: 8
+  char: ꔵ
+general_icon_arrow_up:
+  texture: general_icons_pack:item/general_icon_arrow_up
+  height: 9
+  ascent: 8
+  char: ꔶ
+general_icon_31:
+  texture: general_icons_pack:item/general_icon_31
+  height: 9
+  ascent: 8
+  char: ꔷ
+general_icon_32:
+  texture: general_icons_pack:item/general_icon_32
+  height: 9
+  ascent: 8
+  char: ꔸ
+general_icon_33:
+  texture: general_icons_pack:item/general_icon_33
+  height: 9
+  ascent: 8
+  char: ꔹ
+general_icon_34:
+  texture: general_icons_pack:item/general_icon_34
+  height: 9
+  ascent: 8
+  char: ꔺ
+general_icon_35:
+  texture: general_icons_pack:item/general_icon_35
+  height: 9
+  ascent: 8
+  char: ꔻ
+general_icon_36:
+  texture: general_icons_pack:item/general_icon_36
+  height: 9
+  ascent: 8
+  char: ꔼ
+general_icon_37:
+  texture: general_icons_pack:item/general_icon_37
+  height: 9
+  ascent: 8
+  char: ꔽ
+general_icon_38:
+  texture: general_icons_pack:item/general_icon_38
+  height: 9
+  ascent: 8
+  char: ꔾ
+general_icon_39:
+  texture: general_icons_pack:item/general_icon_39
+  height: 9
+  ascent: 8
+  char: ꔿ
+general_icon_40:
+  texture: general_icons_pack:item/general_icon_40
+  height: 9
+  ascent: 8
+  char: ꕀ
+general_icon_41:
+  texture: general_icons_pack:item/general_icon_41
+  height: 9
+  ascent: 8
+  char: ꕁ
+general_icon_42:
+  texture: general_icons_pack:item/general_icon_42
+  height: 9
+  ascent: 8
+  char: ꕂ
+general_icon_43:
+  texture: general_icons_pack:item/general_icon_43
+  height: 9
+  ascent: 8
+  char: ꕃ
+general_icon_44:
+  texture: general_icons_pack:item/general_icon_44
+  height: 9
+  ascent: 8
+  char: ꕄ
+general_icon_45:
+  texture: general_icons_pack:item/general_icon_45
+  height: 9
+  ascent: 8
+  char: ꕅ
+general_icon_45_0b:
+  texture: general_icons_pack:item/general_icon_45_0b
+  height: 9
+  ascent: 8
+  char: ꕆ
+general_icon_46:
+  texture: general_icons_pack:item/general_icon_46
+  height: 9
+  ascent: 8
+  char: ꕇ
+general_icon_46_0b:
+  texture: general_icons_pack:item/general_icon_46_0b
+  height: 9
+  ascent: 8
+  char: ꕈ
+general_icon_47:
+  texture: general_icons_pack:item/general_icon_47
+  height: 9
+  ascent: 8
+  char: ꕉ
+general_icon_47_0b:
+  texture: general_icons_pack:item/general_icon_47_0b
+  height: 9
+  ascent: 8
+  char: ꕊ
+general_icon_48:
+  texture: general_icons_pack:item/general_icon_48
+  height: 9
+  ascent: 8
+  char: ꕋ
+general_icon_49:
+  texture: general_icons_pack:item/general_icon_49
+  height: 9
+  ascent: 8
+  char: ꕌ
+general_icon_50:
+  texture: general_icons_pack:item/general_icon_50
+  height: 9
+  ascent: 8
+  char: ꕍ
+general_icon_51:
+  texture: general_icons_pack:item/general_icon_51
+  height: 9
+  ascent: 8
+  char: ꕎ
+general_icon_52:
+  texture: general_icons_pack:item/general_icon_52
+  height: 9
+  ascent: 8
+  char: ꕏ
+general_icon_53:
+  texture: general_icons_pack:item/general_icon_53
+  height: 9
+  ascent: 8
+  char: ꕐ
+general_icon_54:
+  texture: general_icons_pack:item/general_icon_54
+  height: 9
+  ascent: 8
+  char: ꕑ
+general_icon_55:
+  texture: general_icons_pack:item/general_icon_55
+  height: 9
+  ascent: 8
+  char: ꕒ
+general_icon_56:
+  texture: general_icons_pack:item/general_icon_56
+  height: 9
+  ascent: 8
+  char: ꕓ
+general_icon_57:
+  texture: general_icons_pack:item/general_icon_57
+  height: 9
+  ascent: 8
+  char: ꕔ
+general_icon_58:
+  texture: general_icons_pack:item/general_icon_58
+  height: 9
+  ascent: 8
+  char: ꕕ
+general_icon_59:
+  texture: general_icons_pack:item/general_icon_59
+  height: 9
+  ascent: 8
+  char: ꕖ
+general_icon_60:
+  texture: general_icons_pack:item/general_icon_60
+  height: 9
+  ascent: 8
+  char: ꕗ
+general_icon_61:
+  texture: general_icons_pack:item/general_icon_61
+  height: 9
+  ascent: 8
+  char: ꕘ
+general_icon_62:
+  texture: general_icons_pack:item/general_icon_62
+  height: 9
+  ascent: 8
+  char: ꕙ
+general_icon_63:
+  texture: general_icons_pack:item/general_icon_63
+  height: 9
+  ascent: 8
+  char: ꕚ
+general_icon_63_0b:
+  texture: general_icons_pack:item/general_icon_63_0b
+  height: 9
+  ascent: 8
+  char: ꕛ
+general_icon_63_1b:
+  texture: general_icons_pack:item/general_icon_63_1b
+  height: 9
+  ascent: 8
+  char: ꕜ
+general_icon_63_2b:
+  texture: general_icons_pack:item/general_icon_63_2b
+  height: 9
+  ascent: 8
+  char: ꕝ
+general_icon_63_3b:
+  texture: general_icons_pack:item/general_icon_63_3b
+  height: 9
+  ascent: 8
+  char: ꕞ
+general_icon_63_4b:
+  texture: general_icons_pack:item/general_icon_63_4b
+  height: 9
+  ascent: 8
+  char: ꕟ
+general_icon_63_5b:
+  texture: general_icons_pack:item/general_icon_63_5b
+  height: 9
+  ascent: 8
+  char: ꕠ
+general_icon_63_6b:
+  texture: general_icons_pack:item/general_icon_63_6b
+  height: 9
+  ascent: 8
+  char: ꕡ
+general_icon_64:
+  texture: general_icons_pack:item/general_icon_64
+  height: 9
+  ascent: 8
+  char: ꕢ
+general_icon_65:
+  texture: general_icons_pack:item/general_icon_65
+  height: 9
+  ascent: 8
+  char: ꕣ
+general_icon_65_0b:
+  texture: general_icons_pack:item/general_icon_65_0b
+  height: 9
+  ascent: 8
+  char: ꕤ
+general_icon_65_1b:
+  texture: general_icons_pack:item/general_icon_65_1b
+  height: 9
+  ascent: 8
+  char: ꕥ
+general_icon_65_2b:
+  texture: general_icons_pack:item/general_icon_65_2b
+  height: 9
+  ascent: 8
+  char: ꕦ
+general_icon_65_3b:
+  texture: general_icons_pack:item/general_icon_65_3b
+  height: 9
+  ascent: 8
+  char: ꕧ
+general_icon_65_4b:
+  texture: general_icons_pack:item/general_icon_65_4b
+  height: 9
+  ascent: 8
+  char: ꕨ
+general_icon_65_5b:
+  texture: general_icons_pack:item/general_icon_65_5b
+  height: 9
+  ascent: 8
+  char: ꕩ
+general_icon_65_6b:
+  texture: general_icons_pack:item/general_icon_65_6b
+  height: 9
+  ascent: 8
+  char: ꕪ
+general_icon_66:
+  texture: general_icons_pack:item/general_icon_66
+  height: 9
+  ascent: 8
+  char: ꕫ
+general_icon_67:
+  texture: general_icons_pack:item/general_icon_67
+  height: 9
+  ascent: 8
+  char: ꕬ

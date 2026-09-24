@@ -1,0 +1,2199 @@
+anvil_icon:
+  texture: icons/anvil
+  ascent: 10
+  height: 12
+  char: ꐓ
+floating_island_icon:
+  texture: icons/floating_island
+  ascent: 10
+  height: 12
+  char: ꐔ
+experience_orb_icon:
+  texture: icons/experience_orb
+  ascent: 10
+  height: 12
+  char: ꐖ
+judge_gavel_icon:
+  texture: icons/judge_gavel
+  ascent: 10
+  height: 12
+  char: ꐗ
+cave_icon:
+  texture: icons/cave
+  ascent: 10
+  height: 12
+  char: ꐘ
+chef_hat_icon:
+  texture: icons/chef_hat
+  ascent: 10
+  height: 12
+  char: ꐙ
+plant_icon:
+  texture: icons/plant
+  ascent: 10
+  height: 12
+  char: ꐚ
+trees_icon:
+  texture: icons/trees
+  ascent: 10
+  height: 12
+  char: ꐛ
+mana_icon:
+  texture: icons/mana
+  ascent: 10
+  height: 12
+  char: ꐜ
+coins_icon:
+  texture: icons/coins
+  ascent: 10
+  height: 12
+  char: ꐝ
+purple_orb_icon:
+  texture: icons/purple_orb
+  ascent: 10
+  height: 12
+  char: ꐢ
+star_icon:
+  texture: icons/star
+  ascent: 10
+  height: 12
+  char: ꐣ
+crown_icon:
+  texture: icons/crown
+  ascent: 10
+  height: 12
+  char: ꐥ
+diamond_icon:
+  texture: icons/diamond
+  ascent: 10
+  height: 12
+  char: ꐨ
+sun_icon:
+  texture: icons/sun
+  ascent: 10
+  height: 12
+  char: ꐩ
+fountain_icon:
+  texture: icons/fountain
+  ascent: 10
+  height: 12
+  char: ꐪ
+wizard_tower_icon:
+  texture: icons/wizard_tower
+  ascent: 10
+  height: 12
+  char: ꐫ
+potion_icon:
+  texture: icons/potion
+  ascent: 10
+  height: 12
+  char: ꐬ
+house_icon:
+  texture: icons/house
+  ascent: 10
+  height: 12
+  char: ꐭ
+moon_icon:
+  texture: icons/moon
+  ascent: 10
+  height: 12
+  char: ꐮ
+level_up_icon:
+  texture: icons/level_up
+  ascent: 10
+  height: 12
+  char: ꐰ
+
+aa_icon:
+  texture: colorful_icons_pack/aa_icon
+  ascent: 20
+  height: 20
+  char: ꐕ
+
+arrow_down_icon:
+  texture: colorful_icons_pack/arrow_down_icon
+  ascent: 20
+  height: 20
+  char: ꐞ
+
+arrow_left_icon:
+  texture: colorful_icons_pack/arrow_left_icon
+  ascent: 20
+  height: 20
+  char: ꐟ
+
+arrow_right_icon:
+  texture: colorful_icons_pack/arrow_right_icon
+  ascent: 20
+  height: 20
+  char: ꐠ
+
+arrow_up_icon:
+  texture: colorful_icons_pack/arrow_up_icon
+  ascent: 20
+  height: 20
+  char: ꐡ
+
+axe_icon:
+  texture: colorful_icons_pack/axe_icon
+  ascent: 20
+  height: 20
+  char: ꐤ
+
+bell_icon:
+  texture: colorful_icons_pack/bell_icon
+  ascent: 20
+  height: 20
+  char: ꐦ
+
+bin_icon:
+  texture: colorful_icons_pack/bin_icon
+  ascent: 20
+  height: 20
+  char: ꐧ
+
+book_icon:
+  texture: colorful_icons_pack/book_icon
+  ascent: 20
+  height: 20
+  char: ꐯ
+
+book_open_icon:
+  texture: colorful_icons_pack/book_open_icon
+  ascent: 20
+  height: 20
+  char: ꑏ
+
+bookmark_icon:
+  texture: colorful_icons_pack/bookmark_icon
+  ascent: 20
+  height: 20
+  char: ꑐ
+
+brush_icon:
+  texture: colorful_icons_pack/brush_icon
+  ascent: 20
+  height: 20
+  char: ꑑ
+
+calendar_icon:
+  texture: colorful_icons_pack/calendar_icon
+  ascent: 20
+  height: 20
+  char: ꑒ
+
+cart_icon:
+  texture: colorful_icons_pack/cart_icon
+  ascent: 20
+  height: 20
+  char: ꑓ
+
+chat_disabled_icon:
+  texture: colorful_icons_pack/chat_disabled_icon
+  ascent: 20
+  height: 20
+  char: ꑔ
+
+chat_icon:
+  texture: colorful_icons_pack/chat_icon
+  ascent: 20
+  height: 20
+  char: ꑕ
+
+chat_notification_icon:
+  texture: colorful_icons_pack/chat_notification_icon
+  ascent: 20
+  height: 20
+  char: ꑖ
+
+check_icon:
+  texture: colorful_icons_pack/check_icon
+  ascent: 20
+  height: 20
+  char: ꑗ
+
+chest_icon:
+  texture: colorful_icons_pack/chest_icon
+  ascent: 20
+  height: 20
+  char: ꑘ
+
+chest_open_icon:
+  texture: colorful_icons_pack/chest_open_icon
+  ascent: 20
+  height: 20
+  char: ꑙ
+
+clock_icon:
+  texture: colorful_icons_pack/clock_icon
+  ascent: 20
+  height: 20
+  char: ꑚ
+
+color_palette_icon:
+  texture: colorful_icons_pack/color_palette_icon
+  ascent: 20
+  height: 20
+  char: ꑛ
+
+crafting_table_icon:
+  texture: colorful_icons_pack/crafting_table_icon
+  ascent: 20
+  height: 20
+  char: ꑜ
+
+cross_icon:
+  texture: colorful_icons_pack/cross_icon
+  ascent: 20
+  height: 20
+  char: ꑝ
+
+cutlery_icon:
+  texture: colorful_icons_pack/cutlery_icon
+  ascent: 20
+  height: 20
+  char: ꑞ
+
+dog_icon:
+  texture: colorful_icons_pack/dog_icon
+  ascent: 20
+  height: 20
+  char: ꑟ
+
+dollar_icon:
+  texture: colorful_icons_pack/dollar_icon
+  ascent: 20
+  height: 20
+  char: ꑠ
+
+end_portal_icon:
+  texture: colorful_icons_pack/end_portal_icon
+  ascent: 20
+  height: 20
+  char: ꑡ
+
+exclamation_mark_icon:
+  texture: colorful_icons_pack/exclamation_mark_icon
+  ascent: 20
+  height: 20
+  char: ꑢ
+
+flag_icon:
+  texture: colorful_icons_pack/flag_icon
+  ascent: 20
+  height: 20
+  char: ꑣ
+
+game_icon:
+  texture: colorful_icons_pack/game_icon
+  ascent: 20
+  height: 20
+  char: ꑤ
+
+golden_key_icon:
+  texture: colorful_icons_pack/golden_key_icon
+  ascent: 20
+  height: 20
+  char: ꑥ
+
+golden_lock_icon:
+  texture: colorful_icons_pack/golden_lock_icon
+  ascent: 20
+  height: 20
+  char: ꑦ
+
+golden_unlock_icon:
+  texture: colorful_icons_pack/golden_unlock_icon
+  ascent: 20
+  height: 20
+  char: ꑧ
+
+hammer_icon:
+  texture: colorful_icons_pack/hammer_icon
+  ascent: 20
+  height: 20
+  char: ꑨ
+
+hanger_icon:
+  texture: colorful_icons_pack/hanger_icon
+  ascent: 20
+  height: 20
+  char: ꑩ
+
+heart_icon:
+  texture: colorful_icons_pack/heart_icon
+  ascent: 20
+  height: 20
+  char: ꑪ
+
+home_icon:
+  texture: colorful_icons_pack/home_icon
+  ascent: 20
+  height: 20
+  char: ꑫ
+
+hourglass_icon:
+  texture: colorful_icons_pack/hourglass_icon
+  ascent: 20
+  height: 20
+  char: ꑬ
+
+hunger_icon:
+  texture: colorful_icons_pack/hunger_icon
+  ascent: 20
+  height: 20
+  char: ꑭ
+
+icon_shadows:
+  texture: colorful_icons_pack/icon_shadows
+  ascent: 20
+  height: 20
+  char: ꑮ
+
+icons:
+  texture: colorful_icons_pack/icons
+  ascent: 20
+  height: 20
+  char: ꑯ
+
+info_icon:
+  texture: colorful_icons_pack/info_icon
+  ascent: 20
+  height: 20
+  char: ꑰ
+
+key_icon:
+  texture: colorful_icons_pack/key_icon
+  ascent: 20
+  height: 20
+  char: ꑱ
+
+large_book_icon:
+  texture: colorful_icons_pack/large_book_icon
+  ascent: 20
+  height: 20
+  char: ꑲ
+
+lock_icon:
+  texture: colorful_icons_pack/lock_icon
+  ascent: 20
+  height: 20
+  char: ꑳ
+
+magnifying_glass_icon:
+  texture: colorful_icons_pack/magnifying_glass_icon
+  ascent: 20
+  height: 20
+  char: ꑴ
+
+mail_icon:
+  texture: colorful_icons_pack/mail_icon
+  ascent: 20
+  height: 20
+  char: ꑵ
+
+mail_open_icon:
+  texture: colorful_icons_pack/mail_open_icon
+  ascent: 20
+  height: 20
+  char: ꑶ
+
+mobile_phone_icon:
+  texture: colorful_icons_pack/mobile_phone_icon
+  ascent: 20
+  height: 20
+  char: ꑷ
+
+money_icon:
+  texture: colorful_icons_pack/money_icon
+  ascent: 20
+  height: 20
+  char: ꑸ
+
+music_disabled_icon:
+  texture: colorful_icons_pack/music_disabled_icon
+  ascent: 20
+  height: 20
+  char: ꑹ
+
+music_icon:
+  texture: colorful_icons_pack/music_icon
+  ascent: 20
+  height: 20
+  char: ꑺ
+
+nether_portal_icon:
+  texture: colorful_icons_pack/nether_portal_icon
+  ascent: 20
+  height: 20
+  char: ꑻ
+
+notification_mail_icon:
+  texture: colorful_icons_pack/notification_mail_icon
+  ascent: 20
+  height: 20
+  char: ꑼ
+
+orange_flag:
+  texture: colorful_icons_pack/orange_flag
+  ascent: 20
+  height: 20
+  char: ꑽ
+
+pet_icon:
+  texture: colorful_icons_pack/pet_icon
+  ascent: 20
+  height: 20
+  char: ꑾ
+
+pickaxe_icon:
+  texture: colorful_icons_pack/pickaxe_icon
+  ascent: 20
+  height: 20
+  char: ꑿ
+
+picture_icon:
+  texture: colorful_icons_pack/picture_icon
+  ascent: 20
+  height: 20
+  char: ꒀ
+
+question_mark_icon:
+  texture: colorful_icons_pack/question_mark_icon
+  ascent: 20
+  height: 20
+  char: ꒁ
+
+rank_icon:
+  texture: colorful_icons_pack/rank_icon
+  ascent: 20
+  height: 20
+  char: ꒂ
+
+scroll_icon:
+  texture: colorful_icons_pack/scroll_icon
+  ascent: 20
+  height: 20
+  char: ꒃ
+
+settings_icon:
+  texture: colorful_icons_pack/settings_icon
+  ascent: 20
+  height: 20
+  char: ꒄ
+
+shield_icon:
+  texture: colorful_icons_pack/shield_icon
+  ascent: 20
+  height: 20
+  char: ꒅ
+
+shovel_icon:
+  texture: colorful_icons_pack/shovel_icon
+  ascent: 20
+  height: 20
+  char: ꒆ
+
+skull_icon:
+  texture: colorful_icons_pack/skull_icon
+  ascent: 20
+  height: 20
+  char: ꒇ
+
+store_icon:
+  texture: colorful_icons_pack/store_icon
+  ascent: 20
+  height: 20
+  char: ꒈ
+
+suitcase_icon:
+  texture: colorful_icons_pack/suitcase_icon
+  ascent: 20
+  height: 20
+  char: ꒉ
+
+suitcase_open_icon:
+  texture: colorful_icons_pack/suitcase_open_icon
+  ascent: 20
+  height: 20
+  char: ꒊ
+
+sword_icon:
+  texture: colorful_icons_pack/sword_icon
+  ascent: 20
+  height: 20
+  char: ꒋ
+
+tools_icon:
+  texture: colorful_icons_pack/tools_icon
+  ascent: 20
+  height: 20
+  char: ꒌ
+
+tt_icon:
+  texture: colorful_icons_pack/tt_icon
+  ascent: 20
+  height: 20
+  char: ꒍
+
+unfurled_scroll_icon:
+  texture: colorful_icons_pack/unfurled_scroll_icon
+  ascent: 20
+  height: 20
+  char: ꒎
+
+unlock_icon:
+  texture: colorful_icons_pack/unlock_icon
+  ascent: 20
+  height: 20
+  char: ꒏
+
+battlepass_book:
+  texture: nitro_item/battlepass/book
+  ascent: 20
+  height: 20
+  char: ꒐
+
+battlepass_chest:
+  texture: nitro_item/battlepass/chest
+  ascent: 20
+  height: 20
+  char: ꒑
+
+battlepass_chestfull:
+  texture: nitro_item/battlepass/chestfull
+  ascent: 20
+  height: 20
+  char: ꒒
+
+battlepass_green:
+  texture: nitro_item/battlepass/green
+  ascent: 20
+  height: 20
+  char: ꒓
+
+battlepass_yellow:
+  texture: nitro_item/battlepass/yellow
+  ascent: 20
+  height: 20
+  char: ꒔
+
+battlepass_bookdark:
+  texture: nitro_item/battlepass/bookdark
+  ascent: 20
+  height: 20
+  char: ꒕
+
+battlepass_chestdark:
+  texture: nitro_item/battlepass/chestdark
+  ascent: 20
+  height: 20
+  char: ꒖
+
+battlepass_chestopen:
+  texture: nitro_item/battlepass/chestopen
+  ascent: 20
+  height: 20
+  char: ꒗
+
+battlepass_red:
+  texture: nitro_item/battlepass/red
+  ascent: 20
+  height: 20
+  char: ꒘
+
+blank_blank:
+  texture: nitro_item/blank/blank
+  ascent: 20
+  height: 20
+  char: ꒙
+
+coinshop_backpacks:
+  texture: nitro_item/coinshop/backpacks
+  ascent: 20
+  height: 20
+  char: ꒚
+
+coinshop_emotes:
+  texture: nitro_item/coinshop/emotes
+  ascent: 20
+  height: 20
+  char: ꒛
+
+coinshop_netheritebackpack:
+  texture: nitro_item/coinshop/netheritebackpack
+  ascent: 20
+  height: 20
+  char: ꒜
+
+coinshop_copperbackpack:
+  texture: nitro_item/coinshop/copperbackpack
+  ascent: 20
+  height: 20
+  char: ꒝
+
+coinshop_furniture:
+  texture: nitro_item/coinshop/furniture
+  ascent: 20
+  height: 20
+  char: ꒞
+
+coinshop_pets:
+  texture: nitro_item/coinshop/pets
+  ascent: 20
+  height: 20
+  char: ꒟
+
+coinshop_diamondbackpack:
+  texture: nitro_item/coinshop/diamondbackpack
+  ascent: 20
+  height: 20
+  char: ꒠
+
+coinshop_goldbackpack:
+  texture: nitro_item/coinshop/goldbackpack
+  ascent: 20
+  height: 20
+  char: ꒡
+
+coinshop_silverbackpack:
+  texture: nitro_item/coinshop/silverbackpack
+  ascent: 20
+  height: 20
+  char: ꒢
+
+colors_aqua:
+  texture: nitro_item/colors/aqua
+  ascent: 20
+  height: 20
+  char: ꒣
+
+colors_darkblue:
+  texture: nitro_item/colors/darkblue
+  ascent: 20
+  height: 20
+  char: ꒤
+
+colors_gold:
+  texture: nitro_item/colors/gold
+  ascent: 20
+  height: 20
+  char: ꒥
+
+colors_purple:
+  texture: nitro_item/colors/purple
+  ascent: 20
+  height: 20
+  char: ꒦
+
+colors_black:
+  texture: nitro_item/colors/black
+  ascent: 20
+  height: 20
+  char: ꒧
+
+colors_darkgray:
+  texture: nitro_item/colors/darkgray
+  ascent: 20
+  height: 20
+  char: ꒨
+
+colors_gray:
+  texture: nitro_item/colors/gray
+  ascent: 20
+  height: 20
+  char: ꒩
+
+colors_red:
+  texture: nitro_item/colors/red
+  ascent: 20
+  height: 20
+  char: ꒪
+
+colors_blue:
+  texture: nitro_item/colors/blue
+  ascent: 20
+  height: 20
+  char: ꒫
+
+colors_darkgreen:
+  texture: nitro_item/colors/darkgreen
+  ascent: 20
+  height: 20
+  char: ꒬
+
+colors_green:
+  texture: nitro_item/colors/green
+  ascent: 20
+  height: 20
+  char: ꒭
+
+colors_white:
+  texture: nitro_item/colors/white
+  ascent: 20
+  height: 20
+  char: ꒮
+
+colors_darkaqua:
+  texture: nitro_item/colors/darkaqua
+  ascent: 20
+  height: 20
+  char: ꒯
+
+colors_darkred:
+  texture: nitro_item/colors/darkred
+  ascent: 20
+  height: 20
+  char: ꒰
+
+colors_pink:
+  texture: nitro_item/colors/pink
+  ascent: 20
+  height: 20
+  char: ꒱
+
+colors_yellow:
+  texture: nitro_item/colors/yellow
+  ascent: 20
+  height: 20
+  char: ꒲
+
+crates_coin:
+  texture: nitro_item/crates/coin
+  ascent: 20
+  height: 20
+  char: ꒳
+
+crates_factories:
+  texture: nitro_item/crates/factories
+  ascent: 20
+  height: 20
+  char: ꒴
+
+crates_money:
+  texture: nitro_item/crates/money
+  ascent: 20
+  height: 20
+  char: ꒵
+
+creative_plot:
+  texture: nitro_item/creative/plot
+  ascent: 20
+  height: 20
+  char: ꒶
+
+deliveries_chest:
+  texture: nitro_item/deliveries/chest
+  ascent: 20
+  height: 20
+  char: ꒷
+
+deliveries_chestopen:
+  texture: nitro_item/deliveries/chestopen
+  ascent: 20
+  height: 20
+  char: ꒸
+
+deliveries_standarddelivery:
+  texture: nitro_item/deliveries/standarddelivery
+  ascent: 20
+  height: 20
+  char: ꒹
+
+deliveries_chestfull:
+  texture: nitro_item/deliveries/chestfull
+  ascent: 20
+  height: 20
+  char: ꒺
+
+deliveries_expressdelivery:
+  texture: nitro_item/deliveries/expressdelivery
+  ascent: 20
+  height: 20
+  char: ꒻
+
+deliveries_chestlocked:
+  texture: nitro_item/deliveries/chestlocked
+  ascent: 20
+  height: 20
+  char: ꒼
+
+deliveries_lightningdelivery:
+  texture: nitro_item/deliveries/lightningdelivery
+  ascent: 20
+  height: 20
+  char: ꒽
+
+discoverycodex_bookgreen:
+  texture: nitro_item/discoverycodex/bookgreen
+  ascent: 20
+  height: 20
+  char: ꒾
+
+discoverycodex_bookred:
+  texture: nitro_item/discoverycodex/bookred
+  ascent: 20
+  height: 20
+  char: ꒿
+
+dungeons_dungeons:
+  texture: nitro_item/dungeons/dungeons
+  ascent: 20
+  height: 20
+  char: ꓀
+
+dungeons_souls:
+  texture: nitro_item/dungeons/souls
+  ascent: 20
+  height: 20
+  char: ꓁
+
+earth_map:
+  texture: nitro_item/earth/map
+  ascent: 20
+  height: 20
+  char: ꓂
+
+earth_mapmark:
+  texture: nitro_item/earth/mapmark
+  ascent: 20
+  height: 20
+  char: ꓃
+
+factories_gasoline:
+  texture: nitro_item/factories/gasoline
+  ascent: 20
+  height: 20
+  char: ꓄
+
+factories_lockopen:
+  texture: nitro_item/factories/lockopen
+  ascent: 20
+  height: 20
+  char: ꓅
+
+factories_processtwo:
+  texture: nitro_item/factories/processtwo
+  ascent: 20
+  height: 20
+  char: ꓆
+
+factories_hydrogen:
+  texture: nitro_item/factories/hydrogen
+  ascent: 20
+  height: 20
+  char: ꓇
+
+factories_oil:
+  texture: nitro_item/factories/oil
+  ascent: 20
+  height: 20
+  char: ꓈
+
+factories_jobs_blank:
+  texture: nitro_item/factories/jobs_blank
+  ascent: 20
+  height: 20
+  char: ꓉
+
+factories_package:
+  texture: nitro_item/factories/package
+  ascent: 20
+  height: 20
+  char: ꓊
+
+factories_uranium:
+  texture: nitro_item/factories/uranium
+  ascent: 20
+  height: 20
+  char: ꓋
+
+factories_lock:
+  texture: nitro_item/factories/lock
+  ascent: 20
+  height: 20
+  char: ꓌
+
+factories_processone:
+  texture: nitro_item/factories/processone
+  ascent: 20
+  height: 20
+  char: ꓍
+
+factories_processthree:
+  texture: nitro_item/factories/processthree
+  ascent: 20
+  height: 20
+  char: ꓎
+
+factories_lockedfactories_lockedarrow:
+  texture: nitro_item/factories/lockedfactories/lockedarrow
+  ascent: 20
+  height: 20
+  char: ꓏
+
+factories_lockedfactories_lockedgasoline:
+  texture: nitro_item/factories/lockedfactories/lockedgasoline
+  ascent: 20
+  height: 20
+  char: ꓐ
+
+factories_lockedfactories_lockedoil:
+  texture: nitro_item/factories/lockedfactories/lockedoil
+  ascent: 20
+  height: 20
+  char: ꓑ
+
+factories_lockedfactories_lockedbook:
+  texture: nitro_item/factories/lockedfactories/lockedbook
+  ascent: 20
+  height: 20
+  char: ꓒ
+
+factories_lockedfactories_lockedgoldingot:
+  texture: nitro_item/factories/lockedfactories/lockedgoldingot
+  ascent: 20
+  height: 20
+  char: ꓓ
+
+factories_lockedfactories_lockedquartz:
+  texture: nitro_item/factories/lockedfactories/lockedquartz
+  ascent: 20
+  height: 20
+  char: ꓔ
+
+factories_lockedfactories_lockedbrick:
+  texture: nitro_item/factories/lockedfactories/lockedbrick
+  ascent: 20
+  height: 20
+  char: ꓕ
+
+factories_lockedfactories_lockedhydrogen:
+  texture: nitro_item/factories/lockedfactories/lockedhydrogen
+  ascent: 20
+  height: 20
+  char: ꓖ
+
+factories_lockedfactories_lockedstring:
+  texture: nitro_item/factories/lockedfactories/lockedstring
+  ascent: 20
+  height: 20
+  char: ꓗ
+
+factories_lockedfactories_lockedcharcoal:
+  texture: nitro_item/factories/lockedfactories/lockedcharcoal
+  ascent: 20
+  height: 20
+  char: ꓘ
+
+factories_lockedfactories_lockedironingot:
+  texture: nitro_item/factories/lockedfactories/lockedironingot
+  ascent: 20
+  height: 20
+  char: ꓙ
+
+factories_lockedfactories_lockeduranium:
+  texture: nitro_item/factories/lockedfactories/lockeduranium
+  ascent: 20
+  height: 20
+  char: ꓚ
+
+factories_lockedfactories_lockedcopperingot:
+  texture: nitro_item/factories/lockedfactories/lockedcopperingot
+  ascent: 20
+  height: 20
+  char: ꓛ
+
+factories_lockedfactories_lockeditemframe:
+  texture: nitro_item/factories/lockedfactories/lockeditemframe
+  ascent: 20
+  height: 20
+  char: ꓜ
+
+factories_lockedfactories_lockedwheat:
+  texture: nitro_item/factories/lockedfactories/lockedwheat
+  ascent: 20
+  height: 20
+  char: ꓝ
+
+factories_lockedfactories_lockeddiamond:
+  texture: nitro_item/factories/lockedfactories/lockeddiamond
+  ascent: 20
+  height: 20
+  char: ꓞ
+
+factories_lockedfactories_lockednetherite:
+  texture: nitro_item/factories/lockedfactories/lockednetherite
+  ascent: 20
+  height: 20
+  char: ꓟ
+
+factories_lockedfactories_lockopen:
+  texture: nitro_item/factories/lockedfactories/lockopen
+  ascent: 20
+  height: 20
+  char: ꓠ
+
+factories_lockedfactories_lockedfirework:
+  texture: nitro_item/factories/lockedfactories/lockedfirework
+  ascent: 20
+  height: 20
+  char: ꓡ
+
+factories_lockedfactories_lockednetherstar:
+  texture: nitro_item/factories/lockedfactories/lockednetherstar
+  ascent: 20
+  height: 20
+  char: ꓢ
+
+factories_research_accounting:
+  texture: nitro_item/factories/research/accounting
+  ascent: 20
+  height: 20
+  char: ꓣ
+
+factories_research_hydrogen:
+  texture: nitro_item/factories/research/hydrogen
+  ascent: 20
+  height: 20
+  char: ꓤ
+
+factories_research_timerfour:
+  texture: nitro_item/factories/research/timerfour
+  ascent: 20
+  height: 20
+  char: ꓥ
+
+factories_research_accountingthree:
+  texture: nitro_item/factories/research/accountingthree
+  ascent: 20
+  height: 20
+  char: ꓦ
+
+factories_research_mechanics:
+  texture: nitro_item/factories/research/mechanics
+  ascent: 20
+  height: 20
+  char: ꓧ
+
+factories_research_timerone:
+  texture: nitro_item/factories/research/timerone
+  ascent: 20
+  height: 20
+  char: ꓨ
+
+factories_research_accountingtwo:
+  texture: nitro_item/factories/research/accountingtwo
+  ascent: 20
+  height: 20
+  char: ꓩ
+
+factories_research_mechanicsthree:
+  texture: nitro_item/factories/research/mechanicsthree
+  ascent: 20
+  height: 20
+  char: ꓪ
+
+factories_research_timerthree:
+  texture: nitro_item/factories/research/timerthree
+  ascent: 20
+  height: 20
+  char: ꓫ
+
+factories_research_diamond:
+  texture: nitro_item/factories/research/diamond
+  ascent: 20
+  height: 20
+  char: ꓬ
+
+factories_research_mechanicstwo:
+  texture: nitro_item/factories/research/mechanicstwo
+  ascent: 20
+  height: 20
+  char: ꓭ
+
+factories_research_timertwo:
+  texture: nitro_item/factories/research/timertwo
+  ascent: 20
+  height: 20
+  char: ꓮ
+
+factories_research_factory:
+  texture: nitro_item/factories/research/factory
+  ascent: 20
+  height: 20
+  char: ꓯ
+
+factories_research_metals:
+  texture: nitro_item/factories/research/metals
+  ascent: 20
+  height: 20
+  char: ꓰ
+
+factories_research_uranium:
+  texture: nitro_item/factories/research/uranium
+  ascent: 20
+  height: 20
+  char: ꓱ
+
+factories_research_gasoline:
+  texture: nitro_item/factories/research/gasoline
+  ascent: 20
+  height: 20
+  char: ꓲ
+
+factories_research_netherite:
+  texture: nitro_item/factories/research/netherite
+  ascent: 20
+  height: 20
+  char: ꓳ
+
+factories_research_goldingot:
+  texture: nitro_item/factories/research/goldingot
+  ascent: 20
+  height: 20
+  char: ꓴ
+
+factories_research_oil:
+  texture: nitro_item/factories/research/oil
+  ascent: 20
+  height: 20
+  char: ꓵ
+
+farm_hoe:
+  texture: nitro_item/farm/hoe
+  ascent: 20
+  height: 20
+  char: ꓶ
+
+helpmenu_auction:
+  texture: nitro_item/helpmenu/auction
+  ascent: 20
+  height: 20
+  char: ꓷ
+
+helpmenu_kits:
+  texture: nitro_item/helpmenu/kits
+  ascent: 20
+  height: 20
+  char: ꓸ
+
+helpmenu_skills:
+  texture: nitro_item/helpmenu/skills
+  ascent: 20
+  height: 20
+  char: ꓹ
+
+helpmenu_chat:
+  texture: nitro_item/helpmenu/chat
+  ascent: 20
+  height: 20
+  char: ꓺ
+
+helpmenu_leaderboards:
+  texture: nitro_item/helpmenu/leaderboards
+  ascent: 20
+  height: 20
+  char: ꓻ
+
+helpmenu_store:
+  texture: nitro_item/helpmenu/store
+  ascent: 20
+  height: 20
+  char: ꓼ
+
+helpmenu_coinshop:
+  texture: nitro_item/helpmenu/coinshop
+  ascent: 20
+  height: 20
+  char: ꓽ
+
+helpmenu_levels:
+  texture: nitro_item/helpmenu/levels
+  ascent: 20
+  height: 20
+  char: ꓾
+
+helpmenu_tags:
+  texture: nitro_item/helpmenu/tags
+  ascent: 20
+  height: 20
+  char: ꓿
+
+helpmenu_cosmetics:
+  texture: nitro_item/helpmenu/cosmetics
+  ascent: 20
+  height: 20
+  char: ꔀ
+
+helpmenu_pw:
+  texture: nitro_item/helpmenu/pw
+  ascent: 20
+  height: 20
+  char: ꔁ
+
+helpmenu_teams:
+  texture: nitro_item/helpmenu/teams
+  ascent: 20
+  height: 20
+  char: ꔂ
+
+helpmenu_dailyquests:
+  texture: nitro_item/helpmenu/dailyquests
+  ascent: 20
+  height: 20
+  char: ꔃ
+
+helpmenu_quests:
+  texture: nitro_item/helpmenu/quests
+  ascent: 20
+  height: 20
+  char: ꔄ
+
+helpmenu_warps:
+  texture: nitro_item/helpmenu/warps
+  ascent: 20
+  height: 20
+  char: ꔅ
+
+helpmenu_deliveries:
+  texture: nitro_item/helpmenu/deliveries
+  ascent: 20
+  height: 20
+  char: ꔆ
+
+helpmenu_rewards:
+  texture: nitro_item/helpmenu/rewards
+  ascent: 20
+  height: 20
+  char: ꔇ
+
+helpmenu_weekendgrinder:
+  texture: nitro_item/helpmenu/weekendgrinder
+  ascent: 20
+  height: 20
+  char: ꔈ
+
+helpmenu_factories:
+  texture: nitro_item/helpmenu/factories
+  ascent: 20
+  height: 20
+  char: ꔉ
+
+helpmenu_rtp:
+  texture: nitro_item/helpmenu/rtp
+  ascent: 20
+  height: 20
+  char: ꔊ
+
+helpmenu_jobs:
+  texture: nitro_item/helpmenu/jobs
+  ascent: 20
+  height: 20
+  char: ꔋ
+
+helpmenu_shop:
+  texture: nitro_item/helpmenu/shop
+  ascent: 20
+  height: 20
+  char: ꔌ
+
+icons_arrowright:
+  texture: nitro_item/icons/arrowright
+  ascent: 20
+  height: 20
+  char: ꔍ
+
+icons_book:
+  texture: nitro_item/icons/book
+  ascent: 20
+  height: 20
+  char: ꔎ
+
+jobs_check:
+  texture: nitro_item/jobs/check
+  ascent: 20
+  height: 20
+  char: ꔏ
+
+jobs_chest:
+  texture: nitro_item/jobs/chest
+  ascent: 20
+  height: 20
+  char: ꔐ
+
+jobs_chestfull:
+  texture: nitro_item/jobs/chestfull
+  ascent: 20
+  height: 20
+  char: ꔑ
+
+jobs_chestlocked:
+  texture: nitro_item/jobs/chestlocked
+  ascent: 20
+  height: 20
+  char: ꔒ
+
+jobs_chestopen:
+  texture: nitro_item/jobs/chestopen
+  ascent: 20
+  height: 20
+  char: ꔓ
+
+keys_common:
+  texture: nitro_item/keys/common
+  ascent: 20
+  height: 20
+  char: ꔔ
+
+keys_rankup:
+  texture: nitro_item/keys/rankup
+  ascent: 20
+  height: 20
+  char: ꔕ
+
+keys_superior:
+  texture: nitro_item/keys/superior
+  ascent: 20
+  height: 20
+  char: ꔖ
+
+keys_white:
+  texture: nitro_item/keys/white
+  ascent: 20
+  height: 20
+  char: ꔗ
+
+keys_epic:
+  texture: nitro_item/keys/epic
+  ascent: 20
+  height: 20
+  char: ꔘ
+
+keys_rare:
+  texture: nitro_item/keys/rare
+  ascent: 20
+  height: 20
+  char: ꔙ
+
+keys_vote:
+  texture: nitro_item/keys/vote
+  ascent: 20
+  height: 20
+  char: ꔚ
+
+kits_duke:
+  texture: nitro_item/kits/duke
+  ascent: 20
+  height: 20
+  char: ꔛ
+
+kits_king:
+  texture: nitro_item/kits/king
+  ascent: 20
+  height: 20
+  char: ꔜ
+
+kits_knight:
+  texture: nitro_item/kits/knight
+  ascent: 20
+  height: 20
+  char: ꔝ
+
+kits_lord:
+  texture: nitro_item/kits/lord
+  ascent: 20
+  height: 20
+  char: ꔞ
+
+kits_paladin:
+  texture: nitro_item/kits/paladin
+  ascent: 20
+  height: 20
+  char: ꔟ
+
+lifesteal_hearts_heartone:
+  texture: nitro_item/lifesteal/hearts/heartone
+  ascent: 20
+  height: 20
+  char: ꔠ
+
+lifesteal_hearts_heartthree:
+  texture: nitro_item/lifesteal/hearts/heartthree
+  ascent: 20
+  height: 20
+  char: ꔡ
+
+lifesteal_hearts_hearttwo:
+  texture: nitro_item/lifesteal/hearts/hearttwo
+  ascent: 20
+  height: 20
+  char: ꔢ
+
+lifesteal_sacrifhearts_boot:
+  texture: nitro_item/lifesteal/sacrifhearts/boot
+  ascent: 20
+  height: 20
+  char: ꔣ
+
+lifesteal_sacrifhearts_heart:
+  texture: nitro_item/lifesteal/sacrifhearts/heart
+  ascent: 20
+  height: 20
+  char: ꔤ
+
+lifesteal_sacrifhearts_shield:
+  texture: nitro_item/lifesteal/sacrifhearts/shield
+  ascent: 20
+  height: 20
+  char: ꔥ
+
+lifesteal_sacrifhearts_sword:
+  texture: nitro_item/lifesteal/sacrifhearts/sword
+  ascent: 20
+  height: 20
+  char: ꔦ
+
+playtimelevels_levelgreen:
+  texture: nitro_item/playtimelevels/levelgreen
+  ascent: 20
+  height: 20
+  char: ꔧ
+
+playtimelevels_levelred:
+  texture: nitro_item/playtimelevels/levelred
+  ascent: 20
+  height: 20
+  char: ꔨ
+
+playtimelevels_levelyellow:
+  texture: nitro_item/playtimelevels/levelyellow
+  ascent: 20
+  height: 20
+  char: ꔩ
+
+prison_cprestigefive:
+  texture: nitro_item/prison/cprestigefive
+  ascent: 20
+  height: 20
+  char: ꔪ
+
+prison_cprestigetwo:
+  texture: nitro_item/prison/cprestigetwo
+  ascent: 20
+  height: 20
+  char: ꔫ
+
+prison_prestigeseven:
+  texture: nitro_item/prison/prestigeseven
+  ascent: 20
+  height: 20
+  char: ꔬ
+
+prison_cprestigefour:
+  texture: nitro_item/prison/cprestigefour
+  ascent: 20
+  height: 20
+  char: ꔭ
+
+prison_prestigesix:
+  texture: nitro_item/prison/prestigesix
+  ascent: 20
+  height: 20
+  char: ꔮ
+
+prison_cprestigeone:
+  texture: nitro_item/prison/cprestigeone
+  ascent: 20
+  height: 20
+  char: ꔯ
+
+prison_mines:
+  texture: nitro_item/prison/mines
+  ascent: 20
+  height: 20
+  char: ꔰ
+
+prison_prestigethree:
+  texture: nitro_item/prison/prestigethree
+  ascent: 20
+  height: 20
+  char: ꔱ
+
+prison_cprestigeseven:
+  texture: nitro_item/prison/cprestigeseven
+  ascent: 20
+  height: 20
+  char: ꔲ
+
+prison_prestigefive:
+  texture: nitro_item/prison/prestigefive
+  ascent: 20
+  height: 20
+  char: ꔳ
+
+prison_prestigetwo:
+  texture: nitro_item/prison/prestigetwo
+  ascent: 20
+  height: 20
+  char: ꔴ
+
+prison_cprestigesix:
+  texture: nitro_item/prison/cprestigesix
+  ascent: 20
+  height: 20
+  char: ꔵ
+
+prison_prestigefour:
+  texture: nitro_item/prison/prestigefour
+  ascent: 20
+  height: 20
+  char: ꔶ
+
+prison_rank:
+  texture: nitro_item/prison/rank
+  ascent: 20
+  height: 20
+  char: ꔷ
+
+prison_cprestigethree:
+  texture: nitro_item/prison/cprestigethree
+  ascent: 20
+  height: 20
+  char: ꔸ
+
+prison_prestigeone:
+  texture: nitro_item/prison/prestigeone
+  ascent: 20
+  height: 20
+  char: ꔹ
+
+prison_tokens:
+  texture: nitro_item/prison/tokens
+  ascent: 20
+  height: 20
+  char: ꔺ
+
+prison_enchants_autoblock:
+  texture: nitro_item/prison/enchants/autoblock
+  ascent: 20
+  height: 20
+  char: ꔻ
+
+prison_enchants_efficiency:
+  texture: nitro_item/prison/enchants/efficiency
+  ascent: 20
+  height: 20
+  char: ꔼ
+
+prison_enchants_nightvision:
+  texture: nitro_item/prison/enchants/nightvision
+  ascent: 20
+  height: 20
+  char: ꔽ
+
+prison_enchants_autosmelt:
+  texture: nitro_item/prison/enchants/autosmelt
+  ascent: 20
+  height: 20
+  char: ꔾ
+
+prison_enchants_fortune:
+  texture: nitro_item/prison/enchants/fortune
+  ascent: 20
+  height: 20
+  char: ꔿ
+
+prison_enchants_speed:
+  texture: nitro_item/prison/enchants/speed
+  ascent: 20
+  height: 20
+  char: ꕀ
+
+prison_enchants_collector:
+  texture: nitro_item/prison/enchants/collector
+  ascent: 20
+  height: 20
+  char: ꕁ
+
+prison_enchants_luckymining:
+  texture: nitro_item/prison/enchants/luckymining
+  ascent: 20
+  height: 20
+  char: ꕂ
+
+prison_enchants_treasurehunter:
+  texture: nitro_item/prison/enchants/treasurehunter
+  ascent: 20
+  height: 20
+  char: ꕃ
+
+prison_enchants_dynamite:
+  texture: nitro_item/prison/enchants/dynamite
+  ascent: 20
+  height: 20
+  char: ꕄ
+
+prison_enchants_merchant:
+  texture: nitro_item/prison/enchants/merchant
+  ascent: 20
+  height: 20
+  char: ꕅ
+
+quests_questgreen:
+  texture: nitro_item/quests/questgreen
+  ascent: 20
+  height: 20
+  char: ꕆ
+
+quests_questlocked:
+  texture: nitro_item/quests/questlocked
+  ascent: 20
+  height: 20
+  char: ꕇ
+
+quests_questorange:
+  texture: nitro_item/quests/questorange
+  ascent: 20
+  height: 20
+  char: ꕈ
+
+rewards_rewardclosedone:
+  texture: nitro_item/rewards/rewardclosedone
+  ascent: 20
+  height: 20
+  char: ꕉ
+
+rewards_rewardclosedtwo:
+  texture: nitro_item/rewards/rewardclosedtwo
+  ascent: 20
+  height: 20
+  char: ꕊ
+
+rewards_rewardthree:
+  texture: nitro_item/rewards/rewardthree
+  ascent: 20
+  height: 20
+  char: ꕋ
+
+rewards_rewardclosedthree:
+  texture: nitro_item/rewards/rewardclosedthree
+  ascent: 20
+  height: 20
+  char: ꕌ
+
+rewards_rewardone:
+  texture: nitro_item/rewards/rewardone
+  ascent: 20
+  height: 20
+  char: ꕍ
+
+rewards_rewardtwo:
+  texture: nitro_item/rewards/rewardtwo
+  ascent: 20
+  height: 20
+  char: ꕎ
+
+rpg_kits:
+  texture: nitro_item/rpg/kits
+  ascent: 20
+  height: 20
+  char: ꕏ
+
+rpg_package:
+  texture: nitro_item/rpg/package
+  ascent: 20
+  height: 20
+  char: ꕐ
+
+rpg_classxp:
+  texture: nitro_item/rpg/classxp
+  ascent: 20
+  height: 20
+  char: ꕑ
+
+rpg_letter:
+  texture: nitro_item/rpg/letter
+  ascent: 20
+  height: 20
+  char: ꕒ
+
+rpg_lettershadow:
+  texture: nitro_item/rpg/lettershadow
+  ascent: 20
+  height: 20
+  char: ꕓ
+
+rpg_stats:
+  texture: nitro_item/rpg/stats
+  ascent: 20
+  height: 20
+  char: ꕔ
+
+rpg_gemofatlantis:
+  texture: nitro_item/rpg/gemofatlantis
+  ascent: 20
+  height: 20
+  char: ꕕ
+
+rpg_abilities_8aquaticbreathing:
+  texture: nitro_item/rpg/abilities/8aquaticbreathing
+  ascent: 20
+  height: 20
+  char: ꕖ
+
+rpg_abilities_8lightningstrike:
+  texture: nitro_item/rpg/abilities/8lightningstrike
+  ascent: 20
+  height: 20
+  char: ꕗ
+
+rpg_abilities_aquaticbreathing:
+  texture: nitro_item/rpg/abilities/aquaticbreathing
+  ascent: 20
+  height: 20
+  char: ꕘ
+
+rpg_abilities_8axemastery:
+  texture: nitro_item/rpg/abilities/8axemastery
+  ascent: 20
+  height: 20
+  char: ꕙ
+
+rpg_abilities_8marathonstamina:
+  texture: nitro_item/rpg/abilities/8marathonstamina
+  ascent: 20
+  height: 20
+  char: ꕚ
+
+rpg_abilities_backstabbing:
+  texture: nitro_item/rpg/abilities/backstabbing
+  ascent: 20
+  height: 20
+  char: ꕛ
+
+rpg_abilities_8battlestand:
+  texture: nitro_item/rpg/abilities/8battlestand
+  ascent: 20
+  height: 20
+  char: ꕜ
+
+rpg_abilities_8nightvision:
+  texture: nitro_item/rpg/abilities/8nightvision
+  ascent: 20
+  height: 20
+  char: ꕝ
+
+rpg_abilities_crushingfury:
+  texture: nitro_item/rpg/abilities/crushingfury
+  ascent: 20
+  height: 20
+  char: ꕞ
+
+rpg_abilities_8crushingfury:
+  texture: nitro_item/rpg/abilities/8crushingfury
+  ascent: 20
+  height: 20
+  char: ꕟ
+
+rpg_abilities_8olympicswimmer:
+  texture: nitro_item/rpg/abilities/8olympicswimmer
+  ascent: 20
+  height: 20
+  char: ꕠ
+
+rpg_abilities_fatalarrows:
+  texture: nitro_item/rpg/abilities/fatalarrows
+  ascent: 20
+  height: 20
+  char: ꕡ
+
+rpg_abilities_8divinerecovery:
+  texture: nitro_item/rpg/abilities/8divinerecovery
+  ascent: 20
+  height: 20
+  char: ꕢ
+
+rpg_abilities_8poisonblade:
+  texture: nitro_item/rpg/abilities/8poisonblade
+  ascent: 20
+  height: 20
+  char: ꕣ
+
+rpg_abilities_firespell:
+  texture: nitro_item/rpg/abilities/firespell
+  ascent: 20
+  height: 20
+  char: ꕤ
+
+rpg_abilities_8fatalarrows:
+  texture: nitro_item/rpg/abilities/8fatalarrows
+  ascent: 20
+  height: 20
+  char: ꕥ
+
+rpg_abilities_8rampage:
+  texture: nitro_item/rpg/abilities/8rampage
+  ascent: 20
+  height: 20
+  char: ꕦ
+
+rpg_abilities_healingaura:
+  texture: nitro_item/rpg/abilities/healingaura
+  ascent: 20
+  height: 20
+  char: ꕧ
+
+rpg_abilities_8firespell:
+  texture: nitro_item/rpg/abilities/8firespell
+  ascent: 20
+  height: 20
+  char: ꕨ
+
+rpg_abilities_8rapidspeed:
+  texture: nitro_item/rpg/abilities/8rapidspeed
+  ascent: 20
+  height: 20
+  char: ꕩ
+
+rpg_abilities_invisibilitycloak:
+  texture: nitro_item/rpg/abilities/invisibilitycloak
+  ascent: 20
+  height: 20
+  char: ꕪ
+
+rpg_abilities_8flyingescape:
+  texture: nitro_item/rpg/abilities/8flyingescape
+  ascent: 20
+  height: 20
+  char: ꕫ
+
+rpg_abilities_8shadowkill:
+  texture: nitro_item/rpg/abilities/8shadowkill
+  ascent: 20
+  height: 20
+  char: ꕬ
+
+rpg_abilities_lethalstrength:
+  texture: nitro_item/rpg/abilities/lethalstrength
+  ascent: 20
+  height: 20
+  char: ꕭ
+
+rpg_abilities_8healingaura:
+  texture: nitro_item/rpg/abilities/8healingaura
+  ascent: 20
+  height: 20
+  char: ꕮ
+
+rpg_abilities_8steelframe:
+  texture: nitro_item/rpg/abilities/8steelframe
+  ascent: 20
+  height: 20
+  char: ꕯ
+
+rpg_abilities_lightningstrike:
+  texture: nitro_item/rpg/abilities/lightningstrike
+  ascent: 20
+  height: 20
+  char: ꕰ
+
+rpg_abilities_8invisibilitycloak:
+  texture: nitro_item/rpg/abilities/8invisibilitycloak
+  ascent: 20
+  height: 20
+  char: ꕱ
+
+rpg_abilities_8swordmastery:
+  texture: nitro_item/rpg/abilities/8swordmastery
+  ascent: 20
+  height: 20
+  char: ꕲ
+
+rpg_abilities_nightvision:
+  texture: nitro_item/rpg/abilities/nightvision
+  ascent: 20
+  height: 20
+  char: ꕳ
+
+rpg_abilities_8ironfist:
+  texture: nitro_item/rpg/abilities/8ironfist
+  ascent: 20
+  height: 20
+  char: ꕴ
+
+rpg_abilities_8tridentmastery:
+  texture: nitro_item/rpg/abilities/8tridentmastery
+  ascent: 20
+  height: 20
+  char: ꕵ
+
+rpg_abilities_rampage:
+  texture: nitro_item/rpg/abilities/rampage
+  ascent: 20
+  height: 20
+  char: ꕶ
+
+rpg_abilities_8lethalstrength:
+  texture: nitro_item/rpg/abilities/8lethalstrength
+  ascent: 20
+  height: 20
+  char: ꕷ
+
+rpg_abilities_8vitalescape:
+  texture: nitro_item/rpg/abilities/8vitalescape
+  ascent: 20
+  height: 20
+  char: ꕸ
+
+rpg_abilities_rapidspeed:
+  texture: nitro_item/rpg/abilities/rapidspeed
+  ascent: 20
+  height: 20
+  char: ꕹ
+
+rpg_elixirs_alchemist:
+  texture: nitro_item/rpg/elixirs/alchemist
+  ascent: 20
+  height: 20
+  char: ꕺ
+
+rpg_elixirs_barbarian:
+  texture: nitro_item/rpg/elixirs/barbarian
+  ascent: 20
+  height: 20
+  char: ꕻ
+
+rpg_elixirs_marine:
+  texture: nitro_item/rpg/elixirs/marine
+  ascent: 20
+  height: 20
+  char: ꕼ
+
+rpg_elixirs_valkyrie:
+  texture: nitro_item/rpg/elixirs/valkyrie
+  ascent: 20
+  height: 20
+  char: ꕽ
+
+rpg_elixirs_wizard:
+  texture: nitro_item/rpg/elixirs/wizard
+  ascent: 20
+  height: 20
+  char: ꕾ
+
+rpg_elixirs_archer:
+  texture: nitro_item/rpg/elixirs/archer
+  ascent: 20
+  height: 20
+  char: ꕿ
+
+rpg_elixirs_bravery:
+  texture: nitro_item/rpg/elixirs/bravery
+  ascent: 20
+  height: 20
+  char: ꖀ
+
+rpg_elixirs_ninja:
+  texture: nitro_item/rpg/elixirs/ninja
+  ascent: 20
+  height: 20
+  char: ꖁ
+
+rpg_elixirs_viking:
+  texture: nitro_item/rpg/elixirs/viking
+  ascent: 20
+  height: 20
+  char: ꖂ
+
+rpg_elixirs_assassin:
+  texture: nitro_item/rpg/elixirs/assassin
+  ascent: 20
+  height: 20
+  char: ꖃ
+
+rpg_elixirs_cleric:
+  texture: nitro_item/rpg/elixirs/cleric
+  ascent: 20
+  height: 20
+  char: ꖄ
+
+rpg_elixirs_scout:
+  texture: nitro_item/rpg/elixirs/scout
+  ascent: 20
+  height: 20
+  char: ꖅ
+
+rpg_elixirs_warrior:
+  texture: nitro_item/rpg/elixirs/warrior
+  ascent: 20
+  height: 20
+  char: ꖆ
+
+rpg_levels_completed:
+  texture: nitro_item/rpg/levels/completed
+  ascent: 20
+  height: 20
+  char: ꖇ
+
+rpg_levels_locked:
+  texture: nitro_item/rpg/levels/locked
+  ascent: 20
+  height: 20
+  char: ꖈ
+
+rpg_levels_unlocked:
+  texture: nitro_item/rpg/levels/unlocked
+  ascent: 20
+  height: 20
+  char: ꖉ
+
+rpg_scroll_down:
+  texture: nitro_item/rpg/scroll/down
+  ascent: 20
+  height: 20
+  char: ꖊ
+
+rpg_scroll_up:
+  texture: nitro_item/rpg/scroll/up
+  ascent: 20
+  height: 20
+  char: ꖋ
+
+settings_settingsoff:
+  texture: nitro_item/settings/settingsoff
+  ascent: 20
+  height: 20
+  char: ꖌ
+
+settings_settingson:
+  texture: nitro_item/settings/settingson
+  ascent: 20
+  height: 20
+  char: ꖍ
+
+shop_check:
+  texture: nitro_item/shop/check
+  ascent: 20
+  height: 20
+  char: ꖎ
+
+shop_minus:
+  texture: nitro_item/shop/minus
+  ascent: 20
+  height: 20
+  char: ꖏ
+
+shop_plus:
+  texture: nitro_item/shop/plus
+  ascent: 20
+  height: 20
+  char: ꖐ
+
+shop_set:
+  texture: nitro_item/shop/set
+  ascent: 20
+  height: 20
+  char: ꖑ
+
+skills_levelgreen:
+  texture: nitro_item/skills/levelgreen
+  ascent: 20
+  height: 20
+  char: ꖒ
+
+skills_levelred:
+  texture: nitro_item/skills/levelred
+  ascent: 20
+  height: 20
+  char: ꖓ
+
+skills_levelyellow:
+  texture: nitro_item/skills/levelyellow
+  ascent: 20
+  height: 20
+  char: ꖔ
+
+tagsmenus_africa:
+  texture: nitro_item/tagsmenus/africa
+  ascent: 20
+  height: 20
+  char: ꖕ
+
+tagsmenus_iconall:
+  texture: nitro_item/tagsmenus/iconall
+  ascent: 20
+  height: 20
+  char: ꖖ
+
+tagsmenus_iconothers:
+  texture: nitro_item/tagsmenus/iconothers
+  ascent: 20
+  height: 20
+  char: ꖗ
+
+tagsmenus_all:
+  texture: nitro_item/tagsmenus/all
+  ascent: 20
+  height: 20
+  char: ꖘ
+
+tagsmenus_iconanimals:
+  texture: nitro_item/tagsmenus/iconanimals
+  ascent: 20
+  height: 20
+  char: ꖙ
+
+tagsmenus_iconpizza:
+  texture: nitro_item/tagsmenus/iconpizza
+  ascent: 20
+  height: 20
+  char: ꖚ
+
+tagsmenus_asia:
+  texture: nitro_item/tagsmenus/asia
+  ascent: 20
+  height: 20
+  char: ꖛ
+
+tagsmenus_icongames:
+  texture: nitro_item/tagsmenus/icongames
+  ascent: 20
+  height: 20
+  char: ꖜ
+
+tagsmenus_northamerica:
+  texture: nitro_item/tagsmenus/northamerica
+  ascent: 20
+  height: 20
+  char: ꖝ
+
+tagsmenus_australia:
+  texture: nitro_item/tagsmenus/australia
+  ascent: 20
+  height: 20
+  char: ꖞ
+
+tagsmenus_iconicons:
+  texture: nitro_item/tagsmenus/iconicons
+  ascent: 20
+  height: 20
+  char: ꖟ
+
+tagsmenus_southamerica:
+  texture: nitro_item/tagsmenus/southamerica
+  ascent: 20
+  height: 20
+  char: ꖠ
+
+tagsmenus_europe:
+  texture: nitro_item/tagsmenus/europe
+  ascent: 20
+  height: 20
+  char: ꖡ
+
+tagsmenus_iconmovies:
+  texture: nitro_item/tagsmenus/iconmovies
+  ascent: 20
+  height: 20
+  char: ꖢ

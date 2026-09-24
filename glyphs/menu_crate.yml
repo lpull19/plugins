@@ -1,0 +1,18 @@
+gui_crate_menu:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/crate/crate_menu
+  height: 256
+  ascent: 19
+  char: 
+gui_crate_preview:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/crate/crate_preview
+  height: 256
+  ascent: 19
+  char: 
+gui_crate_spin:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/crate/crate_spin
+  height: 256
+  ascent: 19
+  char: 

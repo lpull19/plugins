@@ -1,0 +1,326 @@
+blood_helmet:
+  itemname: blood_helmet
+  material: NETHERITE_HELMET
+  Pack:
+    texture: ultimate_armors/blood_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:blood
+blood_chestplate:
+  itemname: blood_chestplate
+  material: NETHERITE_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/blood_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:blood
+blood_leggings:
+  itemname: blood_leggings
+  material: NETHERITE_LEGGINGS
+  Pack:
+    texture: ultimate_armors/blood_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:blood
+blood_boots:
+  itemname: blood_boots
+  material: NETHERITE_BOOTS
+  Pack:
+    texture: ultimate_armors/blood_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:blood
+
+antiquecrystal_helmet:
+  itemname: ice_helmet
+  material: NETHERITE_HELMET
+  Pack:
+    texture: ultimate_armors/antiquecrystal_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:antiquecrystal
+antiquecrystal_chestplate:
+  itemname: antiquecrystal_chestplate
+  material: NETHERITE_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/antiquecrystal_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:antiquecrystal
+antiquecrystal_leggings:
+  itemname: antiquecrystal_leggings
+  material: NETHERITE_LEGGINGS
+  Pack:
+    texture: ultimate_armors/antiquecrystal_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:antiquecrystal
+antiquecrystal_boots:
+  itemname: antiquecrystal_boots
+  material: NETHERITE_BOOTS
+  Pack:
+    texture: ultimate_armors/antiquecrystal_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:antiquecrystal
+antiquecrystal_sword:
+  Pack:
+    model: ultimate_armors/antiquecrystal_sword
+    custom_model_data: 1003
+  itemname: antiquecrystal_sword
+  material: IRON_SWORD
+  permission: permission_model
+# #############################
+
+solar_helmet:
+  itemname: solar_helmet
+  material: NETHERITE_HELMET
+  Pack:
+    texture: ultimate_armors/solar_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:solar
+solar_chestplate:
+  itemname: solar_chestplate
+  material: NETHERITE_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/solar_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:solar
+solar_leggings:
+  itemname: solar_leggings
+  material: NETHERITE_LEGGINGS
+  Pack:
+    texture: ultimate_armors/solar_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:solar
+solar_boots:
+  itemname: solar_boots
+  material: NETHERITE_BOOTS
+  Pack:
+    texture: ultimate_armors/solar_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:solar
+solar_sword:
+  Pack:
+    model: ultimate_armors/solar_sword
+    custom_model_data: 1004
+  itemname: solar_sword
+  material: IRON_SWORD
+  permission: permission_model
+# #############################
+
+universal_helmet:
+  itemname: universal helmet
+  material: NETHERITE_HELMET
+  Pack:
+    texture: ultimate_armors/universal_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:universal
+universal_chestplate:
+  itemname: universal_chestplate
+  material: NETHERITE_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/universal_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:universal
+universal_leggings:
+  itemname: universal_leggings
+  material: NETHERITE_LEGGINGS
+  Pack:
+    texture: ultimate_armors/universal_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:universal
+universal_boots:
+  itemname: universal_boots
+  material: NETHERITE_BOOTS
+  Pack:
+    texture: ultimate_armors/universal_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:universal
+space_sword:
+  Pack:
+    model: ultimate_armors/space_sword
+    custom_model_data: 1005
+  itemname: space_sword
+  material: IRON_SWORD
+  permission: permission_model
+# #############################
+
+special_helmet:
+  itemname: special_helmet
+  material: NETHERITE_HELMET
+  Pack:
+    texture: ultimate_armors/special_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:special
+special_chestplate:
+  itemname: special_chestplate
+  material: NETHERITE_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/special_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:special
+special_leggings:
+  itemname: special_leggings
+  material: NETHERITE_LEGGINGS
+  Pack:
+    texture: ultimate_armors/special_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:special
+special_boots:
+  itemname: special_boots
+  material: NETHERITE_BOOTS
+  Pack:
+    texture: ultimate_armors/special_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:special
+special_sword:
+  Pack:
+    model: ultimate_armors/special_sword
+    custom_model_data: 1006
+  itemname: special_sword
+  material: IRON_SWORD
+  permission: permission_model
+# ############################
+
+bluesoul_helmet:
+  itemname: bluesoul_helmet
+  material: NETHERITE_HELMET
+  Pack:
+    texture: ultimate_armors/bluesoul_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:bluesoul
+
+bluesoul_chestplate:
+  itemname: bluesoul_chestplate
+  material: NETHERITE_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/bluesoul_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:bluesoul
+bluesoul_leggings:
+  itemname: bluesoul_leggings
+  material: NETHERITE_LEGGINGS
+  Pack:
+    texture: ultimate_armors/bluesoul_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:bluesoul
+bluesoul_boots:
+  itemname: bluesoul_boots
+  material: NETHERITE_BOOTS
+  Pack:
+    texture: ultimate_armors/bluesoul_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:bluesoul
+# ##################################
+
+mythical_helmet:
+  itemname: <color:#d4935f>Spooky Helmet
+  material: NETHERITE_HELMET
+  Pack:
+    texture: ultimate_armors/mythical_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:mythical
+  Enchantments:
+    protection: 5
+    unbreaking: 4
+    thorns: 4
+    mending: 1
+    aqua_affinity: 4
+    excellentenchants:night_vision: 1
+    excellentenchants:saturation: 2
+
+mythical_chestplate:
+  itemname: <color:#d4935f>Spooky Chestplate
+  material: NETHERITE_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/mythical_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:mythical
+  Enchantments:
+    protection: 5
+    unbreaking: 4
+    thorns: 4
+    mending: 1
+    excellentenchants:hardened: 2
+    excellentenchants:dragon_heart: 5
+
+mythical_leggings:
+  itemname: <color:#d4935f>Spooky Leggings
+  material: NETHERITE_LEGGINGS
+  Pack:
+    texture: ultimate_armors/mythical_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:mythical
+  Enchantments:
+    protection: 5
+    unbreaking: 4
+    thorns: 4
+    mending: 1
+    excellentenchants:stopping_force: 3
+
+mythical_boots:
+  itemname: <color:#d4935f>Spooky Boots
+  material: NETHERITE_BOOTS
+  Pack:
+    texture: ultimate_armors/mythical_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:mythical
+  Enchantments:
+    protection: 5
+    unbreaking: 4
+    thorns: 4
+    mending: 1
+    feather_falling: 5
+    depth_strider: 4
+    excellentenchants:speed: 2
+    excellentenchants:jumping: 2
+

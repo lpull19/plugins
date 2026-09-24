@@ -1,0 +1,666 @@
+adventure_backpack:
+  itemname: '[UI Only] Adventure Backpack'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110001
+    texture: ultimate/adventure_backpack
+ankh_charm:
+  itemname: '[UI Only] Ankh Charm'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110002
+    texture: ultimate/ankh_charm
+arachnite_shell:
+  itemname: '[UI Only] Arachnite Shell'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110003
+    texture: ultimate/arachnite_shell
+beaver_tail:
+  itemname: '[UI Only] Beaver Tail'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110004
+    texture: ultimate/beaver_tail
+blood_vial:
+  itemname: '[UI Only] Blood Vial'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110005
+    texture: ultimate/blood_vial
+blue_crystal:
+  itemname: '[UI Only] Blue Crystal'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110006
+    texture: ultimate/blue_crystal
+bone_necklace:
+  itemname: '[UI Only] Bone Necklace'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110007
+    texture: ultimate/bone_necklace
+broken_cobweb_parachute:
+  itemname: '[UI Only] Broken Cobweb Parachute'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110008
+    texture: ultimate/broken_cobweb_parachute
+broken_eight_eyed_mask:
+  itemname: '[UI Only] Broken Eight-Eyed Mask'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110009
+    texture: ultimate/broken_eight_eyed_mask
+broken_webwoven_cloak:
+  itemname: '[UI Only] Broken Webwoven Cloak'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110010
+    texture: ultimate/broken_webwoven_cloak
+caravan_key:
+  itemname: '[UI Only] Caravan Key'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110011
+    texture: ultimate/caravan_key
+catching_net:
+  itemname: '[UI Only] Catching Net'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110012
+    texture: ultimate/catching_net
+cloak_of_wrath:
+  itemname: '[UI Only] Cloak of Wrath'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110013
+    texture: ultimate/cloak_of_wrath
+cobweb_parachute:
+  itemname: '[UI Only] Cobweb Parachute'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110014
+    texture: ultimate/cobweb_parachute
+crab_claw:
+  itemname: '[UI Only] Crab Claw'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110015
+    texture: ultimate/crab_claw
+crab_scissors:
+  itemname: '[UI Only] Crab Scissors'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110016
+    texture: ultimate/crab_scissors
+crocodile_tooth:
+  itemname: '[UI Only] Crocodile Tooth'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110017
+    texture: ultimate/crocodile_tooth
+crystal_amulet:
+  itemname: '[UI Only] Crystal Amulet'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110018
+    texture: ultimate/crystal_amulet
+dark_magic_necklace:
+  itemname: '[UI Only] Dark Magic Necklace'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110019
+    texture: ultimate/dark_magic_necklace
+decayed_cobweb_parachute:
+  itemname: '[UI Only] Decayed Cobweb Parachute'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110020
+    texture: ultimate/decayed_cobweb_parachute
+desert_key:
+  itemname: '[UI Only] Desert Key'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110021
+    texture: ultimate/desert_key
+diving_mask:
+  itemname: '[UI Only] Diving Mask'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110022
+    texture: ultimate/diving_mask
+dracula_key:
+  itemname: '[UI Only] Dracula Key'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110023
+    texture: ultimate/dracula_key
+dragonscale:
+  itemname: '[UI Only] Dragonscale'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110024
+    texture: ultimate/dragonscale
+dragonscale_boots:
+  itemname: '[UI Only] Dragonscale Boots'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110025
+    texture: ultimate/dragonscale_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:dragonscale
+dragonscale_chestplate:
+  itemname: '[UI Only] Dragonscale Chestplate'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110026
+    texture: ultimate/dragonscale_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:dragonscale
+dragonscale_helmet:
+  itemname: '[UI Only] Dragonscale Helmet'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110027
+    texture: ultimate/dragonscale_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:dragonscale
+dragonscale_leggings:
+  itemname: '[UI Only] Dragonscale Leggings'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110028
+    texture: ultimate/dragonscale_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:dragonscale
+dynamite:
+  itemname: '[UI Only] Dynamite'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110029
+    texture: ultimate/dynamite
+eight_eyed_mask:
+  itemname: '[UI Only] Eight-Eyed Mask'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110030
+    texture: ultimate/eight_eyed_mask
+emerald_outline:
+  itemname: '[UI Only] Emerald Outline'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110031
+    texture: ultimate/emerald_outline
+ender_gauntlet:
+  itemname: '[UI Only] Ender Gauntlet'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110032
+    texture: ultimate/ender_gauntlet
+fine_thread:
+  itemname: '[UI Only] Fine Thread'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110033
+    texture: ultimate/fine_thread
+fine_thread_2:
+  itemname: '[UI Only] Fine Thread II'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110034
+    texture: ultimate/fine_thread_2
+flashlight:
+  itemname: '[UI Only] Flashlight'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110035
+    texture: ultimate/flashlight
+forge_schematic:
+  itemname: '[UI Only] Forge Schematic'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110036
+    texture: ultimate/forge_schematic
+gold_pouch:
+  itemname: '[UI Only] Gold Pouch'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110037
+    texture: ultimate/gold_pouch
+gold_tooth:
+  itemname: '[UI Only] Gold Tooth'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110038
+    texture: ultimate/gold_tooth
+golden_skull:
+  itemname: '[UI Only] Golden Skull'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110039
+    texture: ultimate/golden_skull
+golem_heart:
+  itemname: '[UI Only] Golem Heart'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110040
+    texture: ultimate/golem_heart
+green_crystal:
+  itemname: '[UI Only] Green Crystal'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110041
+    texture: ultimate/green_crystal
+hermes_boots:
+  itemname: '[UI Only] Hermes Boots'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110042
+    texture: ultimate/hermes_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:hermes
+home_teleportation_scroll:
+  itemname: '[UI Only] Home Teleportation Scroll'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110043
+    texture: ultimate/home_teleportation_scroll
+horseshoe:
+  itemname: '[UI Only] Horseshoe'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110044
+    texture: ultimate/horseshoe
+jungle_amulet:
+  itemname: '[UI Only] Jungle Amulet'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110045
+    texture: ultimate/jungle_amulet
+jungle_key:
+  itemname: '[UI Only] Jungle Key'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110046
+    texture: ultimate/jungle_key
+knight_shield:
+  itemname: '[UI Only] Knight Shield'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110047
+    texture: ultimate/knight_shield
+lightning_boots:
+  itemname: '[UI Only] Lightning Boots'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110048
+    texture: ultimate/lightning_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:lightning
+magic_bracelet:
+  itemname: '[UI Only] Magic Bracelet'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110049
+    texture: ultimate/magic_bracelet
+magma_boots:
+  itemname: '[UI Only] Magma Boots'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110050
+    texture: ultimate/magma_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:magma
+miner_helmet:
+  itemname: '[UI Only] Miner Helmet'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110051
+    texture: ultimate/miner_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:miner
+miner_helmet_lamp:
+  itemname: '[UI Only] Miner Helmet Lamp'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110052
+    texture: ultimate/miner_helmet_lamp
+miner_wrath_texture:
+  itemname: '[UI Only] Miner''s Wrath'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110053
+    texture: ultimate/miner_wrath_texture
+molten_dice:
+  itemname: '[UI Only] Molten Dice'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110054
+    texture: ultimate/molten_dice
+ninja_cloak:
+  itemname: '[UI Only] Ninja Cloak'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110055
+    texture: ultimate/ninja_cloak
+old_scroll:
+  itemname: '[UI Only] Old Scroll'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110056
+    texture: ultimate/old_scroll
+philosopher_stone:
+  itemname: '[UI Only] Philosopher''s Stone'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110057
+    texture: ultimate/philosopher_stone
+pink_crystal:
+  itemname: '[UI Only] Pink Crystal'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110058
+    texture: ultimate/pink_crystal
+portal_stone:
+  itemname: '[UI Only] Portal Stone'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110059
+    texture: ultimate/portal_stone
+random_teleportation_scroll:
+  itemname: '[UI Only] Random Teleportation Scroll'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110060
+    texture: ultimate/random_teleportation_scroll
+recipe_book:
+  itemname: '[UI Only] Recipe Book'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110061
+    texture: ultimate/recipe_book
+recipe_scroll:
+  itemname: '[UI Only] Recipe Scroll'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110062
+    texture: ultimate/recipe_scroll
+rocket_boots:
+  itemname: '[UI Only] Rocket Boots'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110063
+    texture: ultimate/rocket_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:rocket
+sculk_shield:
+  itemname: '[UI Only] Sculk Shield'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110064
+    texture: ultimate/sculk_shield
+shackle:
+  itemname: '[UI Only] Shackle'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110065
+    texture: ultimate/shackle
+shiver_bracelet:
+  itemname: '[UI Only] Shiver Bracelet'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110066
+    texture: ultimate/shiver_bracelet
+silkscourge_vial:
+  itemname: '[UI Only] Silkscourge Vial'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110067
+    texture: ultimate/silkscourge_vial
+silver_chain:
+  itemname: '[UI Only] Silver Chain'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110068
+    texture: ultimate/silver_chain
+skeleton_key:
+  itemname: '[UI Only] Skeleton Key'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110069
+    texture: ultimate/skeleton_key
+speed_ring:
+  itemname: '[UI Only] Speed Ring'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110070
+    texture: ultimate/speed_ring
+spider_venom:
+  itemname: '[UI Only] Spider Venom'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110071
+    texture: ultimate/spider_venom
+sunstone_ring:
+  itemname: '[UI Only] Sunstone Ring'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110072
+    texture: ultimate/sunstone_ring
+talisman_of_vitality:
+  itemname: '[UI Only] Talisman of Vitality'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110073
+    texture: ultimate/talisman_of_vitality
+unidentified_armor:
+  itemname: '[UI Only] Unidentified Armor'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110074
+    texture: ultimate/unidentified_armor
+unidentified_artifact:
+  itemname: '[UI Only] Unidentified Artifact'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110075
+    texture: ultimate/unidentified_artifact
+vampire_signet:
+  itemname: '[UI Only] Vampire Signet'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110076
+    texture: ultimate/vampire_signet
+vitality_ring:
+  itemname: '[UI Only] Vitality Ring'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110077
+    texture: ultimate/vitality_ring
+wanted_poster:
+  itemname: '[UI Only] Wanted Poster'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110078
+    texture: ultimate/wanted_poster
+webwoven_cloak:
+  itemname: '[UI Only] Webwoven Cloak'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110079
+    texture: ultimate/webwoven_cloak
+wither_crown:
+  itemname: '[UI Only] Wither Crown'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110080
+    texture: ultimate/wither_crown
+wool_scarf:
+  itemname: '[UI Only] Wool Scarf'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110081
+    texture: ultimate/wool_scarf
+yellow_crystal:
+  itemname: '[UI Only] Yellow Crystal'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110082
+    texture: ultimate/yellow_crystal
+zephyr_veil:
+  itemname: '[UI Only] Zephyr Veil'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110083
+    texture: ultimate/zephyr_veil
+zombie_brain:
+  itemname: '[UI Only] Zombie Brain'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110084
+    texture: ultimate/zombie_brain
+berry_smoothie:
+  itemname: '[UI Only] Berry Smoothie'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110085
+    texture: ultimate/food/berry_smoothie
+blt_sandwich:
+  itemname: '[UI Only] BLT Sandwich'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110086
+    texture: ultimate/food/blt_sandwich
+buffalo_meat:
+  itemname: '[UI Only] Buffalo Meat'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110087
+    texture: ultimate/food/buffalo_meat
+burger:
+  itemname: '[UI Only] Burger'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110088
+    texture: ultimate/food/burger
+captain_broth:
+  itemname: '[UI Only] Captain''s Broth'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110089
+    texture: ultimate/food/captain_broth
+chicken_salad:
+  itemname: '[UI Only] Chicken Salad'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110090
+    texture: ultimate/food/chicken_salad
+chocolate_bar:
+  itemname: '[UI Only] Chocolate Bar'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110091
+    texture: ultimate/food/chocolate_bar
+cooked_buffalo_meat:
+  itemname: '[UI Only] Cooked Buffalo Meat'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110092
+    texture: ultimate/food/cooked_buffalo_meat
+cooked_corn:
+  itemname: '[UI Only] Cooked Corn'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110093
+    texture: ultimate/food/cooked_corn
+cooked_crab_meat:
+  itemname: '[UI Only] Cooked Crab Meat'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110094
+    texture: ultimate/food/cooked_crab_meat
+cooked_shark_meat:
+  itemname: '[UI Only] Cooked Shark Meat'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110095
+    texture: ultimate/food/cooked_shark_meat
+crab_meat:
+  itemname: '[UI Only] Crab Meat'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110096
+    texture: ultimate/food/crab_meat
+crab_stew:
+  itemname: '[UI Only] Crab Stew'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110097
+    texture: ultimate/food/crab_stew
+hot_cocoa:
+  itemname: '[UI Only] Hot Cocoa'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110098
+    texture: ultimate/food/hot_cocoa
+omelette:
+  itemname: '[UI Only] Omelette'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110099
+    texture: ultimate/food/omelette
+shark_meat:
+  itemname: '[UI Only] Shark Meat'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110100
+    texture: ultimate/food/shark_meat
+subway:
+  itemname: '[UI Only] Subway Sandwich'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110101
+    texture: ultimate/food/subway
+sunberry_juice:
+  itemname: '[UI Only] Sunberry Juice'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110102
+    texture: ultimate/food/sunberry_juice
+taco:
+  itemname: '[UI Only] Taco'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110103
+    texture: ultimate/food/taco
+grappling_hook:
+  itemname: '[UI Only] Grappling Hook'
+  material: FEATHER
+  Pack:
+    custom_model_data: 1110104
+    texture: ultimate/grappling_hook/crossbow_standby
+    pulling_textures:
+    - ultimate/grappling_hook/crossbow_pulling_0
+    - ultimate/grappling_hook/crossbow_pulling_1
+    - ultimate/grappling_hook/crossbow_pulling_2
+    charged_texture: ultimate/grappling_hook/crossbow_pulling_2
+    firework_texture: ultimate/grappling_hook/crossbow_arrow # Optional

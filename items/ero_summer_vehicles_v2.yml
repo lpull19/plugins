@@ -1,0 +1,354 @@
+ero_summer_vehicles_v2_drinking_helmet:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_summer_vehicles_v2:drinking_helmet
+  itemname: <white>Summer Vehicles Drinking Helmet
+  material: PAPER
+  permission: ero_summer_vehicles_v2.drinking_helmet
+ero_summer_vehicles_v2_pink_helmet:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_summer_vehicles_v2:pink_helmet
+  itemname: <white>Summer Vehicles Pink Helmet
+  material: PAPER
+  permission: ero_summer_vehicles_v2.pink_helmet
+ero_summer_vehicles_v2_cosmetics_drinking_helmet:
+  Pack:
+    custom_model_data: 9925495
+    model: ero_summer_vehicles_v2:drinking_helmet
+  customname: <white>Summer Vehicles Helmet Cosmetics
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_drinking_helmet
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+    equippable:
+      slot: HEAD
+ero_summer_vehicles_v2_cosmetics_pink_helmet:
+  Pack:
+    custom_model_data: 9925500
+    model: ero_summer_vehicles_v2:pink_helmet
+  customname: <white>Summer Vehicles Helmet Cosmetics
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_pink_helmet
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+    equippable:
+      slot: HEAD
+ero_summer_vehicles_v2_bus_driver_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_summer_vehicles_v2:bus_driver_hat
+  itemname: <white>Summer Vehicles Bus Driver Hat
+  material: PAPER
+  permission: ero_summer_vehicles_v2.bus_driver_hat
+ero_summer_vehicles_v2_umbrella_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: ero_summer_vehicles_v2:umbrella_hat
+  itemname: <white>Summer Vehicles Umbrella Hat
+  material: PAPER
+  permission: ero_summer_vehicles_v2.umbrella_hat
+ero_summer_vehicles_v2_bus_backpack:
+  Pack:
+    model: ero_summer_vehicles_v2:bus_backpack
+  itemname: <white>Summer Vehicles Bus Backpack
+  material: PAPER
+  permission: ero_summer_vehicles_v2.bus_backpack
+ero_summer_vehicles_v2_bus_stop_balloon:
+  Pack:
+    model: ero_summer_vehicles_v2:bus_stop_balloon
+  itemname: <white>Summer Vehicles Bus Stop Balloon
+  material: PAPER
+  permission: ero_summer_vehicles_v2.bus_stop_balloon
+ero_summer_vehicles_v2_can_balloon:
+  Pack:
+    model: ero_summer_vehicles_v2:can_balloon
+  itemname: <white>Summer Vehicles Can Balloon
+  material: PAPER
+  permission: ero_summer_vehicles_v2.can_balloon
+ero_summer_vehicles_v2_car_backpack:
+  Pack:
+    model: ero_summer_vehicles_v2:car_backpack
+  itemname: <white>Summer Vehicles Car Backpack
+  material: PAPER
+  permission: ero_summer_vehicles_v2.car_backpack
+ero_summer_vehicles_v2_cloud_balloon:
+  Pack:
+    model: ero_summer_vehicles_v2:cloud_balloon
+  itemname: <white>Summer Vehicles Cloud Balloon
+  material: PAPER
+  permission: ero_summer_vehicles_v2.cloud_balloon
+ero_summer_vehicles_v2_motorcycle_backpack:
+  Pack:
+    model: ero_summer_vehicles_v2:motorcycle_backpack
+  itemname: <white>Summer Vehicles Motorcycle Backpack
+  material: PAPER
+  permission: ero_summer_vehicles_v2.motorcycle_backpack
+ero_summer_vehicles_v2_sunflower_balloon:
+  Pack:
+    model: ero_summer_vehicles_v2:sunflower_balloon
+  itemname: <white>Summer Vehicles Sunflower Balloon
+  material: PAPER
+  permission: ero_summer_vehicles_v2.sunflower_balloon
+ero_summer_vehicles_v2_van_backpack:
+  Pack:
+    model: ero_summer_vehicles_v2:van_backpack
+  itemname: <white>Summer Vehicles Van Backpack
+  material: PAPER
+  permission: ero_summer_vehicles_v2.van_backpack
+ero_summer_vehicles_v2_cosmetics_bus_backpack:
+  Pack:
+    custom_model_data: 9925483
+    model: ero_summer_vehicles_v2:bus_backpack_cosmetic
+  customname: <white>Summer Vehicles Bus Backpack Cosmetics
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_bus_backpack
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_bus_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925486
+    model: ero_summer_vehicles_v2:bus_backpack_cosmetic_normal_2
+  customname: <white>Summer Vehicles Bus Backpack Cosmetics Normal 2
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_bus_backpack_normal_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_bus_backpack_self:
+  Pack:
+    custom_model_data: 9925484
+    model: ero_summer_vehicles_v2:bus_backpack_cosmetic_self
+  customname: <white>Summer Vehicles Bus Backpack Cosmetics Self
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_bus_backpack_self
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_bus_backpack_self_2:
+  Pack:
+    custom_model_data: 9925485
+    model: ero_summer_vehicles_v2:bus_backpack_cosmetic_self_2
+  customname: <white>Summer Vehicles Bus Backpack Cosmetics Self 2
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_bus_backpack_self_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_bus_driver_hat:
+  Pack:
+    custom_model_data: 9925487
+    model: ero_summer_vehicles_v2:bus_driver_hat
+  customname: <white>Summer Vehicles Bus Driver Hat Cosmetics
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_bus_driver_hat
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_bus_stop_balloon:
+  Pack:
+    custom_model_data: 9925488
+    model: ero_summer_vehicles_v2:bus_stop_balloon
+  customname: <white>Summer Vehicles Bus Stop Balloon
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_bus_stop_balloon
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_can_balloon:
+  Pack:
+    custom_model_data: 9925489
+    model: ero_summer_vehicles_v2:can_balloon
+  customname: <white>Summer Vehicles Can Balloon
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_can_balloon
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_car_backpack:
+  Pack:
+    custom_model_data: 9925490
+    model: ero_summer_vehicles_v2:car_backpack_cosmetic
+  customname: <white>Summer Vehicles Car Backpack Cosmetics
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_car_backpack
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_car_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925493
+    model: ero_summer_vehicles_v2:car_backpack_cosmetic_normal_2
+  customname: <white>Summer Vehicles Car Backpack Cosmetics Normal 2
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_car_backpack_normal_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_car_backpack_self:
+  Pack:
+    custom_model_data: 9925491
+    model: ero_summer_vehicles_v2:car_backpack_cosmetic_self
+  customname: <white>Summer Vehicles Car Backpack Cosmetics Self
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_car_backpack_self
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_car_backpack_self_2:
+  Pack:
+    custom_model_data: 9925492
+    model: ero_summer_vehicles_v2:car_backpack_cosmetic_self_2
+  customname: <white>Summer Vehicles Car Backpack Cosmetics Self 2
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_car_backpack_self_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_cloud_balloon:
+  Pack:
+    custom_model_data: 9925494
+    model: ero_summer_vehicles_v2:cloud_balloon
+  customname: <white>Summer Vehicles Cloud Balloon
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_cloud_balloon
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_motorcycle_backpack:
+  Pack:
+    custom_model_data: 9925496
+    model: ero_summer_vehicles_v2:motorcycle_backpack_cosmetic
+  customname: <white>Summer Vehicles Motorcycle Backpack Cosmetics
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_motorcycle_backpack
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_motorcycle_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925499
+    model: ero_summer_vehicles_v2:motorcycle_backpack_cosmetic_normal_2
+  customname: <white>Summer Vehicles Motorcycle Backpack Cosmetics Normal 2
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_motorcycle_backpack_normal_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_motorcycle_backpack_self:
+  Pack:
+    custom_model_data: 9925497
+    model: ero_summer_vehicles_v2:motorcycle_backpack_cosmetic_self
+  customname: <white>Summer Vehicles Motorcycle Backpack Cosmetics Self
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_motorcycle_backpack_self
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_motorcycle_backpack_self_2:
+  Pack:
+    custom_model_data: 9925498
+    model: ero_summer_vehicles_v2:motorcycle_backpack_cosmetic_self_2
+  customname: <white>Summer Vehicles Motorcycle Backpack Cosmetics Self 2
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_motorcycle_backpack_self_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_sunflower_balloon:
+  Pack:
+    custom_model_data: 9925501
+    model: ero_summer_vehicles_v2:sunflower_balloon
+  customname: <white>Summer Vehicles Sunflower Balloon
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_sunflower_balloon
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_umbrella_hat:
+  Pack:
+    custom_model_data: 9925502
+    model: ero_summer_vehicles_v2:umbrella_hat
+  customname: <white>Summer Vehicles Umbrella Hat Cosmetics
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_umbrella_hat
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_van_backpack:
+  Pack:
+    custom_model_data: 9925503
+    model: ero_summer_vehicles_v2:van_backpack_cosmetic
+  customname: <white>Summer Vehicles Van Backpack Cosmetics
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_van_backpack
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_van_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925506
+    model: ero_summer_vehicles_v2:van_backpack_cosmetic_normal_2
+  customname: <white>Summer Vehicles Van Backpack Cosmetics Normal 2
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_van_backpack_normal_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_van_backpack_self:
+  Pack:
+    custom_model_data: 9925504
+    model: ero_summer_vehicles_v2:van_backpack_cosmetic_self
+  customname: <white>Summer Vehicles Van Backpack Cosmetics Self
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_van_backpack_self
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_summer_vehicles_v2_cosmetics_van_backpack_self_2:
+  Pack:
+    custom_model_data: 9925505
+    model: ero_summer_vehicles_v2:van_backpack_cosmetic_self_2
+  customname: <white>Summer Vehicles Van Backpack Cosmetics Self 2
+  material: POTION
+  permission: ero_summer_vehicles_v2.ero_summer_vehicles_v2_cosmetics_van_backpack_self_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+
+# M3TEtETpBlQhZDZUFkawpWNZ5mTOZUVU9mRWVmU4dFVCFzaOhWU5xWQfljdNZDaRlHbBN3c

@@ -1,0 +1,18 @@
+gui_enchanter_2:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/enchanter/enchanter
+  height: 256
+  ascent: 19
+  char: 
+gui_enchant_upgrade_selector:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/enchanter/upgrade_select
+  height: 256
+  ascent: 19
+  char: 
+gui_enchant_upgrade_enchant:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/enchanter/upgrade_enchant
+  height: 256
+  ascent: 19
+  char: 

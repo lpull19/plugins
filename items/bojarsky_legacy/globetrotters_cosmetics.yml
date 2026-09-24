@@ -1,0 +1,86 @@
+bl_adventurer_hat:
+  itemname: Adventurer Hat
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_adventurer_hat
+bl_adventurer_backpack:
+  itemname: Adventurer Backpack
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_adventurer_backpack
+bl_adventurer_backpack_firstperson:
+  itemname: Adventurer Backpack(Firstperson)
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_adventurer_backpack_firstperson
+bl_adventurer_lantern:
+  itemname: Adventurer Lantern
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_adventurer_lantern
+bl_adventurer_staff:
+  itemname: Adventurer Staff
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_adventurer_staff
+
+
+bl_explorer_hat:
+  itemname: Explorer Hat
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_explorer_hat
+bl_explorer_skeleton:
+  itemname: Explorer Skeleton
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_explorer_skeleton
+bl_explorer_skeleton_firstperson:
+  itemname: Explorer Skeleton(Firstperson)
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_explorer_skeleton_firstperson
+bl_explorer_suitcase:
+  itemname: Explorer Suitcase
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_explorer_suitcase
+bl_explorer_loupe:
+  itemname: Explorer Loupe
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_explorer_loupe
+
+
+bl_aquanaut_helmet:
+  itemname: Aquanaut Helmet
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_aquanaut_helmet
+  Components:
+    equippable:
+      slot: HEAD
+bl_aquanaut_tank:
+  itemname: Aquanaut Tank
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_aquanaut_tank
+bl_aquanaut_tank_firstperson:
+  itemname: Aquanaut Tank(Firstperson)
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_aquanaut_tank_firstperson
+bl_aquanaut_compass:
+  itemname: Aquanaut Compass
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_aquanaut_compass
+bl_aquanaut_hook:
+  itemname: Aquanaut Hook
+  material: PAPER
+  Pack:
+    model: bojarsky_legacy:globetrotters_cosmetics/bl_aquanaut_hook
+
+
+
+# c3Xn5WY4RXTudXQQ90MR9EMrhkWSZEWVVlRXRGawVVV4ZkRaRVdhVnSxRTeRRGVhVnSxZmZ

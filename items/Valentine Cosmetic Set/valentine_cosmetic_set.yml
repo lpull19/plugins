@@ -1,0 +1,95 @@
+fullc_bridal_veil:
+  itemname: Bridal Veil
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Components:
+    max_stack_size: 64
+    tooltip_display:
+    - minecraft:dyed_color
+    - minecraft:attribute_modifiers
+  Pack:
+    model: valentine_cosmetic_set:bridal_veil
+
+fullc_flower_pot:
+  itemname: Flower Pot
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Components:
+    max_stack_size: 64
+    tooltip_display:
+    - minecraft:dyed_color
+    - minecraft:attribute_modifiers
+  Pack:
+    model: valentine_cosmetic_set:flower_pot
+
+fullc_wedding_veil:
+  itemname: Wedding Veil
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Components:
+    max_stack_size: 64
+    tooltip_display:
+    - minecraft:dyed_color
+    - minecraft:attribute_modifiers
+  Pack:
+    model: valentine_cosmetic_set:wedding_veil
+
+fullc_wedding_veil_thirdperson:
+  itemname: Wedding Veil (thirdperson)
+  color: 255, 255, 255
+  Components:
+    max_stack_size: 64
+    tooltip_display:
+    - minecraft:dyed_color
+    - minecraft:attribute_modifiers
+  material: LEATHER_HORSE_ARMOR
+  Pack:
+    model: valentine_cosmetic_set:wedding_veil_thirdperson
+
+fullc_romantic_hat:
+  itemname: Romantic Hat
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Components:
+    max_stack_size: 64
+    tooltip_display:
+    - minecraft:dyed_color
+    - minecraft:attribute_modifiers
+  Pack:
+    model: valentine_cosmetic_set:romantic_hat
+
+fullc_handheld_umbrella:
+  itemname: Handheld Umbrella
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Components:
+    max_stack_size: 64
+    tooltip_display:
+    - minecraft:dyed_color
+    - minecraft:attribute_modifiers
+  Pack:
+    model: valentine_cosmetic_set:handheld_umbrella
+
+fullc_romantic_cloak:
+  itemname: Romantic Cloak
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Components:
+    max_stack_size: 64
+    tooltip_display:
+    - minecraft:dyed_color
+    - minecraft:attribute_modifiers
+  Pack:
+    model: valentine_cosmetic_set:romantic_cloak
+
+fullc_romantic_cloak_thirdperson:
+  itemname: Romantic Cloak (thirdperson)
+  color: 255, 255, 255
+  Components:
+    max_stack_size: 64
+    tooltip_display:
+    - minecraft:dyed_color
+    - minecraft:attribute_modifiers
+  material: LEATHER_HORSE_ARMOR
+  Pack:
+    model: valentine_cosmetic_set:romantic_cloak_thirdperson

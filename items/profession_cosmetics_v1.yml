@@ -1,0 +1,116 @@
+police_officer_hat:
+  material: PAPER
+  Pack:
+    model: profession_cosmetics_v1/police_officer_hat
+    custom_model_data: 2132
+  Components:
+    equippable:
+      slot: HEAD
+  itemname: Police Officer Hat
+police_officer_baton:
+  material: PAPER
+  Pack:
+    model: profession_cosmetics_v1/police_officer_baton
+    custom_model_data: 2133
+  itemname: Police Officer Baton
+police_officer_backpack:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: profession_cosmetics_v1/police_officer_backpack
+    custom_model_data: 2134
+  itemname: Police Officer Backpack
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Police Officer Backpack
+police_officer_backpack_thirdperson:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: profession_cosmetics_v1/police_officer_backpack_thirdperson
+    custom_model_data: 2135
+  itemname: Police Officer Backpack Thirdperson
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Police Officer Backpack Thirdperson
+police_officer_backpack_thirdperson_self:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: profession_cosmetics_v1/police_officer_backpack_thirdperson_self
+    custom_model_data: 2136
+  itemname: Police Officer Backpack Thirdperson Self
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Police Officer Backpack Thirdperson Self
+police_officer_balloon:
+  material: PAPER
+  Pack:
+    model: profession_cosmetics_v1/police_officer_balloon
+    custom_model_data: 2137
+  itemname: Police Officer Balloon
+
+firefighter_hat:
+  material: PAPER
+  Pack:
+    model: profession_cosmetics_v1/firefighter_hat
+    custom_model_data: 2138
+  Components:
+    equippable:
+      slot: HEAD
+  itemname: Firefighter Hat
+firefighter_axe:
+  material: PAPER
+  Pack:
+    model: profession_cosmetics_v1/firefighter_axe
+    custom_model_data: 2139
+  itemname: Firefighter Axe
+firefighter_extinguisher:
+  material: PAPER
+  Pack:
+    model: profession_cosmetics_v1/firefighter_extinguisher
+    custom_model_data: 2140
+  itemname: Firefighter Extinguisher
+firefighter_extinguisher_backpack:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: profession_cosmetics_v1/firefighter_extinguisher_backpack
+    custom_model_data: 2141
+  itemname: Firefighter Extinguisher Backpack
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Firefighter Extinguisher Backpack
+firefighter_extinguisher_backpack_thirdperson:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: profession_cosmetics_v1/firefighter_extinguisher_backpack_thirdperson
+    custom_model_data: 2142
+  itemname: Firefighter Extinguisher Backpack Thirdperson
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Firefighter Extinguisher Backpack Thirdperson
+firefighter_extinguisher_thirdperson_self:
+  material: PAPER
+  unstackable: true
+  Pack:
+    model: profession_cosmetics_v1/firefighter_extinguisher_backpack_thirdperson_self
+    custom_model_data: 2143
+  itemname: Firefighter Extinguisher Backpack Thirdperson Self
+  Mechanics:
+    backpack:
+      rows: 4
+      title: Firefighter Extinguisher Backpack Thirdperson Self
+firefighter_alarm_balloon:
+  material: PAPER
+  Pack:
+    model: profession_cosmetics_v1/firefighter_alarm_balloon
+    custom_model_data: 2144
+  itemname: Firefighter Alarm Balloon
+# UXdQpXajlUMLVnUEVVRqVzSotGVpJkbZBTRVllQk1WW3lTbZ5ENBF2Zwh0bi5ENBF2Zwpma

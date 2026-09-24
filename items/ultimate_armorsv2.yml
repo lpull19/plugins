@@ -1,0 +1,266 @@
+jade_helmet:
+  itemname: Jade helmet
+  material: CHAINMAIL_HELMET
+  Pack:
+    texture: ultimate_armors/jade_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:jade
+jade_chestplate:
+  itemname: Jade chestplate
+  material: CHAINMAIL_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/jade_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:jade
+jade_leggings:
+  itemname: Jade leggings
+  material: CHAINMAIL_LEGGINGS
+  Pack:
+    texture: ultimate_armors/jade_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:jade
+jade_boots:
+  itemname: Jade boots
+  material: CHAINMAIL_BOOTS
+  Pack:
+    texture: ultimate_armors/jade_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:jade
+
+dark_helmet:
+  itemname: dark_helmet
+  material: CHAINMAIL_HELMET
+  Pack:
+    texture: ultimate_armors/dark_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:dark
+dark_chestplate:
+  itemname: dark_chestplate
+  material: CHAINMAIL_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/dark_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:dark
+dark_leggings:
+  itemname: dark_leggings
+  material: CHAINMAIL_LEGGINGS
+  Pack:
+    texture: ultimate_armors/dark_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:dark
+dark_boots:
+  itemname: dark_boots
+  material: CHAINMAIL_BOOTS
+  Pack:
+    texture: ultimate_armors/dark_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:dark
+
+ghost_helmet:
+  itemname: ghost_helmet
+  material: CHAINMAIL_HELMET
+  Pack:
+    texture: ultimate_armors/ghost_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:ghost
+ghost_chestplate:
+  itemname: ghost_chestplate
+  material: CHAINMAIL_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/ghost_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:ghost
+ghost_leggings:
+  itemname: ghost_leggings
+  material: CHAINMAIL_LEGGINGS
+  Pack:
+    texture: ultimate_armors/ghost_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:ghost
+ghost_boots:
+  itemname: ghost_boots
+  material: CHAINMAIL_BOOTS
+  Pack:
+    texture: ultimate_armors/ghost_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:ghost
+
+guardian_helmet:
+  itemname: guardian_helmet
+  material: CHAINMAIL_HELMET
+  Pack:
+    texture: ultimate_armors/guardian_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:guardian
+guardian_chestplate:
+  itemname: guardian_chestplate
+  material: CHAINMAIL_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/guardian_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:guardian
+guardian_leggings:
+  itemname: guardian_leggings
+  material: CHAINMAIL_LEGGINGS
+  Pack:
+    texture: ultimate_armors/guardian_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:guardian
+guardian_boots:
+  itemname: guardian_boots
+  material: CHAINMAIL_BOOTS
+  Pack:
+    texture: ultimate_armors/guardian_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:guardian
+
+ultimate_helmet:
+  itemname: ultimate_helmet
+  material: CHAINMAIL_HELMET
+  Pack:
+    texture: ultimate_armors/ultimate_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:ultimate
+ultimate_chestplate:
+  itemname: ultimate_chestplate
+  material: CHAINMAIL_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/ultimate_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:ultimate
+ultimate_leggings:
+  itemname: ultimate_leggings
+  material: CHAINMAIL_LEGGINGS
+  Pack:
+    texture: ultimate_armors/ultimate_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:ultimate
+ultimate_boots:
+  itemname: ultimate_boots
+  material: CHAINMAIL_BOOTS
+  Pack:
+    texture: ultimate_armors/ultimate_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:ultimate
+
+stoneking_helmet:
+  itemname: stoneking_helmet
+  material: CHAINMAIL_HELMET
+  Pack:
+    texture: ultimate_armors/stoneking_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:stoneking
+
+stoneking_chestplate:
+  itemname: stoneking_chestplate
+  material: CHAINMAIL_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/stoneking_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:stoneking
+
+stoneking_leggings:
+  itemname: stoneking_leggings
+  material: CHAINMAIL_LEGGINGS
+  Pack:
+    texture: ultimate_armors/stoneking_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:stoneking
+
+stoneking_boots:
+  itemname: stoneking_boots
+  material: CHAINMAIL_BOOTS
+  Pack:
+    texture: ultimate_armors/stoneking_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:stoneking
+# ##################################
+
+elite_helmet:
+  itemname: elite_helmet
+  material: CHAINMAIL_HELMET
+  Pack:
+    texture: ultimate_armors/elite_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:elite
+
+elite_chestplate:
+  itemname: elite_chestplate
+  material: CHAINMAIL_CHESTPLATE
+  Pack:
+    texture: ultimate_armors/elite_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:elite
+
+elite_leggings:
+  itemname: elite_leggings
+  material: CHAINMAIL_LEGGINGS
+  Pack:
+    texture: ultimate_armors/elite_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:elite
+
+elite_boots:
+  itemname: elite_boots
+  material: CHAINMAIL_BOOTS
+  Pack:
+    texture: ultimate_armors/elite_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:elite
+

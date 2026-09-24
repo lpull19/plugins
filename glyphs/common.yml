@@ -1,0 +1,61 @@
+rc:
+  texture: hyronic_skyblock/rc
+  height: 7
+  ascent: 7
+  char: 
+  font: minecraft:default
+lc:
+  texture: hyronic_skyblock/lc
+  height: 7
+  ascent: 7
+  char: 
+  font: minecraft:default
+
+mm_info:
+  texture: hyronic_skyblock/mm_info
+  height: 7
+  ascent: 7
+  char: 
+  font: minecraft:default
+
+mm_error:
+  texture: hyronic_skyblock/mm_error
+  height: 7
+  ascent: 7
+  char: 
+  font: minecraft:default
+
+mm_warn:
+  texture: hyronic_skyblock/mm_warn
+  height: 7
+  ascent: 7
+  char: 
+  font: minecraft:default
+
+logo:
+  texture: logo
+  height: 30
+  ascent: 30
+  font: minecraft:default
+  char: ꗊ
+
+logo_tab:
+  texture: logo
+  height: 25
+  ascent: 25
+  font: minecraft:default
+  char: ꗋ
+
+logo_esc:
+  texture: logo_full
+  height: 35
+  ascent: 20
+  font: minecraft:default
+  char: ꗌ
+
+black_overlay:
+  texture: hyronic_skyblock/black_overlay
+  height: 200
+  ascent: 30
+  char: 
+  font: minecraft:default

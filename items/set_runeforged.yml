@@ -1,0 +1,194 @@
+runeforged_sword:
+  itemname: <white>Runeforged Sword
+  material: DIAMOND_SWORD
+  lore:
+    - ""
+    - <dark_gray>Carefully forged with
+    - <dark_gray>the best enchantments.
+    - " "
+  Enchantments:
+    sharpness: 5
+    unbreaking: 3
+    looting: 3
+    mending: 1
+  Pack:
+    parent_model: item/handheld
+    texture: prism_skyblock/item_texture/swords/hextech
+runeforged_axe:
+  itemname: <white>Runeforged Axe
+  material: DIAMOND_AXE
+  lore:
+    - ""
+    - <dark_gray>Carefully forged with
+    - <dark_gray>the best enchantments.
+    - " "
+    - <glyph:lb_epic><glyph:lb_crafted>
+  Enchantments:
+    sharpness: 5
+    efficiency: 5
+    unbreaking: 3
+    looting: 3
+    fortune: 3
+    mending: 1
+  Pack:
+    parent_model: item/handheld
+    texture: prism_skyblock/item_texture/tools/hextech_axe
+runeforged_shovel:
+  itemname: <white>Runeforged Shovel
+  material: DIAMOND_SHOVEL
+  lore:
+    - ""
+    - <dark_gray>Carefully forged with
+    - <dark_gray>the best enchantments.
+    - " "
+    - <glyph:lb_epic><glyph:lb_crafted>
+  Enchantments:
+    efficiency: 5
+    unbreaking: 3
+    fortune: 3
+    mending: 1
+  Pack:
+    parent_model: item/handheld
+    texture: prism_skyblock/item_texture/tools/hextech_shovel
+runeforged_hoe:
+  itemname: <white>Runeforged Hoe
+  material: DIAMOND_HOE
+  lore:
+    - ""
+    - <dark_gray>Carefully forged with
+    - <dark_gray>the best enchantments.
+    - " "
+    - <glyph:lb_epic><glyph:lb_crafted>
+  Enchantments:
+    efficiency: 5
+    unbreaking: 3
+    fortune: 3
+    mending: 1
+  Pack:
+    parent_model: item/handheld
+    texture: prism_skyblock/item_texture/tools/hextech_hoe
+runeforged_pickaxe:
+  itemname: <white>Runeforged Pickaxe
+  material: DIAMOND_PICKAXE
+  lore:
+    - ""
+    - <dark_gray>Carefully forged with
+    - <dark_gray>the best enchantments.
+    - " "
+    - <glyph:lb_epic><glyph:lb_crafted>
+  Enchantments:
+    efficiency: 5
+    unbreaking: 3
+    fortune: 3
+    mending: 1
+  Pack:
+    parent_model: item/handheld
+    texture: prism_skyblock/item_texture/tools/hextech_pickaxe
+runeforged_bow:
+  itemname: <white>Runeforged Bow
+  material: BOW
+  lore:
+    - ""
+    - <dark_gray>Carefully forged with
+    - <dark_gray>the best enchantments.
+    - " "
+    - <glyph:lb_epic><glyph:lb_crafted>
+  Enchantments:
+    power: 5
+    unbreaking: 3
+    mending: 1
+  Pack:
+    texture: prism_skyblock/item_texture/bows/hextech
+    pulling_textures:
+      - prism_skyblock/item_texture/bows/hextech_0
+      - prism_skyblock/item_texture/bows/hextech_1
+      - prism_skyblock/item_texture/bows/hextech_2
+
+runeforged_helmet:
+  itemname: <white>Runeforged Helmet
+  material: DIAMOND_HELMET
+  lore:
+    - ""
+    - <dark_gray>Carefully forged with
+    - <dark_gray>the best enchantments.
+    - " "
+    - <glyph:lb_epic><glyph:lb_crafted>
+  Enchantments:
+    protection: 4
+    aqua_affinity: 1
+    respiration: 3
+    thorns: 3
+    unbreaking: 3
+    mending: 1
+  Pack:
+    texture: prism_skyblock/item_texture/armors/hextech_helmet
+  Components:
+    equippable:
+      slot: HEAD
+      asset_id: nexo:runeforged
+
+runeforged_chestplate:
+  itemname: <white>Runeforged Chestplate
+  material: DIAMOND_CHESTPLATE
+  lore:
+    - ""
+    - <dark_gray>Carefully forged with
+    - <dark_gray>the best enchantments.
+    - " "
+    - <glyph:lb_epic><glyph:lb_crafted>
+  Enchantments:
+    protection: 4
+    thorns: 3
+    unbreaking: 3
+    mending: 1
+  Pack:
+    texture: prism_skyblock/item_texture/armors/hextech_chestplate
+  Components:
+    equippable:
+      slot: CHEST
+      asset_id: nexo:runeforged
+
+runeforged_leggings:
+  itemname: <white>Runeforged Leggings
+  material: DIAMOND_LEGGINGS
+  lore:
+    - ""
+    - <dark_gray>Carefully forged with
+    - <dark_gray>the best enchantments.
+    - " "
+    - <glyph:lb_epic><glyph:lb_crafted>
+  Enchantments:
+    protection: 4
+    thorns: 3
+    unbreaking: 3
+    mending: 1
+  Pack:
+    texture: prism_skyblock/item_texture/armors/hextech_leggings
+  Components:
+    equippable:
+      slot: LEGS
+      asset_id: nexo:runeforged
+runeforged_boots:
+  itemname: <white>Runeforged Boots
+  material: DIAMOND_BOOTS
+  lore:
+    - ""
+    - <dark_gray>Carefully forged with
+    - <dark_gray>the best enchantments.
+    - " "
+    - <glyph:lb_epic><glyph:lb_crafted>
+  Enchantments:
+    protection: 4
+    depth_strider: 3
+    feather_falling: 4
+    soul_speed: 3
+    frost_walker: 2
+    thorns: 3
+    unbreaking: 3
+    mending: 1
+  Pack:
+    texture: prism_skyblock/item_texture/armors/hextech_boots
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:runeforged

@@ -1,0 +1,102 @@
+gui_shift:
+  font: minecraft:default
+  texture: hyronic_skyblock/null_texture
+  height: -10
+  ascent: -32768
+  char: 
+gui_shift_title:
+  font: minecraft:default
+  texture: hyronic_skyblock/null_texture
+  height: -170
+  ascent: -32768
+  char: 
+gui_shift_tip:
+  font: minecraft:default
+  texture: hyronic_skyblock/null_texture
+  height: -260
+  ascent: -32768
+  char: 
+gui_shift_confirm:
+  font: minecraft:default
+  texture: hyronic_skyblock/null_texture
+  height: -280
+  ascent: -32768
+  char: 
+gui_list:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/list
+  height: 256
+  ascent: 19
+  char: 
+gui_minion:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/minion
+  height: 256
+  ascent: 19
+  char: 
+gui_daily_rewards:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/daily_rewards
+  height: 256
+  ascent: 19
+  char: 
+gui_daily_quests:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/daily_quests
+  height: 256
+  ascent: 19
+  char: 
+gui_exp_trade:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/exp_trade
+  height: 256
+  ascent: 19
+  char: 
+gui_leaderboard:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/leaderboard
+  height: 256
+  ascent: 19
+  char: 
+gui_repair:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/repair
+  height: 256
+  ascent: 19
+  char: 
+gui_ranks:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/ranks
+  height: 256
+  ascent: 19
+  char: 
+gui_warp:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/warp
+  height: 256
+  ascent: 19
+  char: ꐒ
+gui_trade:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/trade
+  height: 256
+  ascent: 19
+  char: ꐓ
+gui_token_shop:
+  font: minecraft:default
+  texture: hyronic_skyblock/gui/token_shop
+  height: 256
+  ascent: 19
+  char: ꗍ
+gui_adaptations:
+  font: minecraft:default
+  texture: gui/adaptations
+  height: 256
+  ascent: 19
+  char: ꗔ
+gui_confirm:
+  font: minecraft:default
+  texture: gui/confirm
+  height: 256
+  ascent: 19
+  char: ꗕ

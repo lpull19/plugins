@@ -1,0 +1,362 @@
+ero_pets_costume_v2_goldfish_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926379
+    model: ero_pets_costume_v2:goldfish_hat
+  color: 255, 125, 46
+  itemname: <white>Pet Goldfish Hat (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.goldfish_hat
+ero_pets_costume_v2_otter_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926384
+    model: ero_pets_costume_v2:otter_hat
+  color: 138, 225, 222
+  itemname: <white>Pet Otter Hat (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.otter_hat
+ero_pets_costume_v2_goldfish_backpack:
+  Pack:
+    custom_model_data: 9926377
+    model: ero_pets_costume_v2:goldfish_backpack
+  color: 255, 125, 46
+  itemname: <white>Pet Goldfish Backpack (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.goldfish_backpack
+ero_pets_costume_v2_goldfish_hand_offhand:
+  Pack:
+    custom_model_data: 9926378
+    model: ero_pets_costume_v2:goldfish_hand
+  color: 255, 125, 46
+  itemname: <white>Pet Goldfish Hand (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.goldfish_hand
+ero_pets_costume_v2_hamster_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926380
+    model: ero_pets_costume_v2:hamster_hat
+  color: 250, 174, 51
+  itemname: <white>Pet Hamster Hat (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.hamster_hat
+ero_pets_costume_v2_hamster_sun_flower_offhand:
+  Pack:
+    custom_model_data: 9926381
+    model: ero_pets_costume_v2:hamster_sun_flower
+  color: 250, 174, 51
+  itemname: <white>Pet Hamster Sun Flower (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.hamster_sun_flower
+ero_pets_costume_v2_hamster_wheel_backpack:
+  Pack:
+    custom_model_data: 9926382
+    model: ero_pets_costume_v2:hamster_wheel_backpack
+  color: 251, 153, 177
+  itemname: <white>Pet Hamster Wheel Backpack (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.hamster_wheel_backpack
+ero_pets_costume_v2_otter_grilled_fish_offhand:
+  Pack:
+    custom_model_data: 9926383
+    model: ero_pets_costume_v2:otter_grilled_fish
+  itemname: <white>Pet Otter Grilled Fish
+  material: PAPER
+  permission: ero_pets_costume_v2.otter_grilled_fish
+ero_pets_costume_v2_otter_shell_backpack:
+  Pack:
+    custom_model_data: 9926385
+    model: ero_pets_costume_v2:otter_shell_backpack
+  color: 138, 225, 222
+  itemname: <white>Pet Otter Shell Backpack (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.otter_shell_backpack
+ero_pets_costume_v2_sun_conure_egg_nest_offhand:
+  Pack:
+    custom_model_data: 9926386
+    model: ero_pets_costume_v2:sun_conure_egg_nest
+  itemname: <white>Pet Sun Conure Egg Nest
+  material: PAPER
+  permission: ero_pets_costume_v2.sun_conure_egg_nest
+ero_pets_costume_v2_sun_conure_nest_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 15888277
+    model: ero_pets_costume_v2:sun_conure_nest_hat
+  color: 242, 111, 149
+  itemname: <white>Pet Sun Conure Nest Hat (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.sun_conure_nest_hat
+ero_pets_costume_v2_sun_conure_wing:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    custom_model_data: 9926389
+    model: ero_pets_costume_v2:sun_conure_wing
+  itemname: <white>Pet Sun Conure Wing
+  material: PAPER
+  permission: ero_pets_costume_v2.sun_conure_wing
+ero_pets_costume_v2_chest:
+  Mechanics:
+    furniture:
+      barrier: false
+      drop:
+        loots:
+        - nexo_item: ero_pets_costume_v2_chest
+        silktouch: false
+      limited_placing:
+        floor: true
+        roof: false
+        type: DENY
+        wall: false
+  Pack:
+    custom_model_data: 9927050
+    model: ero_pets_costume_v2:chest
+  itemname: <white>Chest
+  material: PAPER
+  permission: ero_pets_costume_v2.chest
+ero_pets_costume_v2_key:
+  Pack:
+    custom_model_data: 9927051
+    model: ero_pets_costume_v2:key
+  itemname: <white>Key
+  material: PAPER
+  permission: ero_pets_costume_v2.key
+ero_pets_costume_v2_cosmetics_goldfish_backpack:
+  Pack:
+    custom_model_data: 9925411
+    model: ero_pets_costume_v2:goldfish_backpack_cosmetic
+  color: 255, 125, 46
+  itemname: <white>Pet Goldfish Backpack Cosmetics (Dyeable)/
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_goldfish_backpack
+ero_pets_costume_v2_cosmetics_goldfish_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925414
+    model: ero_pets_costume_v2:goldfish_backpack_cosmetic_normal_2
+  color: 255, 125, 46
+  itemname: <white>Pet Goldfish Backpack Cosmetics Normal 2 (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_goldfish_backpack_normal_2
+ero_pets_costume_v2_cosmetics_goldfish_backpack_self:
+  Pack:
+    custom_model_data: 9925412
+    model: ero_pets_costume_v2:goldfish_backpack_cosmetic_self
+  color: 255, 125, 46
+  itemname: <white>Pet Goldfish Backpack Cosmetics Self (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_goldfish_backpack_self
+ero_pets_costume_v2_cosmetics_goldfish_backpack_self_2:
+  Pack:
+    custom_model_data: 9925413
+    model: ero_pets_costume_v2:goldfish_backpack_cosmetic_self_2
+  color: 255, 125, 46
+  itemname: <white>Pet Goldfish Backpack Cosmetics Self 2 (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_goldfish_backpack_self_2
+ero_pets_costume_v2_cosmetics_goldfish_hat:
+  Pack:
+    custom_model_data: 9925415
+    model: ero_pets_costume_v2:goldfish_hat
+  color: 255, 125, 46
+  itemname: <white>Pet Goldfish Hat Cosmetics (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_goldfish_hat
+ero_pets_costume_v2_cosmetics_hamster_hat:
+  Pack:
+    custom_model_data: 9925416
+    model: ero_pets_costume_v2:hamster_hat
+  color: 250, 174, 51
+  itemname: <white>Pet Hamster Hat Cosmetics (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_hamster_hat
+ero_pets_costume_v2_cosmetics_hamster_wheel_backpack:
+  Pack:
+    custom_model_data: 9925417
+    model: ero_pets_costume_v2:hamster_wheel_backpack_cosmetic
+  color: 251, 153, 177
+  itemname: <white>Pet Hamster Wheel Backpack Cosmetics (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_hamster_wheel_backpack
+ero_pets_costume_v2_cosmetics_hamster_wheel_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925420
+    model: ero_pets_costume_v2:hamster_wheel_backpack_cosmetic_normal_2
+  color: 251, 153, 177
+  itemname: <white>Pet Hamster Wheel Backpack Cosmetics Normal 2 (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_hamster_wheel_backpack_normal_2
+ero_pets_costume_v2_cosmetics_hamster_wheel_backpack_self:
+  Pack:
+    custom_model_data: 9925418
+    model: ero_pets_costume_v2:hamster_wheel_backpack_cosmetic_self
+  color: 251, 153, 177
+  itemname: <white>Pet Hamster Wheel Backpack Cosmetics Self (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_hamster_wheel_backpack_self
+ero_pets_costume_v2_cosmetics_hamster_wheel_backpack_self_2:
+  Pack:
+    custom_model_data: 9925419
+    model: ero_pets_costume_v2:hamster_wheel_backpack_cosmetic_self_2
+  color: 251, 153, 177
+  itemname: <white>Pet Hamster Wheel Backpack Cosmetics Self 2 (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_hamster_wheel_backpack_self_2
+ero_pets_costume_v2_cosmetics_otter_hat:
+  Pack:
+    custom_model_data: 9925421
+    model: ero_pets_costume_v2:otter_hat
+  color: 138, 225, 222
+  itemname: <white>Pet Otter Hat Cosmetics (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_otter_hat
+ero_pets_costume_v2_cosmetics_otter_shell_backpack:
+  Pack:
+    custom_model_data: 9925422
+    model: ero_pets_costume_v2:otter_shell_backpack_cosmetic
+  color: 138, 225, 222
+  itemname: <white>Pet Otter Shell Backpack Cosmetics (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_otter_shell_backpack
+ero_pets_costume_v2_cosmetics_otter_shell_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925425
+    model: ero_pets_costume_v2:otter_shell_backpack_cosmetic_normal_2
+  color: 138, 225, 222
+  itemname: <white>Pet Otter Shell Backpack Cosmetics Normal 2 (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_otter_shell_backpack_normal_2
+ero_pets_costume_v2_cosmetics_otter_shell_backpack_self:
+  Pack:
+    custom_model_data: 9925423
+    model: ero_pets_costume_v2:otter_shell_backpack_cosmetic_self
+  color: 138, 225, 222
+  itemname: <white>Pet Otter Shell Backpack Cosmetics Self (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_otter_shell_backpack_self
+ero_pets_costume_v2_cosmetics_otter_shell_backpack_self_2:
+  Pack:
+    custom_model_data: 9925424
+    model: ero_pets_costume_v2:otter_shell_backpack_cosmetic_self_2
+  color: 138, 225, 222
+  itemname: <white>Pet Otter Shell Backpack Cosmetics Self 2 (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_otter_shell_backpack_self_2
+ero_pets_costume_v2_cosmetics_sun_conure_nest_hat:
+  Pack:
+    custom_model_data: 9925427
+    model: ero_pets_costume_v2:sun_conure_nest_hat
+  color: 242, 111, 149
+  itemname: <white>Pet Sun Conure Nest Hat Cosmetics (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_sun_conure_nest_hat
+ero_pets_costume_v2_cosmetics_sun_conure_wing:
+  Pack:
+    custom_model_data: 9925428
+    model: ero_pets_costume_v2:sun_conure_wing_cosmetic
+  customname: <white>Pet Sun Conure Wing Cosmetics
+  material: POTION
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_sun_conure_wing
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_pets_costume_v2_cosmetics_sun_conure_wing_normal_2:
+  Pack:
+    custom_model_data: 9925431
+    model: ero_pets_costume_v2:sun_conure_wing_cosmetic_normal_2
+  customname: <white>Pet Sun Conure Wing Cosmetics Normal 2
+  material: POTION
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_sun_conure_wing_normal_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_pets_costume_v2_cosmetics_sun_conure_wing_self:
+  Pack:
+    custom_model_data: 9925429
+    model: ero_pets_costume_v2:sun_conure_wing_cosmetic_self
+  customname: <white>Pet Sun Conure Wing Cosmetics Self
+  material: POTION
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_sun_conure_wing_self
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_pets_costume_v2_cosmetics_sun_conure_wing_self_2:
+  Pack:
+    custom_model_data: 9925430
+    model: ero_pets_costume_v2:sun_conure_wing_cosmetic_self_2
+  customname: <white>Pet Sun Conure Wing Cosmetics Self 2
+  material: POTION
+  permission: ero_pets_costume_v2.ero_pets_costume_v2_cosmetics_sun_conure_wing_self_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+ero_pets_costume_v2_goldfish_hand_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888278
+    model: ero_pets_costume_v2:goldfish_hand
+  color: 255, 125, 46
+  itemname: <white>Pet Goldfish Hand (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.goldfish_hand
+ero_pets_costume_v2_hamster_sun_flower_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888279
+    model: ero_pets_costume_v2:hamster_sun_flower
+  color: 250, 174, 51
+  itemname: <white>Pet Hamster Sun Flower (Dyeable)
+  material: LEATHER_HORSE_ARMOR
+  permission: ero_pets_costume_v2.hamster_sun_flower
+ero_pets_costume_v2_otter_grilled_fish_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888280
+    model: ero_pets_costume_v2:otter_grilled_fish
+  itemname: <white>Pet Otter Grilled Fish
+  material: PAPER
+  permission: ero_pets_costume_v2.otter_grilled_fish
+ero_pets_costume_v2_sun_conure_egg_nest_offhand_cosmetic:
+  Pack:
+    custom_model_data: 15888281
+    model: ero_pets_costume_v2:sun_conure_egg_nest
+  itemname: <white>Pet Sun Conure Egg Nest
+  material: PAPER
+  permission: ero_pets_costume_v2.sun_conure_egg_nest

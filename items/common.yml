@@ -1,0 +1,108 @@
+transparent_item:
+  itemname: '[UI Only] Transparent Item'
+  material: FEATHER
+  Pack:
+    texture: hyronic_skyblock/transparent
+    custom_model_data: 9999
+totem_of_keeping:
+  itemname: '[UI Only] Totem of Keeping'
+  material: PAPER
+  Pack:
+    texture: hyronic_skyblock/item/totem_of_keeping
+    custom_model_data: 100
+flying_boots:
+  itemname: <white>Flying Boots
+  material: LEATHER_BOOTS
+  Pack:
+    textures: hyronic_skyblock/item/flying_boots
+    custom_model_data: 201
+  Components:
+    equippable:
+      slot: FEET
+      asset_id: nexo:flying
+locked:
+  itemname: '[UI Only] Locked Slot'
+  material: PAPER
+  Pack:
+    texture: hyronic_skyblock/locked
+    custom_model_data: 200
+small_exp_bottle:
+  itemname: '[UI Only] Small Exp Bottle'
+  material: EXPERIENCE_BOTTLE
+  Pack:
+    texture: hyronic_skyblock/item/small_exp_bottle
+    custom_model_data: 5
+medium_exp_bottle:
+  itemname: '[UI Only] Medium Exp Bottle'
+  material: EXPERIENCE_BOTTLE
+  Pack:
+    texture: hyronic_skyblock/item/medium_exp_bottle
+    custom_model_data: 6
+large_exp_bottle:
+  itemname: '[UI Only] Large Exp Bottle'
+  material: EXPERIENCE_BOTTLE
+  Pack:
+    texture: hyronic_skyblock/item/large_exp_bottle
+    custom_model_data: 7
+blueprint:
+  itemname: <#1b9cfc>Minion Blueprint
+  material: PAPER
+  lore:
+  - <dark_gray>An important part
+  - <dark_gray>of crafting minions.
+  Pack:
+    texture: hyronic_skyblock/item/blueprint
+    custom_model_data: 250
+daily_key:
+  itemname: Daily Key
+  material: PAPER
+  Pack:
+    texture: hyronic_skyblock/item/daily_key
+    custom_model_data: 251
+treasure_key:
+  itemname: Treasure Key
+  material: PAPER
+  Pack:
+    texture: hyronic_skyblock/item/treasure_key
+    custom_model_data: 252
+common_key:
+  itemname: <white>Common Key
+  material: FEATHER
+  Pack:
+    model: keys/common_key
+    custom_model_data: 2522
+
+rare_key:
+  itemname: <blue>Rare Key
+  material: FEATHER
+  Pack:
+    model: keys/rare_key
+    custom_model_data: 2523
+
+epic_key:
+  itemname: <#9b59b6>Epic Key
+  material: FEATHER
+  Pack:
+    model: keys/epic_key
+    custom_model_data: 2524
+
+legendary_key:
+  itemname: <gold>Legendary Key
+  material: FEATHER
+  Pack:
+    model: keys/legendary_key
+    custom_model_data: 2525
+
+mythical_key:
+  itemname: <#ff6b81>Mythical Key
+  material: FEATHER
+  Pack:
+    model: keys/mythical_key
+    custom_model_data: 2526
+
+ultimate_key:
+  itemname: <#74ebd5>Ultimate Key
+  material: FEATHER
+  Pack:
+    model: keys/ultimate_key
+    custom_model_data: 2527

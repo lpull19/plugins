@@ -1,0 +1,186 @@
+cosmetic_menu_head:
+  texture: blossom_studios:cosmetic_menu/ui/cosmetic_menu_head
+  ascent: 13
+  height: 256
+  char: ꖦ
+cosmetic_menu_back:
+  texture: blossom_studios:cosmetic_menu/ui/cosmetic_menu_back
+  ascent: 13
+  height: 256
+  char: ꖧ
+cosmetic_menu_offhand:
+  texture: blossom_studios:cosmetic_menu/ui/cosmetic_menu_offhand
+  ascent: 13
+  height: 256
+  char: ꖨ
+cosmetic_menu_balloon:
+  texture: blossom_studios:cosmetic_menu/ui/cosmetic_menu_balloon
+  ascent: 13
+  height: 256
+  char: ꖩ
+cosmetic_painting_menu:
+  texture: blossom_studios:cosmetic_menu/ui/cosmetic_painting_menu
+  ascent: 13
+  height: 256
+  char: ꖪ
+preview_common:
+  texture: blossom_studios:cosmetic_menu/ui/preview_common
+  ascent: -22
+  height: 72
+  char: ꖫ
+preview_uncommon:
+  texture: blossom_studios:cosmetic_menu/ui/preview_uncommon
+  ascent: -22
+  height: 72
+  char: ꖬ
+preview_rare:
+  texture: blossom_studios:cosmetic_menu/ui/preview_rare
+  ascent: -22
+  height: 72
+  char: ꖭ
+preview_epic:
+  texture: blossom_studios:cosmetic_menu/ui/preview_epic
+  ascent: -22
+  height: 72
+  char: ꖮ
+preview_legendary:
+  texture: blossom_studios:cosmetic_menu/ui/preview_legendary
+  ascent: -22
+  height: 72
+  char: ꖯ
+preview_locked:
+  texture: blossom_studios:cosmetic_menu/ui/preview_locked
+  ascent: -22
+  height: 72
+  char: ꖰ
+preview_unlocked:
+  texture: blossom_studios:cosmetic_menu/ui/preview_unlocked
+  ascent: -22
+  height: 72
+  char: ꖱ
+cosmetic_indicator_gray_row_1:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_gray
+  ascent: -22
+  height: 18
+  char: ꖲ
+cosmetic_indicator_gray_row_2:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_gray
+  ascent: -40
+  height: 18
+  char: ꖳ
+cosmetic_indicator_gray_row_3:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_gray
+  ascent: -58
+  height: 18
+  char: ꖴ
+cosmetic_indicator_gray_row_4:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_gray
+  ascent: -76
+  height: 18
+  char: ꖵ
+cosmetic_indicator_red_row_1:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_red
+  ascent: -22
+  height: 18
+  char: ꖶ
+cosmetic_indicator_red_row_2:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_red
+  ascent: -40
+  height: 18
+  char: ꖷ
+cosmetic_indicator_red_row_3:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_red
+  ascent: -58
+  height: 18
+  char: ꖸ
+cosmetic_indicator_red_row_4:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_red
+  ascent: -76
+  height: 18
+  char: ꖹ
+cosmetic_indicator_green_row_1:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_green
+  ascent: -22
+  height: 18
+  char: ꖺ
+cosmetic_indicator_green_row_2:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_green
+  ascent: -40
+  height: 18
+  char: ꖻ
+cosmetic_indicator_green_row_3:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_green
+  ascent: -58
+  height: 18
+  char: ꖼ
+cosmetic_indicator_green_row_4:
+  texture: blossom_studios:cosmetic_menu/ui/indicator_green
+  ascent: -76
+  height: 18
+  char: ꖽ
+cnumber_0:
+  texture: blossom_studios:cosmetic_menu/ui/number/0
+  ascent: -100
+  height: 7
+  char: ꖾ
+
+cnumber_1:
+  texture: blossom_studios:cosmetic_menu/ui/number/1
+  ascent: -100
+  height: 7
+  char: ꖿ
+
+cnumber_2:
+  texture: blossom_studios:cosmetic_menu/ui/number/2
+  ascent: -100
+  height: 7
+  char: ꗀ
+
+cnumber_3:
+  texture: blossom_studios:cosmetic_menu/ui/number/3
+  ascent: -100
+  height: 7
+  char: ꗁ
+
+cnumber_4:
+  texture: blossom_studios:cosmetic_menu/ui/number/4
+  ascent: -100
+  height: 7
+  char: ꗂ
+
+cnumber_5:
+  texture: blossom_studios:cosmetic_menu/ui/number/5
+  ascent: -100
+  height: 7
+  char: ꗃ
+
+cnumber_6:
+  texture: blossom_studios:cosmetic_menu/ui/number/6
+  ascent: -100
+  height: 7
+  char: ꗄ
+
+cnumber_7:
+  texture: blossom_studios:cosmetic_menu/ui/number/7
+  ascent: -100
+  height: 7
+  char: ꗆ
+
+cnumber_8:
+  texture: blossom_studios:cosmetic_menu/ui/number/8
+  ascent: -100
+  height: 7
+  char: ꗇ
+
+cnumber_9:
+  texture: blossom_studios:cosmetic_menu/ui/number/9
+  ascent: -100
+  height: 7
+  char: ꗈ
+
+cnumber_slash:
+  texture: blossom_studios:cosmetic_menu/ui/number/slash
+  ascent: -100
+  height: 7
+  char: ꗉ
+# cXexVDWvhUefJzZmB3bxVVexM1VuVDMatEZFVGSapnWPR2VXllSHhnNOVlcnllSHhnNOFWY

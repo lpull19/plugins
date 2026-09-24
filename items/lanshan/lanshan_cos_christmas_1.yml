@@ -1,0 +1,107 @@
+winter_knitted_hat:
+  itemname: Winter Knitted Hat
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/winter_knitted_hat
+    custom_model_data: 242901
+winter_scarf:
+  itemname: Winter Scarf
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/winter_scarf
+    custom_model_data: 242902
+winter_scarf_thirdperson:
+  itemname: Winter Scarf Thirdperson
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/winter_scarf_thirdperson
+    custom_model_data: 242903
+winter_candy_cane_prop:
+  itemname: Winter Candy Cane
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/winter_candy_cane_prop
+    custom_model_data: 242904
+winter_penguin_balloon:
+  itemname: Winter Penguin Balloon
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/winter_penguin_balloon
+    custom_model_data: 242905
+festive_reindeer_antlers:
+  itemname: Festive Reindeer Antlers
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/festive_reindeer_antlers
+    custom_model_data: 242906
+festive_robe:
+  itemname: Festive Robe
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/festive_robe
+    custom_model_data: 242907
+festive_robe_thirdperson:
+  itemname: Festive Robe Thirdperson
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/festive_robe_thirdperson
+    custom_model_data: 242908
+festive_bell:
+  itemname: Festive Bell
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/festive_bell
+    custom_model_data: 242909
+festive_reindeer_balloon:
+  itemname: Festive Reindeer Balloon
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/festive_reindeer_balloon
+    custom_model_data: 242910
+nutcracker_hat:
+  itemname: Nutcracker Hat
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/nutcracker_hat
+    custom_model_data: 242911
+nutcracker_drum:
+  itemname: Nutcracker Drum
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/nutcracker_drum
+    custom_model_data: 242912
+nutcracker_drum_thirdperson:
+  itemname: Nutcracker Drum Thirdperson
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/nutcracker_drum_thirdperson
+    custom_model_data: 242913
+nutcracker_baton:
+  itemname: Nutcracker Baton
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/nutcracker_baton
+    custom_model_data: 242914
+nutcracker_biplane:
+  itemname: Nutcracker Biplane
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/christmas_1/nutcracker_biplane
+    custom_model_data: 242915
+
+# MjS150V0EjdOxUQrNDcwh3dxs2UzcmMOZDZHVlbOJjTvZkMOpkenB1Yo1UY3okenB1YoplW

@@ -1,0 +1,114 @@
+tags:
+  texture: gui/cosmetic/tags
+  ascent: 14
+  height: 256
+  char: ꐹ
+
+message:
+  texture: gui/cosmetic/message
+  ascent: 14
+  height: 256
+  char: ꐺ
+
+name_colour:
+  texture: gui/cosmetic/name_colour
+  ascent: 14
+  height: 256
+  char: ꐻ
+
+chat_colour:
+  texture: gui/cosmetic/chat_colour
+  ascent: 14
+  height: 256
+  char: ꐼ
+
+gui_spawner_storage:
+  texture: gui/spawner_storage
+  ascent: 14
+  height: 256
+  char: ꗒ
+
+gui_spawner_stacking:
+  texture: gui/spawner_stacking
+  ascent: 14
+  height: 256
+  char: ꗓ
+
+rtp:
+  texture: gui/rtp_menu
+  ascent: 14
+  height: 256
+  char: ꐽ
+
+keys:
+  texture: gui/crate_keys
+  ascent: 14
+  height: 256
+  char: ꐾ
+
+warps:
+  texture: gui/warps
+  ascent: 14
+  height: 256
+  char: ꗖ
+
+
+rank_upgrades:
+  texture: gui/rank_upgrades
+  ascent: 14
+  height: 256
+  char: ꗗ
+
+ranks:
+  texture: gui/ranks
+  ascent: 14
+  height: 256
+  char: ꗘ
+
+cosmetics_main:
+  texture: gui/cosmetics
+  ascent: 14
+  height: 256
+  char: ꗙ
+
+repair_menu:
+  texture: gui/repair_menu
+  ascent: 14
+  height: 256
+  char: ꗚ
+
+skill_leaderboards:
+  texture: gui/skill_leaderboards
+  ascent: 14
+  height: 256
+  char: ꗛ
+
+adaptation_detail:
+  texture: gui/adaptation_detail
+  ascent: 14
+  height: 256
+  char: ꗜ
+
+generic:
+  texture: gui/generic
+  ascent: 14
+  height: 256
+  char: ꗝ
+
+menu_dungeons:
+  texture: gui/menu_dungeons
+  ascent: 14
+  height: 256
+  char: ꗞ
+
+relic_merge_menu:
+  texture: gui/relic_merge_menu
+  ascent: 14
+  height: 256
+  char: ꗟ
+
+relic_separate_menu:
+  texture: gui/relic_separate_menu
+  ascent: 14
+  height: 256
+  char: ꗠ

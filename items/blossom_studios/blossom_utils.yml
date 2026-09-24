@@ -1,0 +1,12 @@
+b_invisible_item:
+  itemname: ''
+  material: PAPER
+  Pack:
+    texture: blossom_studios:blossom_utils/item/invisible_item.png
+    custom_model_data: 5500
+b_player_head:
+  itemname: 2D Player Head
+  Pack:
+    model: blossom_studios:blossom_utils/item/2d_head
+  Components:
+    item_model: blossom_studios:2d_head

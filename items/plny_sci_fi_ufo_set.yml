@@ -1,0 +1,232 @@
+plny_sci_fi_ufo_set_galactic_beacon_staff:
+  Pack:
+    custom_model_data: 9925789
+    model: plny_sci_fi_ufo_set:galactic_beacon_staff
+  itemname: <white>Sci Fi Galactic Beacon Staff
+  material: NETHERITE_SWORD
+  permission: plny_sci_fi_ufo_set.galactic_beacon_staff
+plny_sci_fi_ufo_set_mini_ufo_hat:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: plny_sci_fi_ufo_set:mini_ufo_hat
+  itemname: <white>Sci Fi Mini Ufo Hat
+  material: PAPER
+  permission: plny_sci_fi_ufo_set.mini_ufo_hat
+plny_sci_fi_ufo_set_abduction_ray_emitter:
+  Pack:
+    model: plny_sci_fi_ufo_set:abduction_ray_emitter
+  itemname: <white>Sci Fi Abduction Ray Emitter
+  material: PAPER
+  permission: plny_sci_fi_ufo_set.abduction_ray_emitter
+plny_sci_fi_ufo_set_hologram_scanner_gun:
+  Pack:
+    model: plny_sci_fi_ufo_set:hologram_scanner_gun
+  itemname: <white>Sci Fi Hologram Scanner Gun
+  material: PAPER
+  permission: plny_sci_fi_ufo_set.hologram_scanner_gun
+plny_sci_fi_ufo_set_ufo_backpack_v1:
+  Pack:
+    model: plny_sci_fi_ufo_set:ufo_backpack_v1
+  itemname: <white>Sci Fi Ufo Backpack V1
+  material: PAPER
+  permission: plny_sci_fi_ufo_set.ufo_backpack_v1
+plny_sci_fi_ufo_set_ufo_backpack_v2:
+  Pack:
+    model: plny_sci_fi_ufo_set:ufo_backpack_v2
+  itemname: <white>Sci Fi Ufo Backpack V2
+  material: PAPER
+  permission: plny_sci_fi_ufo_set.ufo_backpack_v2
+plny_sci_fi_ufo_set_ufo_jetpack_backpack:
+  Pack:
+    model: plny_sci_fi_ufo_set:ufo_jetpack_backpack
+  itemname: <white>Sci Fi Ufo Jetpack Backpack
+  material: PAPER
+  permission: plny_sci_fi_ufo_set.ufo_jetpack_backpack
+plny_sci_fi_ufo_set_alien_visor_helmet_3d:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: plny_sci_fi_ufo_set:alien_visor_helmet
+  itemname: <white>Sci Fi Alien Visor Helmet
+  material: PAPER
+  permission: plny_sci_fi_ufo_set.alien_visor_helmet
+plny_sci_fi_ufo_set_starfield_bubble_helmet_3d:
+  AttributeModifiers:
+  - amount: 2
+    attribute: GENERIC_ARMOR
+    operation: ADD_NUMBER
+    slot: HEAD
+  Components:
+    equippable:
+      slot: HEAD
+    max_damage: 165
+  Pack:
+    model: plny_sci_fi_ufo_set:starfield_bubble_helmet
+  itemname: <white>Sci Fi Starfield Bubble Helmet
+  material: PAPER
+  permission: plny_sci_fi_ufo_set.starfield_bubble_helmet
+plny_sci_fi_ufo_set_cosmetics_alien_visor_helmet_3d:
+  Pack:
+    custom_model_data: 9925507
+    model: plny_sci_fi_ufo_set:alien_visor_helmet
+  customname: <white>Sci Fi Helmet Cosmetics
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_alien_visor_helmet
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_mini_ufo_hat:
+  Pack:
+    custom_model_data: 9925508
+    model: plny_sci_fi_ufo_set:mini_ufo_hat
+  customname: <white>Sci Fi Mini Ufo Hat Cosmetics
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_mini_ufo_hat
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_starfield_bubble_helmet_3d:
+  Pack:
+    custom_model_data: 9925509
+    model: plny_sci_fi_ufo_set:starfield_bubble_helmet
+  customname: <white>Sci Fi Helmet Cosmetics
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_starfield_bubble_helmet
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v1:
+  Pack:
+    custom_model_data: 9925510
+    model: plny_sci_fi_ufo_set:ufo_backpack_v1_cosmetic
+  customname: <white>Sci Fi Ufo Backpack V1 Cosmetics
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v1
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v1_normal_2:
+  Pack:
+    custom_model_data: 9925513
+    model: plny_sci_fi_ufo_set:ufo_backpack_v1_cosmetic_normal_2
+  customname: <white>Sci Fi Ufo Backpack V1 Cosmetics Normal 2
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v1_normal_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v1_self:
+  Pack:
+    custom_model_data: 9925511
+    model: plny_sci_fi_ufo_set:ufo_backpack_v1_cosmetic_self
+  customname: <white>Sci Fi Ufo Backpack V1 Cosmetics Self
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v1_self
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v1_self_2:
+  Pack:
+    custom_model_data: 9925512
+    model: plny_sci_fi_ufo_set:ufo_backpack_v1_cosmetic_self_2
+  customname: <white>Sci Fi Ufo Backpack V1 Cosmetics Self 2
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v1_self_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v2:
+  Pack:
+    custom_model_data: 9925514
+    model: plny_sci_fi_ufo_set:ufo_backpack_v2_cosmetic
+  customname: <white>Sci Fi Ufo Backpack V2 Cosmetics
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v2_normal_2:
+  Pack:
+    custom_model_data: 9925517
+    model: plny_sci_fi_ufo_set:ufo_backpack_v2_cosmetic_normal_2
+  customname: <white>Sci Fi Ufo Backpack V2 Cosmetics Normal 2
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v2_normal_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v2_self:
+  Pack:
+    custom_model_data: 9925515
+    model: plny_sci_fi_ufo_set:ufo_backpack_v2_cosmetic_self
+  customname: <white>Sci Fi Ufo Backpack V2 Cosmetics Self
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v2_self
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v2_self_2:
+  Pack:
+    custom_model_data: 9925516
+    model: plny_sci_fi_ufo_set:ufo_backpack_v2_cosmetic_self_2
+  customname: <white>Sci Fi Ufo Backpack V2 Cosmetics Self 2
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_backpack_v2_self_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_jetpack_backpack:
+  Pack:
+    custom_model_data: 9925518
+    model: plny_sci_fi_ufo_set:ufo_jetpack_backpack_cosmetic
+  customname: <white>Sci Fi Ufo Jetpack Backpack Cosmetics
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_jetpack_backpack
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_jetpack_backpack_normal_2:
+  Pack:
+    custom_model_data: 9925521
+    model: plny_sci_fi_ufo_set:ufo_jetpack_backpack_cosmetic_normal_2
+  customname: <white>Sci Fi Ufo Jetpack Backpack Cosmetics Normal 2
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_jetpack_backpack_normal_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_jetpack_backpack_self:
+  Pack:
+    custom_model_data: 9925519
+    model: plny_sci_fi_ufo_set:ufo_jetpack_backpack_cosmetic_self
+  customname: <white>Sci Fi Ufo Jetpack Backpack Cosmetics Self
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_jetpack_backpack_self
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers
+plny_sci_fi_ufo_set_cosmetics_ufo_jetpack_backpack_self_2:
+  Pack:
+    custom_model_data: 9925520
+    model: plny_sci_fi_ufo_set:ufo_jetpack_backpack_cosmetic_self_2
+  customname: <white>Sci Fi Ufo Jetpack Backpack Cosmetics Self 2
+  material: POTION
+  permission: plny_sci_fi_ufo_set.plny_sci_fi_ufo_set_cosmetics_ufo_jetpack_backpack_self_2
+  Components:
+    tooltip_display:
+    - minecraft:attribute_modifiers

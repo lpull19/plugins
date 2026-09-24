@@ -1,0 +1,37 @@
+icecream_hat:
+  itemname: Ice-Cream Hat
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/icecream/icecream_hat
+    custom_model_data: 240801
+soda_backpack:
+  itemname: Soda Backpack
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/icecream/soda_backpack
+    custom_model_data: 240802
+soda_backpack_thirdperson:
+  itemname: Soda Backpack Thirdperson
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/icecream/soda_backpack_thirdperson
+    custom_model_data: 240803
+icecream_prop:
+  itemname: Ice-Cream
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/icecream/icecream_prop
+    custom_model_data: 240804
+popsicle_prop:
+  itemname: Popsicle
+  material: LEATHER_HORSE_ARMOR
+  color: 255, 255, 255
+  Pack:
+    model: lanshan/cosmetics/icecream/popsicle_prop
+    custom_model_data: 240805
+
+# 770JCV2PRKVD3Z26E711
